@@ -288,21 +288,44 @@ def li_report() -> dict:
 
 
 def li_export() -> dict:
+    """Export analysis results to all formats (HTML, PDF, PPTX).
+    
+    Emits SSE event with export status and paths.
+    Falls back gracefully if PDF/PPTX libraries not available.
+    """
     os.makedirs(OUT_DIR, exist_ok=True)
     
     # Export HTML (existing)
-    p_html = os.path.join(OUT_DIR, "report.html")
-    with open(p_html, "w", encoding="utf-8") as f:
-        f.write(_render_html(_report_obj()))
+    try:
+        p_html = os.path.join(OUT_DIR, "report.html")
+        with open(p_html, "w", encoding="utf-8") as f:
+            f.write(_render_html(_report_obj()))
+        _emit("export_progress", {"format": "html", "status": "complete", "path": p_html})
+    except Exception as e:
+        print(f"❌ HTML export failed: {e}")
+        _emit("export_progress", {"format": "html", "status": "error", "error": str(e)})
+        p_html = None
     
     # Export PDF and PPTX (new)
     try:
         from linkintel import exporters
-        domain = RUN.get("site", "website.com")
-        exports = exporters.export_results(_A, OUT_DIR, domain, ["pdf", "pptx"])
+        domain = RUN.get("site", "website.com") or "website.com"
+        
+        _emit("export_progress", {"format": "pdf_pptx", "status": "starting"})
+        exports = exporters.export_results(_A, OUT_DIR, domain, ["pdf", "pptx"], verbose=False)
         
         p_pdf = os.path.join(OUT_DIR, f"report_{domain.replace('.', '_')}.pdf") if exports.get("pdf") else None
         p_pptx = os.path.join(OUT_DIR, f"report_{domain.replace('.', '_')}.pptx") if exports.get("pptx") else None
+        
+        if exports.get("pdf"):
+            _emit("export_progress", {"format": "pdf", "status": "complete", "path": p_pdf})
+        else:
+            _emit("export_progress", {"format": "pdf", "status": "skipped", "reason": "export_failed"})
+            
+        if exports.get("pptx"):
+            _emit("export_progress", {"format": "pptx", "status": "complete", "path": p_pptx})
+        else:
+            _emit("export_progress", {"format": "pptx", "status": "skipped", "reason": "export_failed"})
         
         _emit("exported", {
             "html": p_html,
@@ -320,10 +343,16 @@ def li_export() -> dict:
             "pptx": p_pptx,
             "formats": exports
         }
-    except ImportError:
-        print("⚠️  exporters module not found; skipping PDF/PPTX generation")
+    except ImportError as e:
+        print(f"⚠️  Export library not available: {e}")
+        _emit("export_progress", {"format": "pdf_pptx", "status": "skipped", "reason": "library_not_installed"})
         _emit("exported", {"html": p_html, "pdf": None, "pptx": None})
-        return {"html": p_html, "pdf": None, "pptx": None}
+        return {"html": p_html, "pdf": None, "pptx": None, "formats": {"pdf": False, "pptx": False}}
+    except Exception as e:
+        print(f"❌ PDF/PPTX export failed: {e}")
+        _emit("export_progress", {"format": "pdf_pptx", "status": "error", "error": str(e)})
+        _emit("exported", {"html": p_html, "pdf": None, "pptx": None})
+        return {"html": p_html, "pdf": None, "pptx": None, "formats": {"pdf": False, "pptx": False}}
 
 
 def _render_html(o) -> str:
