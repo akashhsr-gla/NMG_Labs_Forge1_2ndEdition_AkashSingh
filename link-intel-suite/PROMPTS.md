@@ -1,31 +1,76 @@
-# PROMPTS.md - my key prompts log
+# PROMPTS.md
 
-Keep the handful of prompts that actually moved the build. Not every message - the ones that
-mattered: the system/sub-agent prompts, the ones you iterated on, the "this finally worked"
-moment. Paste them here MANUALLY as you go.
+## Prompt 1
 
-Why manual? Some free Ollama cloud models do not save a local session log, so an auto audit
-log may be empty. That is fine and expected (see the brief's Model Fairness section). What
-guarantees your process is judged fairly is: the working plugin + reproducible report.json,
-incremental git commits, this PROMPTS.md, and a short DECISIONS.md. Keep these up to date.
+**Prompt:**
+"Analyze linkintel/analyzer.py.
 
-Format per entry:
-- **Prompt** (paste it)
-- **For:** what you were trying to do
-- **Revised?** did you have to change it, and why
+Improve GENERIC_ANCHORS.
+
+Add sensible generic anchor variants:
+
+* read here
+* learn here
+* visit page
+* explore more
+* check this out
+* get started
+* see also
+* read full article
+* click for more
+
+Do not modify any other logic.
+
+Show me the diff before applying."
+
+**For:**
+Improving detection of generic anchor text patterns for the anchor audit section.
+
+**Revised?**
+No. Applied directly after reviewing the diff.
 
 ---
 
-## Example (replace with your own)
+## Prompt 2
 
-- **Prompt:** "Extend linkintel/analyzer.py over_optimized_anchors: flag a destination where
-  one non-generic anchor is >= 60% of all internal anchors pointing at it AND count >= 10.
-  Run python linkintel/analyzer.py and show the counts."
-- **For:** completing the over-optimized exact-match anchor rule
-- **Revised?** Yes - first version flagged tiny destinations; added the count >= 10 floor.
+**Prompt:**
+"Modify ONLY the function link_candidates() in linkintel/analyzer.py.
 
----
+Do NOT modify:
 
-## My prompts
-1. ...
-2. ...
+* cluster_pages()
+* relatedness()
+* anchor_analysis()
+* graph_stats()
+* any other file
+
+Current problem:
+The recommendation engine ranks pages only using:
+
+1. Unique Inlinks
+2. Keyword-overlap relatedness
+
+Goal:
+Improve recommendation quality using deterministic page-quality scoring based on data already available in internal_html.csv.
+
+Available columns:
+
+* Word Count
+* Unique Inlinks
+* Link Score
+* Crawl Depth
+
+Requirements:
+
+1. Create a page-quality scoring system.
+2. Rank candidates using:
+   final_score = 0.7 * relatedness + 0.3 * quality
+3. Keep output schema unchanged.
+4. Do not modify report.json schema.
+5. Show diff before applying."
+
+**For:**
+Improving contextual internal-link recommendation ranking using authority and content metrics rather than relatedness alone.
+
+**Revised?**
+Yes. Removed dependence on Semantic Relevance Score and moved to fully deterministic crawl metrics after testing.

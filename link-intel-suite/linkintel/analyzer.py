@@ -276,48 +276,142 @@ def page_keywords(page, body: str, top=12) -> list[str]:
 
 
 def cluster_pages(pages, page_text, n_keywords=12) -> dict:
-    """Group indexable pages into topical clusters.
-
-    STARTER heuristic: cluster by first URL path segment (e.g. /success-stories/,
-    /blog/, root services). For each cluster compute a hub candidate = the member
-    with the most internal inlinks. Replace/augment with a real keyword/TF or
-    embedding clustering and let the model NAME each cluster (topic-agent).
+    """Group indexable pages into topical clusters using a hybrid approach:
+    URL-path grouping + keyword-based splitting for large clusters.
     """
-    idx200 = [p for p in pages if is_html(p) and is_200(p) and indexable(p)]
-    clusters = defaultdict(list)
-    kw = {}
+
+    idx200 = [
+        p for p in pages
+        if is_html(p) and is_200(p) and indexable(p)
+    ]
+
+    # 1. Initial URL-path clustering
+    url_clusters = defaultdict(list)
+    kw_map = {}
+
     for p in idx200:
         u = _norm(p["Address"])
+
         path = urlparse(u).path.strip("/")
         seg = path.split("/")[0] if path else "(home)"
-        clusters[seg].append(u)
-        kw[u] = page_keywords(p, page_text.get(u, ""), n_keywords)
 
-    out = []
-    inl = {_norm(p["Address"]): _int(p.get("Unique Inlinks")) for p in idx200}
-    for seg, members in sorted(clusters.items(), key=lambda x: -len(x[1])):
-        members = sorted(members)
-        hub = max(members, key=lambda u: inl.get(u, 0)) if members else None
-        hub_inlinks = inl.get(hub, 0)
-        member_inl = sorted((inl.get(m, 0) for m in members), reverse=True)
-        # authority signal: clear hub if the top page has >=2x the 2nd page's inlinks
-        clear_hub = bool(len(member_inl) >= 2 and hub_inlinks >= 2 * (member_inl[1] or 1))
-        # cluster keywords = most common across members (placeholder name)
-        ck = Counter()
+        url_clusters[seg].append(u)
+
+        kw_map[u] = page_keywords(
+            p,
+            page_text.get(u, ""),
+            n_keywords
+        )
+
+    # 2. Hybrid splitting for large clusters
+    final_clusters = []
+
+    for seg, members in url_clusters.items():
+
+        if len(members) < 25:
+            final_clusters.append((seg, members))
+            continue
+
+        all_kws = []
+
         for m in members:
-            ck.update(kw.get(m, []))
+            all_kws.extend(kw_map.get(m, []))
+
+        dominant_kws = [
+            w
+            for w, c in Counter(all_kws).most_common(8)
+        ]
+
+        unassigned = set(members)
+        sub_clusters = []
+
+        for kw in dominant_kws:
+
+            matches = [
+                m
+                for m in unassigned
+                if kw in kw_map.get(m, [])
+            ]
+
+            if len(matches) >= 3:
+                sub_clusters.append(
+                    (f"{seg}_{kw}", matches)
+                )
+
+                for m in matches:
+                    unassigned.remove(m)
+
+        if unassigned:
+            sub_clusters.append(
+                (
+                    f"{seg}_general",
+                    list(unassigned)
+                )
+            )
+
+        final_clusters.extend(sub_clusters)
+
+    # 3. Authority detection + output formatting
+    out = []
+
+    inl = {
+        _norm(p["Address"]): _int(p.get("Unique Inlinks"))
+        for p in idx200
+    }
+
+    for key, members in final_clusters:
+
+        members = sorted(members)
+
+        hub = max(
+            members,
+            key=lambda u: inl.get(u, 0)
+        ) if members else None
+
+        hub_inlinks = inl.get(hub, 0)
+
+        member_inl = sorted(
+            (inl.get(m, 0) for m in members),
+            reverse=True
+        )
+
+        clear_hub = (
+            len(member_inl) >= 2
+            and hub_inlinks >= 2 * (member_inl[1] or 1)
+        )
+
+        ck = Counter()
+
+        for m in members:
+            ck.update(kw_map.get(m, []))
+
+        top_kws = [
+            w
+            for w, _ in ck.most_common(10)
+        ]
+
+        if top_kws:
+            name = top_kws[0].replace("-", " ").title()
+        else:
+            name = key.replace("_", " ").title()
+
         out.append({
-            "key": seg,
-            "name": None,  # TODO: model names this cluster (topic-agent)
+            "key": key,
+            "name": name,
             "size": len(members),
             "pages": members,
             "hub_page": hub,
             "hub_inlinks": hub_inlinks,
             "authority": "hub" if clear_hub else "scattered",
-            "keywords": [w for w, _ in ck.most_common(8)],
+            "keywords": top_kws,
         })
-    return {"clusters": out, "page_keywords": kw}
 
+    out.sort(key=lambda x: -x["size"])
+
+    return {
+        "clusters": out,
+        "page_keywords": kw_map,
+    }
 
 # --------------------------------------------------------------------------- #
 # 4. ENTITY GRAPH  (starter: TF-overlap relatedness; TODO: model entities)
@@ -505,7 +599,6 @@ def link_candidates(graph, relate: dict, pages, max_per_page=5) -> list:
             })
 
     return out
-
 
 # --------------------------------------------------------------------------- #
 # orchestration entry used by server.py / run.py

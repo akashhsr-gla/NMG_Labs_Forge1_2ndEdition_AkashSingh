@@ -8,7 +8,7 @@
     "orphan_pages": 0,
     "broken_internal_links": 73,
     "generic_anchors": 158,
-    "topical_clusters": 33,
+    "topical_clusters": 37,
     "link_recommendations": 30
   },
   "link_graph": {
@@ -18016,21 +18016,13 @@
   },
   "topical_clusters": [
     {
-      "key": "blog",
-      "name": null,
-      "size": 106,
+      "key": "blog_development",
+      "name": "Development",
+      "size": 62,
       "pages": [
         "https://nmgtechnologies.com/blog",
-        "https://nmgtechnologies.com/blog/10-best-html-css-frameworks-for-2015",
-        "https://nmgtechnologies.com/blog/10-ways-to-find-the-best-outsourcing-team",
-        "https://nmgtechnologies.com/blog/5-website-design-trends-invest-2017",
-        "https://nmgtechnologies.com/blog/50-mobile-app-kpis",
         "https://nmgtechnologies.com/blog/8-reasons-to-choose-android-application-development-over-ios",
-        "https://nmgtechnologies.com/blog/ada-compliance-website-checklist",
         "https://nmgtechnologies.com/blog/advantages-building-app-dot-net-technology",
-        "https://nmgtechnologies.com/blog/advantages-of-asp-net-core",
-        "https://nmgtechnologies.com/blog/app-store-optimization-tips",
-        "https://nmgtechnologies.com/blog/augmented-reality-business-apps",
         "https://nmgtechnologies.com/blog/author/aniket-singh",
         "https://nmgtechnologies.com/blog/author/nishtha",
         "https://nmgtechnologies.com/blog/author/nishtha/page/2",
@@ -18041,37 +18033,17 @@
         "https://nmgtechnologies.com/blog/author/nishtha/page/7",
         "https://nmgtechnologies.com/blog/author/nishtha/page/8",
         "https://nmgtechnologies.com/blog/author/nmg",
-        "https://nmgtechnologies.com/blog/avoid-web-design-feedback-mistakes",
-        "https://nmgtechnologies.com/blog/best-call-to-action-buttons",
-        "https://nmgtechnologies.com/blog/best-practices-contact-us-page",
         "https://nmgtechnologies.com/blog/best-practices-offshore-software-development",
-        "https://nmgtechnologies.com/blog/best-tools-and-rules-for-mobile-ab-testing",
-        "https://nmgtechnologies.com/blog/choose-the-perfect-e-commerce-platform",
         "https://nmgtechnologies.com/blog/consulting-can-save-building-bad-tech",
-        "https://nmgtechnologies.com/blog/core-php-vs-php-framework",
-        "https://nmgtechnologies.com/blog/covid-19-resources",
         "https://nmgtechnologies.com/blog/custom-web-applications",
-        "https://nmgtechnologies.com/blog/digital-marketing-guide",
         "https://nmgtechnologies.com/blog/ecommerce",
         "https://nmgtechnologies.com/blog/ecommerce-website-development",
         "https://nmgtechnologies.com/blog/frameworks-hybrid-app-development",
-        "https://nmgtechnologies.com/blog/good-design-vs-great-design",
-        "https://nmgtechnologies.com/blog/google-penalty-recovery-case-study",
-        "https://nmgtechnologies.com/blog/grow-your-website-conversions-2020",
-        "https://nmgtechnologies.com/blog/how-to-build-an-app-like-uber",
-        "https://nmgtechnologies.com/blog/how-to-increase-your-website-traffic",
-        "https://nmgtechnologies.com/blog/industry-roundup-december-2013",
-        "https://nmgtechnologies.com/blog/least-expensive-way-increase-sales-e-commerce-store",
-        "https://nmgtechnologies.com/blog/marketing-tips-for-smbs",
         "https://nmgtechnologies.com/blog/mobile-app-analytics-tools",
-        "https://nmgtechnologies.com/blog/must-have-pages-on-your-ecommerce-site",
-        "https://nmgtechnologies.com/blog/new-media-gurus-webinar-and-workshop-on-digital-marketing-strategies-for-smbs-startups",
         "https://nmgtechnologies.com/blog/nmg-recognized-top-performing-mobile-app-development-company-goodfirms",
         "https://nmgtechnologies.com/blog/nmg-technologies-made-list-top-mobile-app-development-companies-goodfirms",
-        "https://nmgtechnologies.com/blog/nmg-technologies-nigeria-meet",
         "https://nmgtechnologies.com/blog/nmg-technologies-participated-in-softwave-2023-the-republic-of-korea-software-exhibition",
         "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-leap-2023-tech-conference-in-riyadh-saudi-arabia",
-        "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-mobile-word-capital-barcelona-the-worlds-largest-and-most-influential-connectivity-event",
         "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-retail-innovation-conference-and-expo-2023-in-chicago",
         "https://nmgtechnologies.com/blog/nmg-technologies-to-sponsor-and-exhibit-at-brighton-seo-2023-and-online-pr-show-2023",
         "https://nmgtechnologies.com/blog/nmg-to-participate-in-the-largest-tech-expo-in-the-middle-east-gitex-global-2022-dubai",
@@ -18087,13 +18059,7 @@
         "https://nmgtechnologies.com/blog/page/8",
         "https://nmgtechnologies.com/blog/page/9",
         "https://nmgtechnologies.com/blog/php-and-open-source",
-        "https://nmgtechnologies.com/blog/principles-quality-web-design",
-        "https://nmgtechnologies.com/blog/requirement-gathering-solve-biggest-problems-consulting",
         "https://nmgtechnologies.com/blog/requirement-gathering-the-most-important-step-to-begin-your-start-up-journey",
-        "https://nmgtechnologies.com/blog/sempo-hangouts-session-user-experience",
-        "https://nmgtechnologies.com/blog/startup-india-event-2016-key-highlights",
-        "https://nmgtechnologies.com/blog/stay-ahead-of-the-game-with-koora-break-your-ultimate-companion-for-football-updates",
-        "https://nmgtechnologies.com/blog/steps-to-create-engaging-mobile-app-content",
         "https://nmgtechnologies.com/blog/tag/design",
         "https://nmgtechnologies.com/blog/tag/events",
         "https://nmgtechnologies.com/blog/tag/events/page/2",
@@ -18107,25 +18073,15 @@
         "https://nmgtechnologies.com/blog/tag/search-engine-optimization",
         "https://nmgtechnologies.com/blog/tag/technology",
         "https://nmgtechnologies.com/blog/tag/web",
-        "https://nmgtechnologies.com/blog/the-hourly-model-of-hiring-resources",
-        "https://nmgtechnologies.com/blog/top-12-web-design-trends-you-must-follow-in-2020",
         "https://nmgtechnologies.com/blog/top-ten-php-framework-to-look-out-in-2020",
         "https://nmgtechnologies.com/blog/top-ways-find-right-outsourcing-company",
-        "https://nmgtechnologies.com/blog/top-web-building-tools-platforms",
-        "https://nmgtechnologies.com/blog/top-wordpress-themes",
-        "https://nmgtechnologies.com/blog/typographic-etiquette",
         "https://nmgtechnologies.com/blog/ui-ux-mobile-app-development",
-        "https://nmgtechnologies.com/blog/ways-to-track-competitor-marketing-strategy",
         "https://nmgtechnologies.com/blog/web-application-development-with-angularjs",
         "https://nmgtechnologies.com/blog/web-application-php-laravel-framework",
         "https://nmgtechnologies.com/blog/web-application-testing-checklist",
-        "https://nmgtechnologies.com/blog/web-design-best-practices",
-        "https://nmgtechnologies.com/blog/website-redesign-process",
-        "https://nmgtechnologies.com/blog/why-does-enterprise-mobility-solutions-become-so-popular",
         "https://nmgtechnologies.com/blog/why-mobile-app-fails",
         "https://nmgtechnologies.com/blog/wireframes-mobile-app-development",
-        "https://nmgtechnologies.com/blog/wordpress-website-perfect-solution-small-business",
-        "https://nmgtechnologies.com/blog/working-from-home-during-the-coronavirus-lockdown"
+        "https://nmgtechnologies.com/blog/wordpress-website-perfect-solution-small-business"
       ],
       "hub_page": "https://nmgtechnologies.com/blog",
       "hub_inlinks": 218,
@@ -18134,16 +18090,18 @@
         "development",
         "software",
         "time",
-        "web",
-        "mobile",
-        "design",
         "estimated",
-        "reading"
+        "reading",
+        "minutes",
+        "mobile",
+        "web",
+        "nmg",
+        "design"
       ]
     },
     {
       "key": "success-stories",
-      "name": null,
+      "name": "Platform",
       "size": 23,
       "pages": [
         "https://nmgtechnologies.com/success-stories",
@@ -18181,12 +18139,58 @@
         "seo",
         "search",
         "nmg",
-        "project"
+        "project",
+        "organic",
+        "mobile"
+      ]
+    },
+    {
+      "key": "blog_general",
+      "name": "Business",
+      "size": 22,
+      "pages": [
+        "https://nmgtechnologies.com/blog/10-ways-to-find-the-best-outsourcing-team",
+        "https://nmgtechnologies.com/blog/ada-compliance-website-checklist",
+        "https://nmgtechnologies.com/blog/app-store-optimization-tips",
+        "https://nmgtechnologies.com/blog/augmented-reality-business-apps",
+        "https://nmgtechnologies.com/blog/best-call-to-action-buttons",
+        "https://nmgtechnologies.com/blog/choose-the-perfect-e-commerce-platform",
+        "https://nmgtechnologies.com/blog/covid-19-resources",
+        "https://nmgtechnologies.com/blog/digital-marketing-guide",
+        "https://nmgtechnologies.com/blog/google-penalty-recovery-case-study",
+        "https://nmgtechnologies.com/blog/industry-roundup-december-2013",
+        "https://nmgtechnologies.com/blog/least-expensive-way-increase-sales-e-commerce-store",
+        "https://nmgtechnologies.com/blog/marketing-tips-for-smbs",
+        "https://nmgtechnologies.com/blog/must-have-pages-on-your-ecommerce-site",
+        "https://nmgtechnologies.com/blog/new-media-gurus-webinar-and-workshop-on-digital-marketing-strategies-for-smbs-startups",
+        "https://nmgtechnologies.com/blog/nmg-technologies-nigeria-meet",
+        "https://nmgtechnologies.com/blog/requirement-gathering-solve-biggest-problems-consulting",
+        "https://nmgtechnologies.com/blog/sempo-hangouts-session-user-experience",
+        "https://nmgtechnologies.com/blog/startup-india-event-2016-key-highlights",
+        "https://nmgtechnologies.com/blog/stay-ahead-of-the-game-with-koora-break-your-ultimate-companion-for-football-updates",
+        "https://nmgtechnologies.com/blog/top-wordpress-themes",
+        "https://nmgtechnologies.com/blog/ways-to-track-competitor-marketing-strategy",
+        "https://nmgtechnologies.com/blog/working-from-home-during-the-coronavirus-lockdown"
+      ],
+      "hub_page": "https://nmgtechnologies.com/blog/stay-ahead-of-the-game-with-koora-break-your-ultimate-companion-for-football-updates",
+      "hub_inlinks": 43,
+      "authority": "hub",
+      "keywords": [
+        "business",
+        "website",
+        "what",
+        "which",
+        "new",
+        "marketing",
+        "google",
+        "need",
+        "small",
+        "how"
       ]
     },
     {
       "key": "services",
-      "name": null,
+      "name": "Services",
       "size": 21,
       "pages": [
         "https://nmgtechnologies.com/services/crm-development",
@@ -18222,12 +18226,47 @@
         "solutions",
         "business",
         "custom",
-        "web"
+        "web",
+        "mobile",
+        "design"
+      ]
+    },
+    {
+      "key": "blog_web",
+      "name": "Web",
+      "size": 11,
+      "pages": [
+        "https://nmgtechnologies.com/blog/10-best-html-css-frameworks-for-2015",
+        "https://nmgtechnologies.com/blog/advantages-of-asp-net-core",
+        "https://nmgtechnologies.com/blog/best-practices-contact-us-page",
+        "https://nmgtechnologies.com/blog/core-php-vs-php-framework",
+        "https://nmgtechnologies.com/blog/good-design-vs-great-design",
+        "https://nmgtechnologies.com/blog/grow-your-website-conversions-2020",
+        "https://nmgtechnologies.com/blog/principles-quality-web-design",
+        "https://nmgtechnologies.com/blog/top-12-web-design-trends-you-must-follow-in-2020",
+        "https://nmgtechnologies.com/blog/top-web-building-tools-platforms",
+        "https://nmgtechnologies.com/blog/typographic-etiquette",
+        "https://nmgtechnologies.com/blog/web-design-best-practices"
+      ],
+      "hub_page": "https://nmgtechnologies.com/blog/principles-quality-web-design",
+      "hub_inlinks": 11,
+      "authority": "scattered",
+      "keywords": [
+        "web",
+        "website",
+        "design",
+        "best",
+        "what",
+        "framework",
+        "nishtha",
+        "know",
+        "which",
+        "make"
       ]
     },
     {
       "key": "company",
-      "name": null,
+      "name": "Development",
       "size": 6,
       "pages": [
         "https://nmgtechnologies.com/company/about-us",
@@ -18248,12 +18287,14 @@
         "digital",
         "solutions",
         "marketing",
-        "design"
+        "design",
+        "project",
+        "approach"
       ]
     },
     {
       "key": "solution",
-      "name": null,
+      "name": "Development",
       "size": 6,
       "pages": [
         "https://nmgtechnologies.com/solution/artificial-intelligence",
@@ -18274,12 +18315,42 @@
         "business",
         "secure",
         "web",
-        "data"
+        "data",
+        "advanced",
+        "efficiency"
+      ]
+    },
+    {
+      "key": "blog_mobile",
+      "name": "Mobile",
+      "size": 6,
+      "pages": [
+        "https://nmgtechnologies.com/blog/50-mobile-app-kpis",
+        "https://nmgtechnologies.com/blog/best-tools-and-rules-for-mobile-ab-testing",
+        "https://nmgtechnologies.com/blog/how-to-build-an-app-like-uber",
+        "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-mobile-word-capital-barcelona-the-worlds-largest-and-most-influential-connectivity-event",
+        "https://nmgtechnologies.com/blog/steps-to-create-engaging-mobile-app-content",
+        "https://nmgtechnologies.com/blog/why-does-enterprise-mobility-solutions-become-so-popular"
+      ],
+      "hub_page": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-mobile-word-capital-barcelona-the-worlds-largest-and-most-influential-connectivity-event",
+      "hub_inlinks": 45,
+      "authority": "hub",
+      "keywords": [
+        "mobile",
+        "app",
+        "how",
+        "what",
+        "which",
+        "need",
+        "users",
+        "user",
+        "information",
+        "kpis"
       ]
     },
     {
       "key": "resources",
-      "name": null,
+      "name": "Development",
       "size": 5,
       "pages": [
         "https://nmgtechnologies.com/resources/faq",
@@ -18299,12 +18370,41 @@
         "mobile",
         "how",
         "business",
-        "nmg"
+        "nmg",
+        "web",
+        "developer"
+      ]
+    },
+    {
+      "key": "blog_time",
+      "name": "Time",
+      "size": 5,
+      "pages": [
+        "https://nmgtechnologies.com/blog/5-website-design-trends-invest-2017",
+        "https://nmgtechnologies.com/blog/avoid-web-design-feedback-mistakes",
+        "https://nmgtechnologies.com/blog/how-to-increase-your-website-traffic",
+        "https://nmgtechnologies.com/blog/the-hourly-model-of-hiring-resources",
+        "https://nmgtechnologies.com/blog/website-redesign-process"
+      ],
+      "hub_page": "https://nmgtechnologies.com/blog/how-to-increase-your-website-traffic",
+      "hub_inlinks": 9,
+      "authority": "scattered",
+      "keywords": [
+        "time",
+        "design",
+        "website",
+        "which",
+        "web",
+        "project",
+        "when",
+        "trends",
+        "images",
+        "many"
       ]
     },
     {
       "key": "industry",
-      "name": null,
+      "name": "Solutions",
       "size": 5,
       "pages": [
         "https://nmgtechnologies.com/industry/fintech",
@@ -18324,12 +18424,14 @@
         "secure",
         "services",
         "data",
-        "technologies"
+        "technologies",
+        "fintech",
+        "financial"
       ]
     },
     {
       "key": "work",
-      "name": null,
+      "name": "Nmg",
       "size": 4,
       "pages": [
         "https://nmgtechnologies.com/work/advanced-seo",
@@ -18348,12 +18450,14 @@
         "responsive",
         "provided",
         "web",
-        "project"
+        "project",
+        "website",
+        "work"
       ]
     },
     {
       "key": "(home)",
-      "name": null,
+      "name": "Nmg",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com"
@@ -18369,12 +18473,14 @@
         "business",
         "inc",
         "software",
-        "development"
+        "development",
+        "businesses",
+        "results"
       ]
     },
     {
       "key": "wordpress-development",
-      "name": null,
+      "name": "Wordpress",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/wordpress-development"
@@ -18390,12 +18496,14 @@
         "services",
         "solutions",
         "websites",
-        "company"
+        "company",
+        "website",
+        "design"
       ]
     },
     {
       "key": "disclaimer",
-      "name": null,
+      "name": "India",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/disclaimer"
@@ -18411,12 +18519,14 @@
         "pvt",
         "ltd",
         "job",
-        "review"
+        "review",
+        "money",
+        "disclaimer"
       ]
     },
     {
       "key": "ai-powered-business-process-transformation",
-      "name": null,
+      "name": "Workflows",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-powered-business-process-transformation"
@@ -18432,12 +18542,14 @@
         "compliance",
         "across",
         "ai-powered",
-        "operational"
+        "operational",
+        "ai-driven",
+        "transformation"
       ]
     },
     {
       "key": "ai-driven-devops-cloud-automation",
-      "name": null,
+      "name": "Cloud",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-driven-devops-cloud-automation"
@@ -18453,12 +18565,14 @@
         "intelligent",
         "ai-driven",
         "predictive",
-        "faster"
+        "faster",
+        "system",
+        "resources"
       ]
     },
     {
       "key": "ai-driven-business-transformation-consulting",
-      "name": null,
+      "name": "Business",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-driven-business-transformation-consulting"
@@ -18474,12 +18588,14 @@
         "operations",
         "efficiency",
         "consulting",
-        "models"
+        "models",
+        "management",
+        "deliver"
       ]
     },
     {
       "key": "ai-optimized-ecommerce-solutions",
-      "name": null,
+      "name": "Customer",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions"
@@ -18495,12 +18611,14 @@
         "personalized",
         "measurable",
         "recommendations",
-        "ai-powered"
+        "ai-powered",
+        "product",
+        "intelligent"
       ]
     },
     {
       "key": "ai-powered-saas-development",
-      "name": null,
+      "name": "Saas",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-powered-saas-development"
@@ -18516,12 +18634,14 @@
         "ai-powered",
         "scalable",
         "analytics",
-        "predictive"
+        "predictive",
+        "content",
+        "automation"
       ]
     },
     {
       "key": "ai-strategy-implementation-consulting",
-      "name": null,
+      "name": "Consulting",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-strategy-implementation-consulting"
@@ -18537,12 +18657,14 @@
         "across",
         "adoption",
         "operations",
-        "systems"
+        "systems",
+        "implementation",
+        "help"
       ]
     },
     {
       "key": "privacy-policy",
-      "name": null,
+      "name": "Information",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/privacy-policy"
@@ -18558,12 +18680,14 @@
         "privacy",
         "data",
         "site",
-        "user"
+        "user",
+        "policy",
+        "use"
       ]
     },
     {
       "key": "agentic-ai",
-      "name": null,
+      "name": "Agentic",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/agentic-ai"
@@ -18579,12 +18703,14 @@
         "automation",
         "autonomy",
         "risks",
-        "beyond"
+        "beyond",
+        "businesses",
+        "intelligence"
       ]
     },
     {
       "key": "contact-us",
-      "name": null,
+      "name": "Let",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/contact-us"
@@ -18600,12 +18726,14 @@
         "build",
         "future",
         "contact",
-        "nmg"
+        "nmg",
+        "technologies",
+        "skip"
       ]
     },
     {
       "key": "ai-enhanced-web-mobile-application-development",
-      "name": null,
+      "name": "Apps",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-enhanced-web-mobile-application-development"
@@ -18621,12 +18749,14 @@
         "adaptive",
         "experiences",
         "mobile",
-        "engagement"
+        "engagement",
+        "user",
+        "app"
       ]
     },
     {
       "key": "ai-driven-enterprise-software-development",
-      "name": null,
+      "name": "Enterprise",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-driven-enterprise-software-development"
@@ -18642,12 +18772,14 @@
         "business",
         "efficiency",
         "development",
-        "systems"
+        "systems",
+        "improve",
+        "ai-powered"
       ]
     },
     {
       "key": "ai-machine-learning-solutions",
-      "name": null,
+      "name": "Learning",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ai-machine-learning-solutions"
@@ -18663,12 +18795,14 @@
         "models",
         "business",
         "intelligence",
-        "customer"
+        "customer",
+        "across",
+        "workflows"
       ]
     },
     {
       "key": "get-custom-pricing",
-      "name": null,
+      "name": "Nmg",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/get-custom-pricing"
@@ -18684,12 +18818,14 @@
         "requirements",
         "personalized",
         "estimates",
-        "tech"
+        "tech",
+        "business",
+        "fill"
       ]
     },
     {
       "key": "sitemap",
-      "name": null,
+      "name": "Development",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/sitemap"
@@ -18705,12 +18841,14 @@
         "design",
         "nmg",
         "ecommerce",
-        "web"
+        "web",
+        "technologies",
+        "skip"
       ]
     },
     {
       "key": "download-content-editorial-calendar",
-      "name": null,
+      "name": "Nmg",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/download-content-editorial-calendar"
@@ -18726,12 +18864,14 @@
         "free",
         "calendar",
         "fitness",
-        "what"
+        "what",
+        "equipment",
+        "gluten"
       ]
     },
     {
       "key": "download-outsourcingrules-ebook",
-      "name": null,
+      "name": "Nmg",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/download-outsourcingrules-ebook"
@@ -18747,12 +18887,14 @@
         "fitness",
         "technologies",
         "free",
-        "equipment"
+        "equipment",
+        "gluten",
+        "business"
       ]
     },
     {
       "key": "download-appdevelopmentcost-ebook",
-      "name": null,
+      "name": "App",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/download-appdevelopmentcost-ebook"
@@ -18768,12 +18910,14 @@
         "development",
         "fitness",
         "technologies",
-        "help"
+        "help",
+        "free",
+        "equipment"
       ]
     },
     {
       "key": "download-developmental-checklist",
-      "name": null,
+      "name": "Nmg",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/download-developmental-checklist"
@@ -18789,12 +18933,14 @@
         "checklist",
         "fitness",
         "time",
-        "need"
+        "need",
+        "project",
+        "free"
       ]
     },
     {
       "key": "mobile-development-checklist",
-      "name": null,
+      "name": "App",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/mobile-development-checklist"
@@ -18810,12 +18956,14 @@
         "development",
         "free",
         "fitness",
-        "equipment"
+        "equipment",
+        "gluten",
+        "business"
       ]
     },
     {
       "key": "clients",
-      "name": null,
+      "name": "Inc",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/clients/case-studies"
@@ -18831,12 +18979,14 @@
         "stories",
         "content",
         "case",
-        "studies"
+        "studies",
+        "nasdaq",
+        "companies"
       ]
     },
     {
       "key": "ecommerce-checklist",
-      "name": null,
+      "name": "Nmg",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/ecommerce-checklist"
@@ -18852,12 +19002,14 @@
         "business",
         "fitness",
         "launch",
-        "checklist"
+        "checklist",
+        "work",
+        "free"
       ]
     },
     {
       "key": "advanced-seo-case-studies",
-      "name": null,
+      "name": "Seo",
       "size": 1,
       "pages": [
         "https://nmgtechnologies.com/advanced-seo-case-studies"
@@ -18873,7 +19025,9 @@
         "case",
         "ranking",
         "organic",
-        "traffic"
+        "traffic",
+        "months",
+        "website"
       ]
     }
   ],
