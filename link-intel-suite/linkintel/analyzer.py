@@ -267,12 +267,86 @@ def _tokens(text: str) -> list[str]:
 
 def page_keywords(page, body: str, top=12) -> list[str]:
     """Cheap TF keywords from Title + H1 + H2 + body (deterministic)."""
-    blob = " ".join([
-        page.get("Title 1", "") or "", (page.get("H1-1", "") or "") + " ",
-        page.get("H2-1", "") or "", page.get("H2-2", "") or "", (body or "")[:6000],
-    ])
-    c = Counter(_tokens(blob))
-    return [w for w, _ in c.most_common(top)]
+    import inspect
+    import re
+    from collections import Counter
+
+    # Initialize cache on the function object
+    if not hasattr(page_keywords, "cache"):
+        page_keywords.cache = None
+
+    # Lazy-build sitewide frequency filter
+    if page_keywords.cache is None:
+        caller = inspect.currentframe().f_back
+
+        all_pages = caller.f_locals.get("pages", [])
+        all_texts = caller.f_locals.get("page_text", {})
+
+        idx200 = [
+            p for p in all_pages
+            if is_html(p) and is_200(p) and indexable(p)
+        ]
+
+        total_pages = len(idx200)
+
+        if total_pages > 0:
+            doc_freq = Counter()
+
+            for p in idx200:
+                u = _norm(p["Address"])
+
+                blob = " ".join([
+                    p.get("Title 1", "") or "",
+                    p.get("H1-1", "") or "",
+                    p.get("H2-1", "") or "",
+                    p.get("H2-2", "") or "",
+                    all_texts.get(u, "")[:6000],
+                ])
+
+                tokens = set(
+                    re.findall(
+                        r"[a-z][a-z0-9\-]{3,}",
+                        blob.lower()
+                    )
+                )
+
+                doc_freq.update(tokens)
+
+            page_keywords.cache = {
+                token
+                for token, count in doc_freq.items()
+                if count / total_pages > 0.30
+            }
+        else:
+            page_keywords.cache = set()
+
+    c = Counter()
+
+    weighted_sources = [
+        (page.get("Title 1", "") or "", 5),
+        (page.get("H1-1", "") or "", 4),
+        (page.get("H2-1", "") or "", 3),
+        (page.get("H2-2", "") or "", 3),
+        ((body or "")[:6000], 1),
+    ]
+
+    for text, weight in weighted_sources:
+        tokens = re.findall(
+            r"[a-z][a-z0-9\-]{3,}",
+            (text or "").lower()
+        )
+
+        for token in tokens:
+            if token not in page_keywords.cache:
+                c[token] += weight
+
+    filtered_c = Counter({
+        token: count
+        for token, count in c.items()
+        if token not in page_keywords.cache
+    })
+
+    return [word for word, _ in filtered_c.most_common(top)]
 
 
 def cluster_pages(pages, page_text, n_keywords=12) -> dict:
