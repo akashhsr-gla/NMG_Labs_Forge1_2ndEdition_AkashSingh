@@ -358,31 +358,152 @@ def relatedness(page_keywords: dict, top_per_page=5) -> dict:
 # 5. CONTEXTUAL LINK RECOMMENDATIONS  (starter: candidates; model writes anchors)
 # --------------------------------------------------------------------------- #
 def link_candidates(graph, relate: dict, pages, max_per_page=5) -> list:
-    """For each important page, find topically-related pages it does NOT already
-    link to. The model (linker-agent) turns each candidate into a final
-    recommendation with a suggested anchor.
-
-    STARTER returns the raw candidates (deterministic). It does NOT write anchors -
-    that is the model's job (see agents/linker.md).
     """
-    idx200 = [p for p in pages if is_html(p) and is_200(p) and indexable(p)]
-    inl = {_norm(p["Address"]): _int(p.get("Unique Inlinks")) for p in idx200}
-    # "important" = top pages by inlinks (hubs/money pages). Tune as needed.
-    important = sorted(inl, key=lambda u: -inl[u])[:40]
+    For each important page, find topically-related pages it does NOT already
+    link to.
+
+    Ranking:
+        70% topical relatedness
+        30% page quality
+
+    Page quality is determined using:
+        - Word Count
+        - Unique Inlinks
+        - Link Score
+        - Crawl Depth
+
+    Archive/navigation pages are penalized but not excluded.
+    """
+
+    idx200 = [
+        p for p in pages
+        if is_html(p) and is_200(p) and indexable(p)
+    ]
+
+    # -----------------------------
+    # Normalization statistics
+    # -----------------------------
+    max_inlinks = max(
+     (_int(p.get("Unique Inlinks"), 0) for p in idx200),
+     default=1
+    )
+
+    max_link_score = max(
+     (_int(p.get("Link Score"), 0) for p in idx200),
+     default=1
+    )
+
+    max_depth = max(
+     (_int(p.get("Crawl Depth"), 0) for p in idx200),
+     default=1
+    )
+    max_inlinks = max(max_inlinks, 1)
+    max_link_score = max(max_link_score, 1)
+    max_depth = max(max_depth, 1)
+    # -----------------------------
+    # Page quality score
+    # -----------------------------
+    def page_quality(page):
+     word_count = _int(page.get("Word Count"), 0)
+     unique_inlinks = _int(page.get("Unique Inlinks"), 0)
+     link_score = _int(page.get("Link Score"), 0)
+     crawl_depth = _int(page.get("Crawl Depth"), 0)
+
+     word_score = min(word_count / 2000.0, 1.0)
+
+     inlink_score = (
+        min(unique_inlinks / max_inlinks, 1.0)
+        if max_inlinks > 0 else 0.0
+     )
+
+     link_score_norm = (
+        min(link_score / max_link_score, 1.0)
+        if max_link_score > 0 else 0.0
+     )
+
+     depth_score = (
+        1.0 - min(crawl_depth / max_depth, 1.0)
+        if max_depth > 0 else 0.0
+     )
+
+     return (
+        0.35 * word_score +
+        0.35 * inlink_score +
+        0.20 * link_score_norm +
+        0.10 * depth_score
+     )
+
+    # -----------------------------
+    # Precompute quality
+    # -----------------------------
+    qualities = {}
+
+    for p in idx200:
+        qualities[_norm(p["Address"])] = page_quality(p)
+
+    # Important pages = top hubs
+    inl = {
+        _norm(p["Address"]): _int(p.get("Unique Inlinks"))
+        for p in idx200
+    }
+
+    important = sorted(
+        inl,
+        key=lambda u: -inl[u]
+    )[:40]
+
     out = []
+
     for u in important:
+
         already = graph["out"].get(u, set())
-        cands = []
+
+        scored_candidates = []
+
         for e in relate.get(u, []):
+
             v = e["to"]
+
             if v in already or v == u:
                 continue
-            cands.append({"target": v, "relatedness": e["score"], "shared_topics": e["shared"],
-                          "suggested_anchor": None})  # TODO: model writes the anchor
-            if len(cands) >= max_per_page:
-                break
-        if cands:
-            out.append({"source": u, "candidates": cands})
+
+            relatedness_score = e["score"]
+            quality_score = qualities.get(v, 0.0)
+
+            final_score = (
+                0.70 * relatedness_score +
+                0.30 * quality_score
+            )
+
+            scored_candidates.append({
+                "target": v,
+                "relatedness": relatedness_score,
+                "shared_topics": e["shared"],
+                "suggested_anchor": None,
+                "_score": final_score,
+            })
+
+        scored_candidates.sort(
+            key=lambda x: x["_score"],
+            reverse=True
+        )
+
+        final_candidates = []
+
+        for c in scored_candidates[:max_per_page]:
+            final_candidates.append({
+                "target": c["target"],
+                "relatedness": c["relatedness"],
+                "shared_topics": c["shared_topics"],
+                "suggested_anchor": c["suggested_anchor"],
+            })
+
+        if final_candidates:
+            out.append({
+                "source": u,
+                "candidates": final_candidates,
+            })
+
     return out
 
 

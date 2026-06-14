@@ -7,7 +7,7 @@
     "internal_links": 12420,
     "orphan_pages": 0,
     "broken_internal_links": 73,
-    "generic_anchors": 157,
+    "generic_anchors": 158,
     "topical_clusters": 33,
     "link_recommendations": 30
   },
@@ -10559,6 +10559,11 @@
         "source": "https://growth.nmgtechnologies.com/brightonseo",
         "destination": "https://nmgtechnologies.com/blog/nmg-technologies-to-sponsor-and-exhibit-at-brighton-seo-and-online-pr-show-2023.html",
         "anchor": "View More"
+      },
+      {
+        "source": "https://nmgtechnologies.com/blog/ada-compliance-website-checklist",
+        "destination": "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards/web-based-intranet-and-internet-information-and-applications-1194-22",
+        "anchor": "Read here"
       },
       {
         "source": "https://nmgtechnologies.com/blog/industry-roundup-december-2013",
@@ -29953,17 +29958,17 @@
     },
     {
       "source": "https://nmgtechnologies.com/company/outsourcing",
-      "target": "https://nmgtechnologies.com/blog/tag/design",
-      "suggested_anchor": null,
-      "relatedness": 0.263,
-      "reason": "shared topics: best, design, development, software, time"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/outsourcing",
       "target": "https://nmgtechnologies.com/blog/best-practices-offshore-software-development",
       "suggested_anchor": null,
       "relatedness": 0.263,
       "reason": "shared topics: best, development, project, software, work"
+    },
+    {
+      "source": "https://nmgtechnologies.com/company/outsourcing",
+      "target": "https://nmgtechnologies.com/blog/tag/design",
+      "suggested_anchor": null,
+      "relatedness": 0.263,
+      "reason": "shared topics: best, design, development, software, time"
     },
     {
       "source": "https://nmgtechnologies.com/company/outsourcing",
@@ -30002,24 +30007,17 @@
     },
     {
       "source": "https://nmgtechnologies.com/blog",
-      "target": "https://nmgtechnologies.com/blog/tag/events/page/2",
-      "suggested_anchor": null,
-      "relatedness": 0.5,
-      "reason": "shared topics: development, estimated, events, nmg, reading, search"
-    },
-    {
-      "source": "https://nmgtechnologies.com/blog",
       "target": "https://nmgtechnologies.com/blog/page/6",
       "suggested_anchor": null,
       "relatedness": 0.5,
       "reason": "shared topics: development, estimated, events, minutes, mobile, reading"
     },
     {
-      "source": "https://nmgtechnologies.com/company/careers",
-      "target": "https://nmgtechnologies.com/blog/php-and-open-source",
+      "source": "https://nmgtechnologies.com/blog",
+      "target": "https://nmgtechnologies.com/blog/tag/events/page/2",
       "suggested_anchor": null,
-      "relatedness": 0.143,
-      "reason": "shared topics: applications, php, web"
+      "relatedness": 0.5,
+      "reason": "shared topics: development, estimated, events, nmg, reading, search"
     },
     {
       "source": "https://nmgtechnologies.com/company/careers",
@@ -30031,6 +30029,13 @@
     {
       "source": "https://nmgtechnologies.com/company/careers",
       "target": "https://nmgtechnologies.com/blog/top-ten-php-framework-to-look-out-in-2020",
+      "suggested_anchor": null,
+      "relatedness": 0.143,
+      "reason": "shared topics: applications, php, web"
+    },
+    {
+      "source": "https://nmgtechnologies.com/company/careers",
+      "target": "https://nmgtechnologies.com/blog/php-and-open-source",
       "suggested_anchor": null,
       "relatedness": 0.143,
       "reason": "shared topics: applications, php, web"
@@ -30100,17 +30105,17 @@
     },
     {
       "source": "https://nmgtechnologies.com/agentic-ai",
-      "target": "https://nmgtechnologies.com/ai-powered-business-process-transformation",
-      "suggested_anchor": null,
-      "relatedness": 0.143,
-      "reason": "shared topics: across, automation, business"
-    },
-    {
-      "source": "https://nmgtechnologies.com/agentic-ai",
       "target": "https://nmgtechnologies.com/ai-machine-learning-solutions",
       "suggested_anchor": null,
       "relatedness": 0.143,
       "reason": "shared topics: across, business, intelligence"
+    },
+    {
+      "source": "https://nmgtechnologies.com/agentic-ai",
+      "target": "https://nmgtechnologies.com/ai-powered-business-process-transformation",
+      "suggested_anchor": null,
+      "relatedness": 0.143,
+      "reason": "shared topics: across, automation, business"
     },
     {
       "source": "https://nmgtechnologies.com/agentic-ai",
