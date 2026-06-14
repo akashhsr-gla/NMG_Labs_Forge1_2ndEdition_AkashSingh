@@ -289,11 +289,41 @@ def li_report() -> dict:
 
 def li_export() -> dict:
     os.makedirs(OUT_DIR, exist_ok=True)
-    p = os.path.join(OUT_DIR, "report.html")
-    with open(p, "w", encoding="utf-8") as f:
+    
+    # Export HTML (existing)
+    p_html = os.path.join(OUT_DIR, "report.html")
+    with open(p_html, "w", encoding="utf-8") as f:
         f.write(_render_html(_report_obj()))
-    _emit("exported", {"path": p})
-    return {"path": p}
+    
+    # Export PDF and PPTX (new)
+    try:
+        from linkintel import exporters
+        domain = RUN.get("site", "website.com")
+        exports = exporters.export_results(_A, OUT_DIR, domain, ["pdf", "pptx"])
+        
+        p_pdf = os.path.join(OUT_DIR, f"report_{domain.replace('.', '_')}.pdf") if exports.get("pdf") else None
+        p_pptx = os.path.join(OUT_DIR, f"report_{domain.replace('.', '_')}.pptx") if exports.get("pptx") else None
+        
+        _emit("exported", {
+            "html": p_html,
+            "pdf": p_pdf,
+            "pptx": p_pptx,
+            "formats": {
+                "pdf": exports.get("pdf", False),
+                "pptx": exports.get("pptx", False),
+            }
+        })
+        
+        return {
+            "html": p_html,
+            "pdf": p_pdf,
+            "pptx": p_pptx,
+            "formats": exports
+        }
+    except ImportError:
+        print("⚠️  exporters module not found; skipping PDF/PPTX generation")
+        _emit("exported", {"html": p_html, "pdf": None, "pptx": None})
+        return {"html": p_html, "pdf": None, "pptx": None}
 
 
 def _render_html(o) -> str:

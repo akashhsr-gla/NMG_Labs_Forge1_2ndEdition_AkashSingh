@@ -1,0 +1,8 @@
+# Link Intel Suite Dependencies
+
+# Core analysis (uses standard library, but these are optional enhancements)
+python-pptx>=0.6.21
+WeasyPrint>=58.0
+
+# For advanced processing (optional but recommended)
+Pillow>=10.0.0

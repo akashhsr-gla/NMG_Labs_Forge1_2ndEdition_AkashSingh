@@ -15,11 +15,22 @@ Everything you need to build the challenge in 6 hours.
 ## Run it
 ```bash
 cd link-intel-suite
+pip install -r ../requirements.txt
 pip install mcp
 python run.py ../sample-export/
 # live cockpit: http://localhost:7700
-# outputs: link-intel-suite/outputs/report.json + report.html
+# outputs: link-intel-suite/outputs/report.{json,html,pdf,pptx}
 ```
+
+## Export Formats
+
+The analyzer now generates professional reports in three formats:
+
+- **report.html** - Interactive HTML dashboard
+- **report_[domain].pdf** - Print-ready PDF report (WeasyPrint)
+- **report_[domain].pptx** - PowerPoint presentation (python-pptx)
+
+See [EXPORTERS.md](EXPORTERS.md) for full documentation on PDF/PPTX export features and customization.
 
 ## Model fairness (8 GB laptops welcome)
 You may use Ollama free **cloud** models (e.g. `gpt-oss:20b-cloud`, `gemma3:27b-cloud`,
