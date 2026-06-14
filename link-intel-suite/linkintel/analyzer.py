@@ -354,7 +354,11 @@ def _url_slug(url: str) -> str:
 
 
 def _assign_topic(kws: list[str], url: str) -> str | None:
-    """Try to assign a broad topic label from TOPIC_VOCAB."""
+    """Try to assign a broad topic label from TOPIC_VOCAB.
+    
+    Requires at least 3 matching vocab terms (keywords or prefix matches)
+    to avoid single-word false positives.
+    """
     combined = set(kws) | set(_tokenize(_url_slug(url)))
     best_topic = None
     best_score = 0
@@ -364,7 +368,8 @@ def _assign_topic(kws: list[str], url: str) -> str | None:
         if score > best_score:
             best_score = score
             best_topic = topic
-    return best_topic if best_score >= 1 else None
+    # Higher threshold: require at least 3 vocab matches to avoid mis-assignment
+    return best_topic if best_score >= 3 else None
 
 
 def _topic_display_name(topic_key: str) -> str:
@@ -388,19 +393,29 @@ def _topic_display_name(topic_key: str) -> str:
         "blockchain": "Blockchain / Web3",
         "analytics": "Analytics & BI",
     }
-    return names.get(topic_key, topic_key.replace("_", " ").title())
+    if topic_key in names:
+        return names[topic_key]
+    # Handle internal fallback buckets
+    if topic_key == "_uncategorized":
+        return "Uncategorized"
+    if topic_key.startswith("_path_"):
+        seg = topic_key[6:]  # Remove "_path_" prefix
+        return seg.replace("-", " ").title() if seg and seg != "home" else "Uncategorized"
+    # Generic dynamic names
+    return topic_key.replace("_", " ").title()
 
 
 def cluster_pages(pages: list[dict], page_text: dict) -> dict:
     """
     Semantic keyword clustering:
       1. Build per-page TF-IDF keywords (with sitewide IDF)
-      2. Assign each page to a broad topic via TOPIC_VOCAB
-      3. Pages that don't match any topic → fallback path-prefix bucket
-      4. Merge any bucket with < MIN_SIZE into 'Other'
+      2. Assign each page to a broad topic via TOPIC_VOCAB (strict 3-word threshold)
+      3. Pages without topic match → fallback path-prefix bucket (_path_*)
+      4. Merge path buckets with < 2 pages and small topic clusters into 'Uncategorized'
       5. Compute hub + authority for each cluster
     """
-    MIN_CLUSTER_SIZE = 3  # merge smaller clusters into Other
+    MIN_CLUSTER_SIZE = 3  # merge smaller topic clusters
+    MIN_PATH_THRESHOLD = 2  # merge _path_ buckets with < 2 pages into Uncategorized
 
     idx200 = [p for p in pages if is_html(p) and is_200(p) and indexable(p)]
     idf = build_idf(pages, page_text)
@@ -423,21 +438,29 @@ def cluster_pages(pages: list[dict], page_text: dict) -> dict:
         if u in topic_map:
             buckets[topic_map[u]].append(u)
         else:
-            # Fallback: first meaningful path segment
+            # Fallback: first meaningful path segment with _path_ prefix (internal key)
             path = urlparse(u).path.strip("/")
-            seg = path.split("/")[0] if path else "_home"
+            seg = path.split("/")[0] if path else "home"
             buckets[f"_path_{seg}"].append(u)
 
-    # Merge tiny clusters into "other"
-    other: list[str] = []
+    # Merge small _path_ buckets into 'uncategorized' to reduce UI clutter
+    uncategorized: list[str] = []
     final_buckets: dict[str, list[str]] = {}
     for key, members in buckets.items():
-        if len(members) < MIN_CLUSTER_SIZE and key.startswith("_path_"):
-            other.extend(members)
+        if key.startswith("_path_"):
+            # For _path_ buckets: merge if smaller than threshold
+            if len(members) < MIN_PATH_THRESHOLD:
+                uncategorized.extend(members)
+            else:
+                final_buckets[key] = members
         else:
-            final_buckets[key] = members
-    if other:
-        final_buckets["other"] = other
+            # For topic buckets: merge if smaller than cluster threshold
+            if len(members) < MIN_CLUSTER_SIZE:
+                uncategorized.extend(members)
+            else:
+                final_buckets[key] = members
+    if uncategorized:
+        final_buckets["_uncategorized"] = uncategorized
 
     # Build output
     inl = {_norm(p["Address"]): _int(p.get("Unique Inlinks")) for p in idx200}
@@ -460,14 +483,8 @@ def cluster_pages(pages: list[dict], page_text: dict) -> dict:
             ck.update(kw_map.get(m, []))
         top_kws = [w for w, _ in ck.most_common(12)]
 
-        # Display name
-        if key.startswith("_"):
-            if top_kws:
-                name = top_kws[0].replace("-", " ").title()
-            else:
-                name = key.lstrip("_").replace("path_", "").replace("_", " ").title()
-        else:
-            name = _topic_display_name(key)
+        # Display name: use _topic_display_name for all keys (handles _path_ cleaning)
+        name = _topic_display_name(key)
 
         out.append({
             "key": key,
