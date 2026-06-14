@@ -51,6 +51,28 @@ def _site(pages):
     except Exception: return "unknown"
 
 
+def _flatten_candidates(link_candidates: list) -> list[dict]:
+    flat = []
+    for blk in link_candidates:
+        for c in blk["candidates"]:
+            flat.append({
+                "source": blk["source"],
+                "target": c["target"],
+                "suggested_anchor": c.get("suggested_anchor"),
+                "relatedness": c["relatedness"],
+                "reason": "shared topics: " + ", ".join(c["shared_topics"])
+            })
+    return flat
+
+
+def _auto_push_recommendations():
+    flat = _flatten_candidates(_A.get("link_candidates", []))
+    _A["final_recs"] = flat
+    RUN["link_recommendations"] = flat
+    RUN["recommendations"] = len(flat)
+    _emit("recommendations", {"count": len(flat), "items": flat})
+
+
 # ---------- pipeline tools (importable by run.py without MCP) ----------
 def li_load(export_dir: str) -> dict:
     res = analyzer.analyze(export_dir)
@@ -60,6 +82,12 @@ def li_load(export_dir: str) -> dict:
                 "page_text_count": res["page_text_count"]})
     _emit("loaded", {"site": RUN["site"], "urls": RUN["urls"],
                      "page_text": res["page_text_count"]})
+
+    li_graph()
+    li_anchors()
+    li_topics()
+    _auto_push_recommendations()
+
     return {"urls": RUN["urls"], "site": RUN["site"], "page_text": res["page_text_count"]}
 
 
