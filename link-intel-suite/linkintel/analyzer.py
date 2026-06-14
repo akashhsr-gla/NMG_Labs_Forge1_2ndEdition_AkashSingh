@@ -264,64 +264,59 @@ def _tokens(text: str) -> list[str]:
     return [w for w in re.findall(r"[a-z][a-z0-9\-]{2,}", (text or "").lower())
             if w not in STOPWORDS]
 
-
+TOPIC_BLOCKLIST = {
+    "years",
+    "provided",
+    "similar",
+    "information",
+    "contact",
+    "advanced",
+    "learn",
+    "pricing",
+    "home",
+    "welcome",
+    "services",
+    "solutions",
+}
 def page_keywords(page, body: str, top=12) -> list[str]:
-    """Cheap TF keywords from Title + H1 + H2 + body (deterministic)."""
+    """TF-IDF keywords from Title + H1 + H2 + body with bigram support (deterministic)."""
     import inspect
     import re
+    import math
     from collections import Counter
 
-    # Initialize cache on the function object
-    if not hasattr(page_keywords, "cache"):
-        page_keywords.cache = None
+    # Cache for sitewide document frequencies
+    if not hasattr(page_keywords, "df"):
+        page_keywords.df = None
+        page_keywords.total = 0
 
-    # Lazy-build sitewide frequency filter
-    if page_keywords.cache is None:
+    if page_keywords.df is None:
         caller = inspect.currentframe().f_back
-
         all_pages = caller.f_locals.get("pages", [])
         all_texts = caller.f_locals.get("page_text", {})
+        idx200 = [p for p in all_pages if is_html(p) and is_200(p) and indexable(p)]
+        page_keywords.total = len(idx200)
 
-        idx200 = [
-            p for p in all_pages
-            if is_html(p) and is_200(p) and indexable(p)
-        ]
+        df_tokens = Counter()
+        df_bigrams = Counter()
 
-        total_pages = len(idx200)
+        for p in idx200:
+            u = _norm(p["Address"])
+            blob = " ".join([p.get("Title 1", "") or "", p.get("H1-1", "") or "",
+                             p.get("H2-1", "") or "", p.get("H2-2", "") or "",
+                             all_texts.get(u, "")[:6000]]).lower()
 
-        if total_pages > 0:
-            doc_freq = Counter()
+            # Get tokens for this page to compute DF
+            tokens = re.findall(r"[a-z][a-z0-9\-]{3,}", blob)
+            filtered = [t for t in tokens if t not in STOPWORDS]
 
-            for p in idx200:
-                u = _norm(p["Address"])
+            df_tokens.update(set(filtered))
+            bigrams = [" ".join(filtered[i:i+2]) for i in range(len(filtered)-1)]
+            df_bigrams.update(set(bigrams))
 
-                blob = " ".join([
-                    p.get("Title 1", "") or "",
-                    p.get("H1-1", "") or "",
-                    p.get("H2-1", "") or "",
-                    p.get("H2-2", "") or "",
-                    all_texts.get(u, "")[:6000],
-                ])
+        page_keywords.df = {"tokens": df_tokens, "bigrams": df_bigrams}
 
-                tokens = set(
-                    re.findall(
-                        r"[a-z][a-z0-9\-]{3,}",
-                        blob.lower()
-                    )
-                )
-
-                doc_freq.update(tokens)
-
-            page_keywords.cache = {
-                token
-                for token, count in doc_freq.items()
-                if count / total_pages > 0.30
-            }
-        else:
-            page_keywords.cache = set()
-
-    c = Counter()
-
+    # Scoring weights
     weighted_sources = [
         (page.get("Title 1", "") or "", 5),
         (page.get("H1-1", "") or "", 4),
@@ -330,23 +325,41 @@ def page_keywords(page, body: str, top=12) -> list[str]:
         ((body or "")[:6000], 1),
     ]
 
+    scores = Counter()
+    total_docs = page_keywords.total
+
     for text, weight in weighted_sources:
-        tokens = re.findall(
-            r"[a-z][a-z0-9\-]{3,}",
-            (text or "").lower()
-        )
+        txt_lower = (text or "").lower()
+        tokens = re.findall(r"[a-z][a-z0-9\-]{3,}", txt_lower)
+        filtered = [t for t in tokens if t not in STOPWORDS]
 
-        for token in tokens:
-            if token not in page_keywords.cache:
-                c[token] += weight
+        # Token TF-IDF
+        for t in filtered:
+            df = page_keywords.df["tokens"].get(t, 0)
+            idf = math.log(total_docs / (df + 1)) if total_docs > 0 else 0
+            scores[t] += weight * idf
 
-    filtered_c = Counter({
-        token: count
-        for token, count in c.items()
-        if token not in page_keywords.cache
-    })
+        # Bigram TF-IDF (1.5x weight)
+        bigrams = [" ".join(filtered[i:i+2]) for i in range(len(filtered)-1)]
+        for b in bigrams:
+            df = page_keywords.df["bigrams"].get(b, 0)
+            idf = math.log(total_docs / (df + 1)) if total_docs > 0 else 0
+            scores[b] += weight * 1.5 * idf
 
-    return [word for word, _ in filtered_c.most_common(top)]
+    # Selection with near-duplicate deduplication
+    final_kws = []
+    for word, _ in scores.most_common(top * 2):
+        if word in final_kws: continue
+        is_duplicate = False
+        for existing in final_kws:
+            if (len(word) > 4 and len(existing) > 4 and
+                (word.startswith(existing) or existing.startswith(word))):
+                is_duplicate = True
+                break
+        if not is_duplicate: final_kws.append(word)
+        if len(final_kws) == top: break
+
+    return final_kws
 
 
 def cluster_pages(pages, page_text, n_keywords=12) -> dict:
