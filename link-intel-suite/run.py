@@ -57,7 +57,7 @@ def main():
     print(f"Topical clusters: {s['topical_clusters']}")
     print(f"Link suggestions: {s['link_recommendations']}")
     print("Wrote outputs/report.json and outputs/report.html")
-
-
+    while True:
+     time.sleep(1)
 if __name__ == "__main__":
     main()

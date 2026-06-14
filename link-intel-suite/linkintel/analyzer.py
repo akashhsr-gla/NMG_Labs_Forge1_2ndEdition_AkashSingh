@@ -651,25 +651,39 @@ def link_candidates(graph, relate: dict, pages, max_per_page=5) -> list:
         for e in relate.get(u, []):
 
             v = e["to"]
+            relatedness_score = e["score"]
 
-            if v in already or v == u:
+            # Basic filtering
+            if v == u or v in already or "/feed/" in v:
+              continue
+
+            if relatedness_score < 0.10:
                 continue
 
-            relatedness_score = e["score"]
             quality_score = qualities.get(v, 0.0)
 
+            # Archive-like URL filtering
+            if ("/author/" in v or "/tag/" in v) and (relatedness_score < 0.50 or quality_score < 0.50):
+                continue
+
+            if "/category/" in v and relatedness_score < 0.40:
+                continue
+
+            if "/page/" in v and relatedness_score < 0.70:
+                continue
+
             final_score = (
-              0.70 * relatedness_score +
-              0.30 * quality_score
+             0.70 * relatedness_score +
+               0.30 * quality_score
              ) * url_type_multiplier(v)
 
             scored_candidates.append({
-                "target": v,
-                "relatedness": relatedness_score,
-                "shared_topics": e["shared"],
-                "suggested_anchor": None,
-                "_score": final_score,
-            })
+               "target": v,
+              "relatedness": relatedness_score,
+              "shared_topics": e["shared"],
+               "suggested_anchor": None,
+             "_score": final_score,
+             })    
 
         scored_candidates.sort(
             key=lambda x: x["_score"],

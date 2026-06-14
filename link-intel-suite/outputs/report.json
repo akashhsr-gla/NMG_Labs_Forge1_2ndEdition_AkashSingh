@@ -9,7 +9,7 @@
     "broken_internal_links": 73,
     "generic_anchors": 158,
     "topical_clusters": 36,
-    "link_recommendations": 37
+    "link_recommendations": 11
   },
   "link_graph": {
     "internal_links": 12420,
@@ -28722,27 +28722,6 @@
   },
   "link_recommendations": [
     {
-      "source": "https://nmgtechnologies.com",
-      "target": "https://nmgtechnologies.com/clients/case-studies",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: nasdaq, results"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/about-us",
-      "target": "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: ecommerce, measurable"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/about-us",
-      "target": "https://nmgtechnologies.com/ai-driven-business-transformation-consulting",
-      "suggested_anchor": null,
-      "relatedness": 0.043,
-      "reason": "shared topics: measurable"
-    },
-    {
       "source": "https://nmgtechnologies.com/solution/augmented-reality",
       "target": "https://nmgtechnologies.com/blog/augmented-reality-business-apps",
       "suggested_anchor": null,
@@ -28755,34 +28734,6 @@
       "suggested_anchor": null,
       "relatedness": 0.2,
       "reason": "shared topics: stories, studies, success, successful"
-    },
-    {
-      "source": "https://nmgtechnologies.com/success-stories",
-      "target": "https://nmgtechnologies.com/work/ecommerce",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: products, success"
-    },
-    {
-      "source": "https://nmgtechnologies.com/success-stories",
-      "target": "https://nmgtechnologies.com/blog/tag/featured",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: studies, videos"
-    },
-    {
-      "source": "https://nmgtechnologies.com/success-stories",
-      "target": "https://nmgtechnologies.com/blog/tag/design",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: studies, videos"
-    },
-    {
-      "source": "https://nmgtechnologies.com/success-stories",
-      "target": "https://nmgtechnologies.com/blog/tag/search-engine-optimization",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: studies, videos"
     },
     {
       "source": "https://nmgtechnologies.com/resources/faq",
@@ -28804,13 +28755,6 @@
       "suggested_anchor": null,
       "relatedness": 0.143,
       "reason": "shared topics: enterprise, scale, systems"
-    },
-    {
-      "source": "https://nmgtechnologies.com/blog",
-      "target": "https://nmgtechnologies.com/blog/author/nishtha",
-      "suggested_anchor": null,
-      "relatedness": 0.846,
-      "reason": "shared topics: blog, east, engine, events, expo, gitex"
     },
     {
       "source": "https://nmgtechnologies.com/services/ecommerce-development",
@@ -28841,27 +28785,6 @@
       "reason": "shared topics: consulting, strategic, strategy"
     },
     {
-      "source": "https://nmgtechnologies.com/services/it-consulting",
-      "target": "https://nmgtechnologies.com/ai-driven-business-transformation-consulting",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: consulting, expert"
-    },
-    {
-      "source": "https://nmgtechnologies.com/contact-us",
-      "target": "https://nmgtechnologies.com/blog/best-practices-contact-us-page",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: contact, something"
-    },
-    {
-      "source": "https://nmgtechnologies.com/contact-us",
-      "target": "https://nmgtechnologies.com/blog/why-does-enterprise-mobility-solutions-become-so-popular",
-      "suggested_anchor": null,
-      "relatedness": 0.043,
-      "reason": "shared topics: future"
-    },
-    {
       "source": "https://nmgtechnologies.com/solution/artificial-intelligence",
       "target": "https://nmgtechnologies.com/ai-machine-learning-solutions",
       "suggested_anchor": null,
@@ -28869,116 +28792,11 @@
       "reason": "shared topics: intelligence, learning, models"
     },
     {
-      "source": "https://nmgtechnologies.com/solution/artificial-intelligence",
-      "target": "https://nmgtechnologies.com/ai-driven-business-transformation-consulting",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: efficiency, models"
-    },
-    {
-      "source": "https://nmgtechnologies.com/solution/artificial-intelligence",
-      "target": "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: advanced, intelligence"
-    },
-    {
-      "source": "https://nmgtechnologies.com/solution/cloud-apps",
-      "target": "https://nmgtechnologies.com/ai-driven-devops-cloud-automation",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: cloud, secure"
-    },
-    {
       "source": "https://nmgtechnologies.com/services/mobile-application-development/enterprise-mobility",
       "target": "https://nmgtechnologies.com/blog/why-does-enterprise-mobility-solutions-become-so-popular",
       "suggested_anchor": null,
       "relatedness": 0.143,
       "reason": "shared topics: employees, enterprise, mobility"
-    },
-    {
-      "source": "https://nmgtechnologies.com/services/crm-development",
-      "target": "https://nmgtechnologies.com/ai-strategy-implementation-consulting",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: consulting, implementation"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/leadership",
-      "target": "https://nmgtechnologies.com/download-developmental-checklist",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: equipment, fitness"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/leadership",
-      "target": "https://nmgtechnologies.com/download-content-editorial-calendar",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: equipment, fitness"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/leadership",
-      "target": "https://nmgtechnologies.com/download-appdevelopmentcost-ebook",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: equipment, fitness"
-    },
-    {
-      "source": "https://nmgtechnologies.com/company/leadership",
-      "target": "https://nmgtechnologies.com/download-outsourcingrules-ebook",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: equipment, fitness"
-    },
-    {
-      "source": "https://nmgtechnologies.com/industry/marketresearch",
-      "target": "https://nmgtechnologies.com/success-stories/international-insurance",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: comprehensive, outsource"
-    },
-    {
-      "source": "https://nmgtechnologies.com/industry/marketresearch",
-      "target": "https://nmgtechnologies.com/success-stories/nikon-case-study",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: data-driven, research"
-    },
-    {
-      "source": "https://nmgtechnologies.com/privacy-policy",
-      "target": "https://nmgtechnologies.com/blog/best-practices-contact-us-page",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: contact, information"
-    },
-    {
-      "source": "https://nmgtechnologies.com/privacy-policy",
-      "target": "https://nmgtechnologies.com/blog/why-does-enterprise-mobility-solutions-become-so-popular",
-      "suggested_anchor": null,
-      "relatedness": 0.043,
-      "reason": "shared topics: information"
-    },
-    {
-      "source": "https://nmgtechnologies.com/privacy-policy",
-      "target": "https://nmgtechnologies.com/blog/must-have-pages-on-your-ecommerce-site",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: information, site"
-    },
-    {
-      "source": "https://nmgtechnologies.com/agentic-ai",
-      "target": "https://nmgtechnologies.com/ai-driven-business-transformation-consulting",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: consulting, expert"
-    },
-    {
-      "source": "https://nmgtechnologies.com/agentic-ai",
-      "target": "https://nmgtechnologies.com/success-stories/acs",
-      "suggested_anchor": null,
-      "relatedness": 0.091,
-      "reason": "shared topics: consulting, expert"
     }
   ],
   "run_meta": {
