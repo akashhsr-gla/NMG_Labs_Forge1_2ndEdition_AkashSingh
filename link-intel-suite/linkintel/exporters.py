@@ -4,12 +4,19 @@ exporters.py - Convert analysis results to PDF and PPTX formats.
 Uses:
   - WeasyPrint: HTML to PDF with professional styling and page breaks
   - python-pptx: JSON to PPTX presentations with clean layouts
+
+Features:
+  - Input validation with helpful error messages
+  - Configurable colors, fonts, and styling
+  - Output size tracking and logging
+  - Graceful fallbacks for missing data
+  - Optional verbose output for debugging
 """
 import json
 import os
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Any
+from typing import Dict, List, Any, Optional
 
 try:
     from weasyprint import HTML, CSS
@@ -26,11 +33,88 @@ except ImportError:
 
 
 # ============================================================================
+# Configuration & Validation
+# ============================================================================
+
+class ExportConfig:
+    """Customizable export styling configuration."""
+    
+    # Colors
+    PRIMARY_COLOR = RGBColor(59, 130, 246)        # Blue (#3b82f6)
+    SECONDARY_COLOR = RGBColor(31, 41, 55)        # Dark gray (#1f2937)
+    SUCCESS_COLOR = RGBColor(22, 101, 52)         # Green (#166534)
+    ERROR_COLOR = RGBColor(153, 27, 27)           # Red (#991b1b)
+    WARNING_COLOR = RGBColor(146, 64, 14)         # Orange (#92400e)
+    
+    # Fonts (PPTX)
+    FONT_FAMILY = "Segoe UI"
+    FONT_TITLE_SIZE = 54
+    FONT_HEADING_SIZE = 32
+    FONT_BODY_SIZE = 16
+    
+    # Page settings
+    PDF_PAGE_SIZE = "A4"
+    PDF_MARGIN_CM = 2.5
+    PPTX_WIDTH_INCHES = 10
+    PPTX_HEIGHT_INCHES = 7.5
+    
+    # Content limits
+    MAX_CLUSTERS_IN_TABLE = 15
+    MAX_RECOMMENDATIONS = 20
+    MAX_CLUSTERS_IN_SLIDE = 8
+    MAX_TOP_RECOMMENDATIONS = 5
+
+
+def _validate_result(result: dict, verbose: bool = False) -> tuple[bool, str]:
+    """Validate result dict structure.
+    
+    Args:
+        result: Analysis result dict
+        verbose: Print detailed validation info
+    
+    Returns:
+        Tuple of (is_valid, error_message)
+    """
+    required_keys = ["graph_stats", "anchors", "clusters"]
+    missing = [k for k in required_keys if k not in result]
+    
+    if missing:
+        msg = f"Missing required keys: {', '.join(missing)}"
+        if verbose:
+            print(f"⚠️  Validation warning: {msg}")
+        return False, msg
+    
+    # Check nested structure
+    if not isinstance(result.get("clusters", {}), dict):
+        return False, "clusters should be a dict with 'clusters' key"
+    
+    if not isinstance(result.get("link_candidates"), list):
+        return False, "link_candidates should be a list"
+    
+    if verbose:
+        print("✅ Result validation passed")
+    
+    return True, ""
+
+
+def _format_file_size(size_bytes: int) -> str:
+    """Format file size in human-readable format."""
+    for unit in ["B", "KB", "MB"]:
+        if size_bytes < 1024:
+            return f"{size_bytes:.1f}{unit}"
+        size_bytes /= 1024
+    return f"{size_bytes:.1f}GB"
+
+
+# ============================================================================
 # PDF EXPORTER (WeasyPrint)
 # ============================================================================
 
-def _generate_pdf_html(result: dict, domain: str) -> str:
+def _generate_pdf_html(result: dict, domain: str, config: Optional[ExportConfig] = None) -> str:
     """Generate professional HTML for PDF export with page breaks."""
+    if not config:
+        config = ExportConfig()
+    
     g = result.get("graph_stats", {})
     anchors = result.get("anchors", {})
     clusters = result.get("clusters", {}).get("clusters", [])
@@ -459,13 +543,16 @@ def _generate_pdf_html(result: dict, domain: str) -> str:
     return html
 
 
-def export_to_pdf(result: dict, domain: str, output_path: str) -> bool:
+def export_to_pdf(result: dict, domain: str, output_path: str, 
+                   config: Optional[ExportConfig] = None, verbose: bool = False) -> bool:
     """Export analysis results to PDF using WeasyPrint.
     
     Args:
         result: Analysis result dict from analyzer.analyze()
         domain: Website domain for title
         output_path: Path to write PDF file
+        config: Optional ExportConfig for styling customization
+        verbose: Enable verbose logging
     
     Returns:
         True if successful, False otherwise
@@ -474,13 +561,47 @@ def export_to_pdf(result: dict, domain: str, output_path: str) -> bool:
         print("❌ WeasyPrint not installed. Run: pip install weasyprint")
         return False
 
+    if not config:
+        config = ExportConfig()
+    
+    # Validate result
+    valid, error_msg = _validate_result(result, verbose)
+    if not valid:
+        print(f"❌ PDF export failed: Invalid result - {error_msg}")
+        return False
+
     try:
-        html_content = _generate_pdf_html(result, domain)
+        if verbose:
+            print(f"📄 Generating PDF for {domain}...")
+        
+        html_content = _generate_pdf_html(result, domain, config)
+        
+        if verbose:
+            print(f"📝 HTML generated ({len(html_content):,} bytes)")
+        
+        # Create output directory
+        os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
+        
+        # Generate PDF
         HTML(string=html_content).write_pdf(output_path)
-        print(f"✅ PDF exported to {output_path}")
-        return True
+        
+        # Check output
+        if os.path.exists(output_path):
+            size = os.path.getsize(output_path)
+            size_str = _format_file_size(size)
+            print(f"✅ PDF exported: {output_path} ({size_str})")
+            if verbose:
+                print(f"   Generated at {datetime.now().isoformat()}")
+            return True
+        else:
+            print(f"❌ PDF file was not created")
+            return False
+            
     except Exception as e:
-        print(f"❌ PDF export failed: {e}")
+        print(f"❌ PDF export failed: {str(e)[:100]}")
+        if verbose:
+            import traceback
+            print(traceback.format_exc())
         return False
 
 
@@ -589,13 +710,16 @@ def _add_content_slide(prs: Presentation, title: str) -> Any:
     return slide
 
 
-def export_to_pptx(result: dict, domain: str, output_path: str) -> bool:
+def export_to_pptx(result: dict, domain: str, output_path: str,
+                    config: Optional[ExportConfig] = None, verbose: bool = False) -> bool:
     """Export analysis results to PPTX using python-pptx.
     
     Args:
         result: Analysis result dict from analyzer.analyze()
         domain: Website domain for presentation
         output_path: Path to write PPTX file
+        config: Optional ExportConfig for styling customization
+        verbose: Enable verbose logging
     
     Returns:
         True if successful, False otherwise
@@ -604,10 +728,22 @@ def export_to_pptx(result: dict, domain: str, output_path: str) -> bool:
         print("❌ python-pptx not installed. Run: pip install python-pptx")
         return False
 
+    if not config:
+        config = ExportConfig()
+    
+    # Validate result
+    valid, error_msg = _validate_result(result, verbose)
+    if not valid:
+        print(f"❌ PPTX export failed: Invalid result - {error_msg}")
+        return False
+
     try:
+        if verbose:
+            print(f"📊 Generating PPTX for {domain}...")
+        
         prs = Presentation()
-        prs.slide_width = Inches(10)
-        prs.slide_height = Inches(7.5)
+        prs.slide_width = Inches(config.PPTX_WIDTH_INCHES)
+        prs.slide_height = Inches(config.PPTX_HEIGHT_INCHES)
 
         g = result.get("graph_stats", {})
         anchors = result.get("anchors", {})
@@ -785,12 +921,30 @@ reflects the target page's topic. Avoid over-optimization of any single anchor.
             p.space_before = Pt(4)
             p.space_after = Pt(4)
 
+        # Create output directory
+        os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
+        
+        # Save presentation
         prs.save(output_path)
-        print(f"✅ PPTX exported to {output_path}")
-        return True
-
+        
+        # Check output
+        if os.path.exists(output_path):
+            size = os.path.getsize(output_path)
+            size_str = _format_file_size(size)
+            slide_count = len(prs.slides)
+            print(f"✅ PPTX exported: {output_path} ({size_str}, {slide_count} slides)")
+            if verbose:
+                print(f"   Generated at {datetime.now().isoformat()}")
+            return True
+        else:
+            print(f"❌ PPTX file was not created")
+            return False
+            
     except Exception as e:
-        print(f"❌ PPTX export failed: {e}")
+        print(f"❌ PPTX export failed: {str(e)[:100]}")
+        if verbose:
+            import traceback
+            print(traceback.format_exc())
         return False
 
 
@@ -799,7 +953,8 @@ reflects the target page's topic. Avoid over-optimization of any single anchor.
 # ============================================================================
 
 def export_results(result: dict, output_dir: str, domain: str = "website",
-                   formats: List[str] = None) -> Dict[str, bool]:
+                   formats: List[str] = None, config: Optional[ExportConfig] = None,
+                   verbose: bool = False) -> Dict[str, bool]:
     """Export analysis results to multiple formats.
     
     Args:
@@ -807,18 +962,33 @@ def export_results(result: dict, output_dir: str, domain: str = "website",
         output_dir: Directory to write export files
         domain: Domain name for titles
         formats: List of formats to export ("pdf", "pptx", or both)
+        config: Optional ExportConfig for styling customization
+        verbose: Enable verbose logging
     
     Returns:
         Dict with format name as key, success boolean as value
     
     Example:
         >>> result = analyzer.analyze("sample-export")
-        >>> exports = exporters.export_results(result, "outputs", "example.com")
+        >>> exports = exporters.export_results(result, "outputs", "example.com", verbose=True)
         >>> if exports["pdf"] and exports["pptx"]:
         ...     print("All exports complete!")
     """
     if formats is None:
         formats = ["pdf", "pptx"]
+
+    if not config:
+        config = ExportConfig()
+    
+    if verbose:
+        print(f"🚀 Starting export for {domain}")
+        print(f"   Formats: {', '.join(formats)}")
+        print(f"   Output: {output_dir}")
+
+    # Validate input
+    valid, error_msg = _validate_result(result, verbose)
+    if not valid and verbose:
+        print(f"⚠️  Result validation warning: {error_msg}")
 
     os.makedirs(output_dir, exist_ok=True)
     results = {}
@@ -826,36 +996,51 @@ def export_results(result: dict, output_dir: str, domain: str = "website",
     for fmt in formats:
         if fmt.lower() == "pdf":
             pdf_path = os.path.join(output_dir, f"report_{domain.replace('.', '_')}.pdf")
-            results["pdf"] = export_to_pdf(result, domain, pdf_path)
+            results["pdf"] = export_to_pdf(result, domain, pdf_path, config, verbose)
         elif fmt.lower() == "pptx":
             pptx_path = os.path.join(output_dir, f"report_{domain.replace('.', '_')}.pptx")
-            results["pptx"] = export_to_pptx(result, domain, pptx_path)
+            results["pptx"] = export_to_pptx(result, domain, pptx_path, config, verbose)
+
+    if verbose:
+        success_count = sum(1 for v in results.values() if v)
+        print(f"✅ Export complete: {success_count}/{len(formats)} formats successful")
 
     return results
 
 
 if __name__ == "__main__":
-    # Example usage
+    # Example usage with improved error handling
     import sys
     from linkintel import analyzer
 
     if len(sys.argv) < 2:
-        print("Usage: python exporters.py <export_dir> [domain]")
+        print("Usage: python exporters.py <export_dir> [domain] [--verbose]")
         sys.exit(1)
 
     export_dir = sys.argv[1]
     domain = sys.argv[2] if len(sys.argv) > 2 else "website.com"
+    verbose = "--verbose" in sys.argv or "-v" in sys.argv
 
-    # Run analysis
-    print(f"🔍 Analyzing {export_dir}...")
-    result = analyzer.analyze(export_dir)
+    try:
+        # Run analysis
+        print(f"🔍 Analyzing {export_dir}...")
+        result = analyzer.analyze(export_dir)
 
-    # Export results
-    print(f"📊 Exporting results...")
-    exports = export_results(result, "outputs", domain, ["pdf", "pptx"])
+        # Export results with verbose output
+        print(f"📊 Exporting results...")
+        exports = export_results(result, "outputs", domain, ["pdf", "pptx"], verbose=verbose)
 
-    if all(exports.values()):
-        print("✅ All exports completed successfully!")
-    else:
-        print("⚠️  Some exports failed. Check dependencies:")
-        print("   pip install weasyprint python-pptx")
+        if all(exports.values()):
+            print("✅ All exports completed successfully!")
+        else:
+            failed = [k for k, v in exports.items() if not v]
+            print(f"⚠️  Export status: {len(exports) - len(failed)}/{len(exports)} succeeded")
+            print("   Failed formats: " + ", ".join(failed))
+            print("   Install dependencies: pip install weasyprint python-pptx")
+            
+    except Exception as e:
+        print(f"❌ Export failed: {str(e)[:200]}")
+        if verbose:
+            import traceback
+            traceback.print_exc()
+        sys.exit(1)
