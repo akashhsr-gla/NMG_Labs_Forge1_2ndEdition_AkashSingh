@@ -1,0 +1,345 @@
+Marketing
+
+
+Google Penalty Recovery Case Study – How We Lifted An Unnatural Link Penalty
+For E-commerce Client in 5 steps!
+
+A Google Penalty Recovery Case Study about how we helped a client recover his
+website from An unnatural Link Penalty in less than 3 weeks...
+
+Nishtha
+Jul 23, 2014
+--------------------------------------------------------------------------------
+
+Estimated reading time: 9 minutes
+
+This is a case study about how we helped a client recover his website from one
+of the most distressing instances in the SEO world – An unnatural Link Penalty,
+in less than 3 weeks.In this blog we have outlined what the problem was, how we
+fixed it in just 5 steps, and how we successfully filed for Google
+reconsideration request. We hope you will find it helpful!
+
+This case started in March, 2014. When the client received a penalty mail from
+Google.
+
+When the client approached us, site rankings were lost and traffic was going
+down at a very rapid pace. We were happy with the opportunity to help him out
+and recover his website from Google’s unnatural link penalty.
+
+We’re going to explain exactly how we did this. – Enjoy and learn!
+
+
+Steps Taken to revoke Google Unnatural Link Penalty: (In a Nut Shell)
+
+
+Step 1: Backlink analysis
+
+
+Step 2: Data compilation and segregation
+
+
+Step 3: Identifying low quality links
+
+
+Step 4: Sending link removal request and using Google Disavow tool
+
+
+Step 5: Submitting the reconsideration request to Google
+
+
+Tools we have used:
+
+    • Google Webmaster
+    • Open Site Explorer
+    • Majestic SEO
+    • Ahrefs
+    • LRT (Link Research Tools)
+
+
+Step -1 Backlink Analysis
+
+It’s not easy to plan anything until we have clear picture of what went wrong
+and where ?
+
+We were aware that we wouldn’t be able to reach the root of the problem, unless
+we analyze the website backlink profiles. So, with the help of the some of the
+best industry leading tools like Google Webmaster Tools, Majestic SEO, Open
+Site Explorer, Ahreafs and Link Research Tools, we pulled in a list of all
+links pointing to the website from different sources and segmeneted backlinks
+into different categories
+
+
+What type of links could be the possible cause for penalty?
+
+    • Low quality directories
+    • Sidewide links
+    • Hidden Text Links
+    • Footer links
+    • Advertisment link without nofollow attribution
+    • Widget Links
+    • Link Schemes
+    • Doorway Pages
+    • Scraped content
+    • Links built by Participating in affiliate programs without adding
+      sufficient value
+
+
+
+Why we used these tools in particular?
+
+Google Webmaster Tools for obvious reasons is the first recommendation by
+Google and Matt Cutts responded recently saying the following:
+
+“It’s certainly the case that we endeavor to show examples from the set of
+links returned by Webmaster Tools, and likewise we prefer to assess
+reconsideration requests on that basis of those links. However, if there’s a
+really good example link that illustrates a problem, we do leave enough room to
+share that link, especially because it can help point the webmaster in a better
+direction to diagnose and fix issues.”
+
+We personally believed in job accuracy and collected as much data as possible
+using all available tools.
+
+For best results, we added both the www. and the non-www. forms of the domain
+to Webmaster tool and collected links from both sources.
+
+
+Step -2 Data Compilation and Segregation
+
+Once we gathered complete data, we compiled it in a Google Spreadsheet, so we
+could track the work and could see exactly where we stand in the link removal
+process. This step is really crucial as this helps a lot while sending a
+reconsideration request to Google and they can judge with ease that what the
+webmaster has done to sort the issues with your website.
+
+The only problem we faced and probably you will also encounter is the lot of
+repeated links.
+
+Tip: Import data from a CSV into separate sheets within the same document and
+you can insert a column that contain only domain name and can highlight
+duplicate domains (Links)
+
+Once we were done with the data extraction, we added the following columns to
+each sheet-
+
+    • Contact Name
+    • Contact Email Address
+    • Website Contact Form
+    • Phone No.
+    • Twitter URL
+    • Facebook URL
+    • Google+ URL
+    • LinkedIn URL
+    • Date of 1st Contact
+    • Date of 2nd Contact
+    • Date of 3rd Contact
+    • Link Status
+    • Notes
+
+
+Step – 3 Spotting Low Quality Links
+
+This is the most important step of the entire recovery process and needs a lot
+of hard work and attention as this could prove to be a little tricky. After the
+data compilation, we segregated links through a manual process to fall under
+particular categories like
+
+    • Widget Links
+    • Low quality directories
+    • Sidewide links
+    • Hidden Text Links
+    • Footer links
+    • Advertisment link without nofollow attribution
+    • Widget Links
+    • Duplicate content URLs
+    • Low Domain authority websites
+    • Paid links
+    • Redirect URLs
+    • 403, 404, 522, 524, Account suspended, the domain name expired, fatal
+      error, server error, server down, serve issue etc.
+
+As expected, there were many spammy and low quality links that needed a cure.
+We manually reviewed each and every link and analyzed against quality
+guidelines to qualify links that need to be removed or kept as a good quality
+link.
+
+
+Wondering, how to spot spammy links?
+
+Some links were easy to recognize, as they were hosted on well reputed,
+authority websites. On the same side, it was easy to spot some spammy links as
+well that were listed on a website along with a multitude of links on the same
+web page. The simplest way to identify a low quality link is to guess from the
+page context if the link has been placed purely for Link Buidling motive on the
+website. If yes, then it is most likely unnatural.
+
+Some other decision making considerations that we followed to reach a
+conclusion (link removal) were:
+    • Links across every page of website
+    • The site contains keywords like ‘links’, ‘SEO’,’Directory’ etc. in name
+      or URL
+    • The site automatically accepts links without any manual review or
+      verification process
+    • The site has lots of spam links pointing to it
+    • The site has categories for everything imaginable
+    • Site shows advertisement with do follow links etc.
+
+
+Step – 4 Sending Link Removal Request And The Magic Of Disavow Tool
+
+Once we spotted all the Unnatural links and the next obvious step was to find
+email IDs of the webmaster of all websites mentioned on your final list. In
+this process, you might see some websites will not have proper contact details,
+but there could be a contact form on the website that can still solve the
+purpose. In worst case if form is not available check their contact details
+using WHO.is or other registry data provider. Outreach to webmaster:
+
+We outreached the webmaster of the respective domains to remove the link
+permanently.
+
+Sample Template:
+
+We kept the request mail short, simple, polite without spamming the webmaster
+with multiple emails at once. Some replied in a co-operative manner but some of
+them were asking for money to remove links and some of them were not responding
+to our E-mails.
+
+
+How to deal with beggers:
+
+We have asked them that if they will not remove our links we will submit their
+website to Google disavow and which could be negative for their own website.
+
+What exactly we told them is a secret sauce!
+
+
+How to deal with webmaster those are not replying to your e-mail:
+
+Webmaster can have a bunch of domains and where they are running a web
+directory, forum, spammy blog etc. just for the sake of earning money through
+link placement, advertisement or other means and hence, there is no motivation
+for them to take a look on e-mails until unless it’s a money making scheme.We
+have outreached them via phone and it’s gives better results as compared to
+e-mails.
+
+The next step was to take a screenshot of e-mails and replies sent and paste
+them on the spreadsheet as a proof of your hard work for Reconsideration
+request.
+
+Tip: You can use Jing or other screen capture tools for screenshot.
+
+Remember– Google doesn’t want you to remove all of the bad links as sometimes
+it’s not in your hands too and that’s why they have provided Disavow tool. From
+the Spread sheet, Google (Reconsideration request reviewer) wants to see that
+you have made a true attempt to get rid of as many of the unnatural links as
+possible.
+
+Remember – Google will not consider that you are a big brand or a small
+business who is participating in link scheme, blog network etc. to gain
+artificial authority. They treat them equally so it’s your job as an SEO to
+maintain link profile and implement strategies that will earn natural links day
+and night instead of building links.
+
+After doing the above process, we used the disavow tool to get rid of the
+remaining offensive links for which we haven’t received any response even after
+3rd attempt.
+
+By this time, we had all our data sorted on the spreadsheet and knew which were
+the actual links we were unable to remove. Google has very good and
+comprehensive guide written on How to use a Disavow Tool. It helped us a lot!
+
+To be systematic and detailed, we chose to disavow whole domain instead of
+individual URLs, so that if any links that we are not able to capture using
+tools, can be removed from Google Index.
+
+Note– Do not try to smart play and use the Disavow tool as means to skip the
+above tasks, as that will not work and will not produce any results.
+
+“Google wants to see true efforts made to remove low quality links!”
+
+
+
+Step -5 Submitting The Reconsideration Request To Google
+
+A reconsideration request is the final step towards penalty recovery! One thing
+that is worth considering is that Google will never take a half-hearted
+reconsideration request seriously. You have to demonstrate the changes and
+prove that efforts being done with the commitment those things won’t repeat in
+future. To make this happen, we recommend some tips-
+
+    • Provide a complete brief from beginning on why your website is penalised
+      and what steps you have taken to comply with Google Guidelines.
+    • Explain that you understand your fault and explain what changes you have
+      adopted to avoid this happen again. Be honest and do not try to push the
+      blame elsewhere.
+    • It is advisable to notify the webmaster three times through e-mails prior
+      to using disavow tool. It may be worth it to provide examples in the form
+      of screenshots of the conversation in case the webmaster refuses to
+      remove the link.
+    • The Google Spreadsheet that you prepared with all links removed or marked
+      to be disavowed should be shared in your reconsideration request to
+      Google.
+
+Only submit a reconsideration request if you are completely satisfied that all
+appropriate actions have been taken to fix the issues associated with the
+website.
+
+Here is a reconsideration request we have submitted on 22nd April, 2014…
+
+
+And…
+
+One fine morning you’ll open your email with a message in your webmaster tools
+that’s similar to the following:
+
+
+Result
+
+The penalty from the client website is removed successfully and the site will
+start appearing back in search results.
+
+
+Good luck and if you have any questions or other considerations regarding your
+website, please get in touch with us.
+
+Google Penalty Recovery Case Study – New Media Guru
+
+Marketing
+
+
+Similar posts
+
+Featured
+
+
+NMG Technologies Made It on the List of Top Mobile App Development Companies at
+GoodFirms
+
+GoodFirms recognized and featured NMG Technologies among the top mobile
+application development companies, pioneering software development companies,
+
+Nishtha Jan 25, 2019
+Growth
+
+
+Requirement Gathering: How We Solve The Biggest Problems With Consulting
+
+Requirements Gathering, Project Development, Web Development, HTML, SRS
+Document, System Specification Requirement
+
+Nishtha Jan 28, 2016
+Outsourcing
+
+
+Top Ways to Find The Right Outsourcing Company
+
+To find the right outsourcing company, narrow down your needs to ease the
+comparison process in this extremely noisy marketplace.
+
+Nishtha Aug 30, 2019
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

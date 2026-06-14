@@ -1,0 +1,89 @@
+Design
+
+
+Mind Your En And Em Dashes: Typographic Etiquette
+
+A well-trained designer can tell within moments of viewing a design whether its
+creator knows how to work with typography.
+
+Nishtha
+Aug 8, 2011
+--------------------------------------------------------------------------------
+
+Estimated reading time: 2 minutes
+
+An understanding of typographic etiquette separates the master designers from
+the novices. A well-trained designer can tell within moments of viewing a
+design whether its creator knows how to work with typography. Typographic
+details aren’t just inside jokes among designers. They have been built up from
+thousands of years of written language, and applying them holds in place
+long-established principles that enable typography to communicate with
+efficiency and beauty.
+
+Handling these typographic details on the Web brings viagra challenges and
+restrictions that need to be considered. Below are a few rules of thumb that
+will have you using typography more lucidly than ever before.
+
+
+Setting Body Copy
+
+Good typography comes down to communicating information, and the basis of
+information is good old-fashioned body copy  –  simple blocks of text. Here are
+a few ways to make your blocks of text nice and clean.
+
+
+Indentation or Space After a Paragraph?
+
+When signalling the end of a paragraph and the beginning of another, you can
+generally either indent or insert a space between the paragraphs. Doing both is
+redundant and creates awkward, irregular chunks of white space.
+
+Indentation
+Indent the first line of a new paragraph about 1 em (if your font size is 12px,
+then that would amount to 12 pixels). Indenting the opening paragraph of a new
+section would be redundant, because that paragraph would be the first in that
+page or section anyway.
+
+Space after paragraph
+A full line break of 1 em (like when you hit the “Return” key twice) is
+generally more than enough to signal a new paragraph. About 0.8 ems is
+sufficient.
+
+Design
+
+
+Similar posts
+
+Design
+
+
+Vital Principles for Quality Web Design
+
+If you're working on a design for your website, make sure you follow or
+consider these vital principles of web design to secure the first impressions.
+
+Nishtha Nov 30, 2012
+Design
+
+
+5 Mistakes you can avoid while collecting Design Feedback
+
+There’s always a feedback stage in the web design process with clients. Here
+are the 5 mistakes to avoid when collecting & giving feedback on design...
+
+Nishtha Aug 25, 2017
+Design
+
+
+Good design or Great Design – Which one does your business need?
+
+Ready to make sure your Web design is looking its best? Read on to know about
+the best Practices for web designing.
+
+Nishtha Mar 26, 2015
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

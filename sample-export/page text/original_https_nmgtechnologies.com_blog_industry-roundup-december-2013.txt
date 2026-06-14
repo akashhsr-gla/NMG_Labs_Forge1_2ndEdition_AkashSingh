@@ -1,0 +1,256 @@
+Events
+
+
+Monthly Industry Roundup: December, 2013
+
+Industry roundup for December, 2013 by New Media Guru (NMG). News on Web
+development & design, search, SEO, content, Analytics and much more.
+
+Nishtha
+Jan 5, 2014
+--------------------------------------------------------------------------------
+
+Estimated reading time: 0 minutes
+
+NEW MEDIA GURU (NMG) has been selected by NASSCOM for their Orbit Shift program
+for fast growing organizations. Managing Directors of New Media Guru, Mohit
+Maheshwari and Rohit Maheshwari lately participated in the NASSCOM’s Seminar, a
+part of the selection criteria for the Orbit Shift Program. NASSCOM’s The Orbit
+Shift Program is an endeavor to provide a platform to aid businesses either at
+inflection point or keen of expansion or held up in a stagnant state bring
+about an essential shift in their operations.
+
+
+WHAT’S HAPPENING IN ECOMMERCE?
+
+Magento Community Edition 1.8.1.0 is here! This latest release includes many
+contributions from the Magento developer community and empowers merchants to
+operate their online stores more easily and efficiently by delivering
+significant tax calculation updates, functional improvements, and security
+enhancements and much more! Check out the release notes.
+
+2013 has been a busy year for ecommerce! Here’s a compiled list of most
+significant trends in ecommerce this year. Also, check out if online retailers
+finally gotten to grips with mobile commerce?
+
+
+WHAT’S HAPPENING IN .NET DEVELOPMENT?
+
+The latest Windows Azure release allows you to schedule jobs that invoke HTTP/S
+endpoints or post messages to a storage queue on any schedule you define. Using
+the Scheduler, you can create jobs that reliably call services either inside or
+outside of Windows Azure and run those jobs immediately, on a regular schedule,
+or set them to run at a future date. Scott Guthrie (builds a few products for
+Microsoft) released another massive set of enhancements to Windows Azure. The
+capabilities include New Scheduler Service, Read-Access Geo Redundant Storage,
+and Monitoring Updates. All of these improvements are now available to use
+immediately. Learn more about the capabilities in detail at ScottGu’s blog.
+
+Check out some recent updates-
+
+New Features of Visual Studio 2013
+POP Forums v12 posted, for MVC 5
+
+
+WHAT’S HAPPENING IN CREATIVE?
+
+Exo, an elegant, contemporary geometric sans serif typeface, created by
+Portuguese graphic and type designer Natanael Gama is now completely redrawn
+and published as Exo 2, with a more organic look that will perform much better
+at small text sizes and in long texts. Exo 2.0 has been released under the SIL
+Open Font License 1.1. Read more!
+
+
+WHAT’S HAPPENING IN SEARCH?
+
+ComScore reported holiday season U.S. retail e-commerce spending from desktop
+computers for the first 52 days of the November-December 2013 holiday season,
+showing that $42.8 billion has been spent online from desktop devices, an
+increase of 10 percent vs. year ago. The clear winner this year was Cyber
+Monday, according to ComScore, followed by Green Monday and Black Friday. Check
+the full report!
+
+Engagement Ads on the Google Display Network let advertisers connect with
+consumers across the web with visually rich, immersive experiences – and
+advertisers only pay when someone chooses to engage with their ad.
+
+
+WHAT’S HAPPENING IN MOBILE?
+
+Google has released the iOS version of My Glass, the companion app that serves
+as a sort of control panel for Google Glass. The app appeared briefly in the
+App Store earlier this week, but that was a premature release and Google
+removed it quickly. MyGlass for iOS offers mostly similar functionality to the
+Android version: Glass setup, turn-by-turn directions, contact and app
+management, and the ability to screen cast the Glass display on the iOS device.
+Read the full coverage!
+
+ComScore, Inc., a leader in measuring the digital world, released data from
+ComScore MobiLens and Mobile Metrix, reporting key trends in the U.S.
+Smartphone industry for October 2013. Apple remains the top individual
+Smartphone OEM; however Samsung has continued to gain and now controls 25.4
+percent of the market. Read more!
+
+
+WHAT’S HAPPENING IN SEO?
+
+Google launches improved public URL removal tool to make it easier to request
+updates based on changes on other people’s websites. The company says was
+specifically designed to improve the ability to remove third-party content from
+its search engine. Read the official announcement!
+
+Matt Cutts, head of search spam at Google, has confirmed that Google has
+applied a 15% reduction in the amount of rich snippets displayed in the search
+results. Know more!
+
+Now, you can use the expanded Crawl Errors feature in Webmaster Tools to help
+identify pages on your sites that show these types of problems. Google
+webmaster central introduces a new Smartphone errors tab where they share pages
+identified with errors only found with Googlebot for Smartphones. Read more!
+
+Guest blogging abuse – Now, if you are guest blogging, Matt Cutts offered
+four-points on what you should not do-
+
+    • Don’t make guest blogging your only link building strategy
+    • Don’t send out thousands of mass emails offering to guest blog to random
+      sites
+    • Don’t use the same guest article on two different sites
+    • Don’t take one article and spin it many times
+
+
+WHAT’S HAPPENING IN VIDEO MARKETING?
+
+As per Wall Street Journal report that Facebook will begin showing video ads in
+the News Feed — on both desktop and mobile devices. Although, the rumors are a
+year old, Facebook has officially announced the ad test that allows advertisers
+to purchase clips that will auto-play (without sound) directly in your feed. If
+you like what you see, you’ll have the option to click and view high quality
+videos with sound. Click for details!
+
+
+WHAT’S HAPPENING IN SOCIAL?
+
+Twitter-
+
+Twitter announces the release of a new product that enables the advertisers to
+reach their audiences based on their internet browsing activity. The campaign
+is known as ‘tailored audiences’ and Twitter has collaborated with AdRoll,
+BlueKai, Quantcast, ValueClick and others to achieve this. According to
+Twitter, early tests have shown 195% higher conversion rates with tailored
+audiences. Check out the official announcement!
+
++Post ads-
+
+Similar to Facebook’s Promoted Posts or LinkedIn’s Sponsored Updates, Google
+launches its paid content amplification product called +Post ads. These posts
+or ads will be like regular Google plus posts, but will appear on the entire
+Google Display Network. There will be some key differentiators that will make
++Post ads different from any Facebook or Linked In posts. And to avail this,
+you must have a Google AdWords account, be under an NDA with Google and sign
+the +Post Ads beta agreement, along with having 1000 followers on Google+.
+Learn More!
+
+Instagram-
+
+What is new? It is “Direct”, Instagram’s new Direct message feature that allows
+the users to interchange photos and videos one on one or to specific users or
+groups rather sharing publicly. Know more!
+
+Facebook-
+
+Facebook now to focus more on high quality content from news sites and other
+sources and less on memes from external sites. Check out the recent Facebook
+Algorithm update!
+
+
+WHAT’S HAPPENING IN ANALYTICS?
+
+Now, Google analytics are something more than just measuring the number of
+website visitors. Google’s Universal Analytics includes new JavaScript tracking
+code for websites and new mobile SDKs. But Universal Analytics is a lot more
+than that – it also gives the Measurement Protocol, which allows users to send
+data to Google Analytics without the need to use the tracking code or SDKs.
+Check out how a company measured the team’s movement into Google Analytics with
+the help of an Xbox Kinect, movement recognition software, and of course the
+Measurement Protocol. Watch video!
+
+Here’s a great share, basically a case study, that has some important lessons
+for you if you work on an e-commerce site. Check out what is Product Page
+Roulette?
+
+Google Analytics’ Behavioral Flow Report can aid you in better marketing in
+2014. You can isolate pages, or sources, or even keywords, and analyze how
+visitors behave once they land on our website. Check out how?
+
+Google announced the launch of a new feature called Content Grouping to help
+users analyze the performance of product and content categories. It will be an
+easier way to look at aggregated data, as claimed by Google.
+
+
+WHAT’S HAPPENING IN CONTENT?
+
+Now, Blogging to be done via GOOGLE GLASS! There’s a new WordPress plugin that
+makes it possible to shoot photos and video on Google Glass and publish them
+almost immediately to a self-hosted WordPress blog. It’s called wpForGlass, and
+it’s an open-source project from the PR agency Weber Shandwick. Know more in
+detail!
+
+Recently, Matt Cutts, Google’s head of search spam, has publicized a video that
+Google doesn’t treat duplicate content as spam. In fact, 25% to 30% of the
+content on the web is duplicative. Google takes all the duplicates and groups
+them into a cluster. Then Google will show the best of the results in that
+cluster. Check out for more!
+
+The upcoming trends in the content industry in 2014 are no more a secret. Take
+a look-
+
+    • Competition to gain consumers’ attention will increase
+    • Determining the key metrics to measure content’s success will be more
+      important
+    • Increased interest in content integration (content will be produced for
+      multiple channels)
+    • Experimentation with content in new mediums
+
+Why ignoring Google+ any longer in 2014 is to risk online irrelevance? Check
+out the three reasons expert Jeff Korhan has to give!
+
+Upcoming – Industry Roundup, January, 2014
+
+Events
+
+
+Similar posts
+
+Mobile
+
+
+8 Reasons to choose Android Application Development over iOS
+
+In this modern era where there are many mobile operating systems, this artilce
+will tell you 8 reasons to choose Android Application Development.
+
+Nishtha Feb 29, 2020
+Technology
+
+
+Advantages of building your App in .Net Technology
+
+Asp .net is the perfect platform for creating high-end applications. Let's take
+a look at the key reasons of using .NET technology in developing...
+
+Nishtha Oct 6, 2017
+Web
+
+
+PHP and Open Source
+
+NEW MEDIA GURU (NMG) has a dedicated Open Source competency center (OSCC) .
+Open source is the platform of choice for digital agencies around the...
+
+Nishtha Aug 26, 2011
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

@@ -1,0 +1,409 @@
+Growth
+
+
+Requirement Gathering: How We Solve The Biggest Problems With Consulting
+
+Requirements Gathering, Project Development, Web Development, HTML, SRS
+Document, System Specification Requirement
+
+Nishtha
+Jan 28, 2016
+--------------------------------------------------------------------------------
+
+Estimated reading time: 12 minutes
+
+Requirement Gathering or commonly known as the Discovery Phase is basically a
+process in which we understand and identify a business’s project technical
+requirements and proceed with a well-defined plan. Although the discovery phase
+is an essential phase in any critical project plan, it is quite often
+overlooked with the absence of sufficient ground work.
+
+Requirement Gathering or commonly known as the Discovery Phase is basically a
+process in which we understand and identify a business’s project technical
+requirements and proceed with a well-defined plan.
+
+Although the discovery phase is an essential phase in any critical project
+plan, it is quite often overlooked with the absence of sufficient ground work.
+
+Some of the project managers/consultants might argue that if a client’s
+requirements are accurately identified in the early stages, then completing a
+full phase of requirements gathering is simply not needed. One can actually not
+stress enough on the importance of discovery phase.
+
+If the requirement gathering is not done properly, it can result into project
+deliverables not meeting the business requirements which in turn would result
+in waste of time and money.
+
+ Learn More about  Our Processes
+
+Requirements Gathering Phase
+
+This phase is critical as the information gathered will be utilized as a base
+for the System Requirements Specifications (SRS) document.
+
+The SRS will include a vision or mission statement of the client company
+defining the overall objectives and business plans.
+
+So basically, requirements gathering phase enables both the parties to minimize
+risks and balance the task management within the required timeframe. A process
+of discovery phase must always include key executives and stakeholders.
+
+
+Techniques for Requirements Gathering
+
+An ideal business analyst must follow some techniques for the requirements
+gathering process. Some of them have been discussed briefly below.
+
+#1 Interview
+
+Interview turns out to be one of the most effective techniques for requirement
+gathering. In this method, the business analyst talks to the user and clients
+who are unable to give out detailed information as they are not aware of the
+system development and related functionalities.
+
+It is the responsibility of the business analyst to extract relevant
+information from them which can be achieved by interview.
+
+#2 Survey
+
+Survey is another effective method to collect information and requirements
+within a short frame of time. Under this technique, it is advisable to first
+ascertain the goal of the survey and thereafter draft the questionnaire.
+
+Once your questions list is ready, it should be delivered to the user as well
+as the stakeholder for answers. A responsible business analyst would study the
+answers and then document them.
+
+#3 Brainstorming
+
+SMEs or subject matter experts are the responsible people to conduct
+brainstorming sessions. They discuss and find out solutions to complex issues.
+
+They are further responsible for requirement prioritization post they collect
+all the requirements which are related to the software.
+
+#4 Joint Application Method
+
+This method follows a prototyping method, under which all the stakeholders like
+developers, end users, SMEs, business analysts and software engineers come
+together and attend workshops for working on a system in greater detail.
+
+These stakeholders attend the workshops till the time the desired goal is
+accomplished.
+
+#5 Observation
+
+Under the observation method, the responsible person observes the team in
+working environment and gets ideas about the software and subsequently document
+the observation.
+
+Observation can be invisible, the person simply observes the working and does
+not interact or makes himself visible, and hence, the concerned person observes
+and asks relevant questions.
+
+#6 Focus Group
+
+In this method, the business analyst bases his/her requirement gathering
+process by interacting with the representative of the client and users.
+
+The representative here has a broad idea pertaining to the needs of the users
+and clients. Under focus group, the idea is to collect information from
+representatives to understand the software idea clearly.
+
+#7 Interface Analysis
+
+Interface analysis is a specialized technique in which specific requirements
+related to application development are determined and their interaction with
+other software components is measured.
+
+#8 Prototyping
+
+This is a technique of building a model of software which helps in uncovering
+and capturing software requirements from client. The output can be broad
+mockups or sketch formats of software.
+
+#9 Use case diagram
+
+Use case diagram is a technique that shows how people interact with software.
+It shows what a system does.
+
+#10 Problem Reports and Suggestion Analysis
+
+Requirements analysis can also be done from change suggestions and user issues.
+A direct method to look for requirements is to see the suggestions and problems
+that are described in the document first.
+
+Some organizations have forms to report and record system problems; one can
+look through such a report and sort the problems into some key areas that are
+troubling the client.
+
+The users can be asked questions on these to clarify doubts of the users.
+
+When you want to select which technique to apply, there are a few factors that
+need to be considered:
+
+    • Availability and location of the stakeholders
+    • Client and development team’s knowledge on the problem
+    • Client and development team’s knowledge of the development process and
+      methods to resolve the same.
+
+Tools and Techniques for Requirement Gathering
+
+
+Reduce Risk in Requirements Gathering
+
+Gathering and managing requirements is a challenge in effective project
+management. It can be a matter of success or failure for projects if the
+requirement gathering is ineffective and this can happen even if the project is
+midway.
+
+Web projects have a baseline that is continuously evolving throughout the
+timeline of the project which needs careful and effectual management.
+
+The project manager needs to duly assess and understand the novelty value of
+the requirement gathering process of individual project.
+
+Requirement risks are one of the most insidious risks that threaten IT project
+and their effectual management.
+
+Having unclear requirements, lack of client involvement in the requirement
+gathering process or faulty requirements; all these become the major
+perpetrators in the projects which are likely to go awry.
+
+Following agile practices can effectively help you in mitigating such risks to
+a large extent.
+
+Project teams can make a lot of difference by adopting and executing agile
+working practices. If implemented accurately, agile working can reduce the
+risks that are associated with requirements gathering in IT projects.
+
+ Learn More about  Our Agile Practices
+
+
+Overcoming Challenges in Requirements Gathering
+
+Soliciting and collecting business requirements is a critical step for any kind
+of project. Creating complete set of requirements at a preliminary stage can
+facilitates in better planning, precise cost estimates, shorter delivery
+timeline, enhanced client satisfaction and better response to the final product.
+
+Eliminating the gap between business and technical requirements is the
+responsibility of business analysts as they need to understand the business
+needs in the full context and align the same with the business objectives while
+communicating the same to the development team as well as other company
+stakeholders.
+
+For the said purpose, they need to ensure that the requirements are written in
+a form that is easily understandable by both the groups.
+
+Business analysts also need to stir between vague and sometimes differing views
+of the stakeholders in order to concur on what needs to be accomplished.
+
+There are times when the requirements gathering efforts are hindered by several
+kinds of pitfalls. Herein we shall discuss about the various challenges that
+can grip the requirements gathering process and discuss the potential
+approaches to deal with them.
+
+#1 Lack of Clarity in Defining Criteria for Success
+
+Stakeholders and usually clients have a clear idea about the problems they are
+facing or exploring a particular opportunity; however, more often than not they
+are pretty clueless about exactly what they are looking to achieve.
+
+In order to address this concern, it is advisable to break the project into
+small bits and start from the section where the client has most clarity.
+
+There are collaborative modelling tools which allow the clients to have a high
+level vision of the end result which makes getting feedback early in the
+process simple enough.
+
+It is also advisable to ask questions from the client and identify current
+business practices and identify the pain points which can be improvised.
+
+In any case, the best thing to do is make the requirements quantifiable and
+testable so as to have a solid foundation against which the results can be
+later measured.
+
+#2 Clients Change their Minds Often
+
+When the requirements are not clearly defined or understood/evolved over the
+course of the project, changes are bound to happen.
+
+The best approach to tackle it is to become adaptable and accept the changes.
+Although, it is important that the changes are prioritized and estimated and
+new time and budget allocations are communicated and confirmed with the client
+before modifications are taken care of.
+
+#3 Lack of or Over Communication by Clients
+
+Active communication and participation by clients and stakeholders is critical
+to the success of the requirement gathering process. Getting the stakeholders
+to provide honest and open inputs requires establishing a rapport of trust.
+
+It is important to listen, learn and speak the client’s language for their
+project and the same implies that you are interested as well as have understood
+the client’s business challenges and are here to focus on resolving the issues.
+
+#4 Clients get Finicky over certain Techniques/Solutions
+
+Clients often get too stuck up on a particular technology or software which
+happens when they have limited knowledge in certain technical areas or when a
+particular technology has worked wonders for them in the past.
+
+The best thing to do here is to try and divert the client’s attention towards
+the main focal point i.e. how the problem will be resolved and ask them whether
+their choice of technology can play any significant role in the present
+scenario.
+
+#5 Stakeholders can have Conflicting Priorities
+
+Requirements gathering process needs to have a tough approach which includes
+asking open ended questions for the stakeholders to answer.
+
+All stakeholders involved must articulate their ideas and perspectives in a
+timely manner. Rushing through process may lead to proposed terms that are
+considered out of scope, or promoting individual agendas rather than the
+organization’s vision.
+
+A desirable thing to do is to have several interactive sessions with the client
+that has enough scope in between to digest the inputs collected, ensuring that
+the requirements gathering process gets on the right track delivering the right
+results.
+
+At NMG, we set up a dedicated business analyst whose job is to understand your
+business requirement and accordingly conduct a series of brainstorming sessions
+in order to correctly identify your business model and understand your thought
+process, functional requirement, target audience and competition etc.
+
+Based on the brainstorming sessions, the business analyst will then analyze the
+requirements and draft an SRS (system requirement specification) document.
+
+This document would include basic objectives, functional as well as data
+description, system architecture, ACD (architecture context diagram), systems
+requirements and some suggested additional revenue streams and also the basic
+USP (unique selling point) of your web application etc.
+
+We also set up a creative designer who will be working on the design elements
+of a website and design all the unique screens of the website.
+
+Post the designs of the screens are made, we shall HTMLise them duly to
+converted to prototype. The estimate given is for about 10-15 unique pages.
+Once this phase gets over, you will get a clear roadmap along with correct
+time, team and cost estimate.
+
+In further detail an SRS document prepared by NMG, will include the following
+component details:
+
+   1. The document will be drafted by the business analyst.
+   2. The document will be submitted in a MS Word document or PDF format.
+   3. The SRS will include some further details as follows:
+    • Project Overview
+    • Objectives & Constraints
+    • Functional and data Description
+    • System architecture
+    • Architecture context diagram (ACD)
+    • System module narrative
+    • Resource requirements
+    • Team members by skill type
+    • Systems requirements
+    • Estimates will further include the following:
+          • Development timeline based on above
+          • Costs associated with each element above
+          • Hosting Requirements, Cost Estimation, TimeLine
+
+In the industry having multiple companies vying for the top slot, there are a
+few best practices in the requirements gathering phase that must be followed
+for most desirable results.
+
+
+Requirements Gathering Best Practices
+
+#1 The primary important step in requirement gathering phase is identifying the
+problem along with the business users and defining in the most accurate manner.
+This definition must include:
+
+    • Project issue and the advised solution
+    • What are the benefits that are expected from this solution
+
+#2 Accurate and detailed description of the project. The solution that has been
+planned should be adequately described at a high level along with the business
+requirements that it is centered on.
+
+#3 It is imperative to address all the needs of stakeholders as well as users.
+This is a relevant part of requirements analysis and an important step which we
+should follow methodically before we freeze the requirements. This step helps
+in the deployment phase as well since the user gets adaptable to the new
+process/application.
+
+#4 The solution offered must have its set of do’s and don’ts which should be
+captured in detail. This will be helpful in clarifying any doubts.
+
+#5 The application should have its planned features captured in grave detail.
+The functional, as well as non-functional requirements should also be captured
+in much detail further including details on the project’s execution strategy.
+
+To be successful in requirements gathering or discovery phase, it is vital that
+the business analyst draws out a plan which is helpful for capturing the basic
+requirements of the client. When this plan is carefully researched and drafted,
+there is little room for rework which further helps in saving time.
+
+It is also necessary that all the stakeholders give their view with regard to
+the software being developed and kept in loop of the progress being made.
+
+Working as per the requirement gathering process ensures that the quality of
+the end product is superlative and makes it simpler at all stages of the SDLC.
+
+This phase gives a solid foundation to the rest of the processes and steps for
+design and development and hence ensures that the problem is resolved.
+
+The stronger the foundation and clearer the understanding for the project,
+smoother will be the course of things when development begins and we move onto
+the support and testing phases of the project.
+
+There might be a time when getting the perfect requirements gets difficult;
+however, better the understanding, more solid the end product would turn out to
+be.
+
+This document is your trigger point for designing, documenting and developing
+and will be of immense help in all aspects of the project some time or the
+other.
+
+Growth
+
+
+Similar posts
+
+Featured
+
+
+Consulting can save you from building a bad tech
+
+This article can be used a guide by business owners who are looking to build a
+saas product for their business, a marketing head who is looking to...
+
+Nishtha Aug 30, 2019
+Featured
+
+
+NMG Technologies Made It on the List of Top Mobile App Development Companies at
+GoodFirms
+
+GoodFirms recognized and featured NMG Technologies among the top mobile
+application development companies, pioneering software development companies,
+
+Nishtha Jan 25, 2019
+Web
+
+
+Need a New Ecommerce Site for Your Business? Our Prices Start From $999
+
+NMG offers best solutions or ecommerce site development at affordable prices.
+We specialize in custom E-commerce website development. Contact us...
+
+Nishtha Oct 16, 2015
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

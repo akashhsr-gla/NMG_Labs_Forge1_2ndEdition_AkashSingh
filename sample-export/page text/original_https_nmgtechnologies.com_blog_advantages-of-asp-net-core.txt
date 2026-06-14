@@ -1,0 +1,693 @@
+Technology
+
+
+.NET Core: 20 Advantages of Building Your Software in ASP.NET Core
+
+Microsoft has now launched Asp.NET Core as a high performance, open-source,
+modern, cloud-based framework to build enterprise applications.
+
+Nishtha
+Feb 3, 2020
+--------------------------------------------------------------------------------
+
+Estimated reading time: 21 minutes
+
+Microsoft has now launched ASP.NET Core as a high performance, open-source,
+modern, cloud-based framework to build enterprise applications. Here in this
+article, I give you 20 reasons to choose the ASP.NET Core framework for
+building your application for enhanced user experience and utilizing modern
+concepts of IoT, blockchain & AI.
+
+
+Why should you make your move to .NET Core?
+
+Here in this article, I give you 20 reasons to choose the ASP.NET Core
+framework for building your application for enhanced user experience and
+utilizing modern concepts of IoT, blockchain & AI. You can also make web
+services that use HTML as a protocol with ASP.NET Core Web API.
+
+With stiff competition and a tendency to create something inventive for
+clients, web designing organizations are presently concentrating on utilizing
+state-of-the-art technologies to create custom web applications.
+
+Know more about the best web designing practices.
+
+
+To build up any application, the primary thing that you must know is the idea
+of your business with the goal that you can deploy a suitable application for
+your business. After that, the second big thing is the selection of the best
+technology platform for your project.
+
+We know that when it comes to web application development, there are numerous
+technologies accessible to look over. There are open-source technologies, for
+example, Java and PHP, and once more, the closed source innovation is ASP.NET
+MVC. Choosing the best technology for your project becomes quite frustrating
+and complex for you.
+
+I recommend following this article as a guide to help you decide if the ASP.NET
+core is suitable for your application.
+
+
+Here are the Top 20 .net core advantages of Microsoft ASP.NET Core
+
+Here are the top 20 convincing advantages to choose ASP.NET core framework over
+other technologies to build your next SAAS App.
+
+W ith new technologies coming up in the last decade, Microsoft .NET has stuck
+to its ground of being one of the most widely used technologies for building
+custom software applications. It had its share of ups and downs, but it emerged
+strongly out of all contemplations. Microsoft has now launched ASP.NET core
+performance, open-source, modern, cloud-based framework to build enterprise
+applications .
+
+Now, you will get to know the 20 advantages of ASP.NET Core which will help you
+in understanding why you should go with ASP.NET for your next project.
+
+   1. Build hybrid, Native & Interactive Apps with ASP.NET Core that works on
+      any platform.
+   2. You will get a better response time with high performance for your
+      application.
+   3. You can run codes of various architecture with the help of Cross
+      Architecture Consistency.
+   4. Get the advantage of Framework Dependent and Self-contained deployment.
+   5. You can run multiple versions of an application on the same computer.
+   6. Get rid of command-and-control development with open source.
+   7. Get advantage of the Portable and Runnable Framework.
+   8. Build your applications on an evolved framework.
+   9. Create interactive client-side web UI on C# instead of Java with the help
+      of Blazor
+  10. Easily extract your data without any coding with the help of Model
+      Binding
+  11. Create a big application easily with Model-View-Controller.
+  12. You will have the ability to host on Docker, Apache, IIS, and
+      self-hosting
+  13. You will get outstanding support for using asynchronous programming
+      patterns.
+  14. When security is your biggest concern, .NET Core is the ultimate solution
+  15. ASP.NET core is an open-source framework, hence its extremely
+      cost-effective
+  16. You will have the power to control your applications with Middleware.
+  17. You will get effortless updates from Microsoft
+  18. You will find ASP.NET Core very easy to maintain.
+  19. You will have support for cloud-based developments.
+  20. ASP.NET provides you to Optimize data access.
+
+Let’s start by understanding what is ASP.NET Core and why it should be
+preferred over ASP.NET technology before we begin understanding its benefits.
+Especially when you are working on Enterprise Application.
+
+“To know how to work on ASP.NET Core, you can check out” ASP.NET Core tutorial.
+
+
+Introduction to Asp.NET Core Technology
+
+Earlier organizations didn’t have choices for customized enterprise
+applications with inventive features. To accomplish the desired results, they
+needed to spend generally higher expenses.
+
+Today ASP.NET technology is widely used for building custom software or custom
+web applications.
+
+Did you know that new ASP.NET core development is going to have a huge impact
+on open source technologies?
+Discussing enterprise applications, ASP.NET Core is one of the best frameworks.
+Microsoft ASP.NET Core is an ideal mixture of a web development model that
+incorporates all the important services to construct a powerful enterprise web
+application.
+
+It is a cross-platform framework that runs with Windows and .NET framework.
+
+You can choose “the best” you need for your next project
+
+So, what will you prefer for your next application-.NET Core or .NET Framework?
+
+First, you will have to understand the difference between .NET Core and .NET
+frameworks.
+
+We all know that the future is cloud computing and most of the frameworks will
+work on a cloud platform. Both the .NET framework and .NET Core are supported
+runtimes by Microsoft for developing the application.
+
+ASP Core is the latest and new open-source and cross-platform .NET framework to
+build applications that can work in all operating system which includes
+Microsoft Windows, macOS, and RedHat Linux
+
+Did you know that the .NET Core revolution began in 2016 when it’s the first
+version .NET Core 1.0 was released on 27 June 2016?
+
+The latest version is .NET Core 3.0.2 which was released on 14th January 2020.
+.NET Core 3 release date: September 23, 2019
+
+To know about the Microsoft ASP.NET Technology or its advantages you can check out this blog.(Advantages of building your App in .NET Technology).
+
+
+.NET Core vs .NET Framework
+
+In this section, I’m going to explain to you the differences between .NET and
+.NET Core so that it would be easy for you to choose among the two of them.
+
+Developer should choose between .NET Core and .NET according to the following
+needs:
+
+.NET 	.NET Core
+Your application is currently using .NET Framework 	There are cross-platform
+needs.
+Microservices are being used
+You’re using third-party libraries or NuGet packages not available in .NET Core.
+When Docker containers are being used
+If you already have a pre-configured environment and systems, then the .NET
+Framework is better. 	If you have high performance and scalable system needs
+The platform does not support .NET Core. 	If you are running multiple .NET
+versions side-by-side.
+You’re using technologies not yet available in .NET Core. 	If you want
+command-line interface (CLI) control
+
+Difference between .NET core and .NET Frameworks
+
+With Microsoft ASP.NET Core, you can:
+
+    • Develop web services and web applications, mobile backend and other IoT
+      applications. Choose from your favorite tool on Mac OS, Windows, and
+      Linux.
+    • You can run this on .NET Framework or .NET Core
+    • Deploy to on-premises or cloud.
+
+DI or dependency injection software design pattern is also supported by ASP.NET
+core, is a method for obtaining inverse control (IoC) between classes and their
+dependencies.
+
+Because of a variety of new features, Asp.NET Core cannot be overlooked.
+
+In the picture below, you can see the components of .Net core:
+
+Components of .Net core
+
+Irrespective of the high expectations to learn and adapt, .NET Core accompanies
+a variety of advantages for designers and projects. Anyhow, .NET Core is the
+perfect technology choice to make a new application.
+
+Microsoft recently launched a new version .NET Core v 3.0 and is a
+significantly better form of the previous .NET Core. .NET Core is best for you
+when you want to be future-ready.
+
+Some of the issues that you face while developing web applications or working
+on any project without.NET Core is:
+
+    • Your current technology, for example, .NET framework or .NET MVC on which
+      you are developing your project is not configured to work on various
+      operating systems like Windows, macOS or Linux.
+    • You or developer may need high-level coding language, or you need to hire
+      a high-level coding team that will build software or web application
+      using your platform.
+    • Most of the time your system needs the best performance and scalability
+      and at that time your software might be low performing and very heavy to
+      use. This results in lots of complexity and wastage of time.
+    • You are not able to integrate JavaScript and C# in the browsers, which
+      sometimes becomes very irritating.
+    • The technology that you are currently using, might not be ready for the
+      cloud platform.
+
+All these issues can be easily avoided with the help of the new Asp.NET Core
+for your next project. In the next section, we will get to know the 20
+advantages of using Asp.NET Core for your next project.
+
+
+20 advantages of Microsoft .NET Core
+
+20 advantages of Microsoft .NET Core
+
+In this section, I will discuss with you 20 advantages of .NET Core benefiting
+your business with speed, scalability, high performance, and cost. You have to
+choose between the latest ASP.NET Core instead of the older ASP.NET Framework
+or ASP.NET MVC for your next SAAS applications. You or your team might have
+used Asp.NET over the years for developing your web application, but ASP.NET
+Core is an upgraded and latest version its new architectural changes, you will
+get the linear and modular framework. Let’s Begin:
+
+
+1. Build hybrid, Native & Interactive Apps with ASP.NET Core that works on any
+platform.
+
+When you are developing any software or web applications on any platform,
+cross-platform is the first thing that comes to mind. ASP.NET Core in “write
+once, run anywhere” platform.
+
+ASP.NET Core is cross-platform
+
+.NET Core is an open-source and free framework for creating applications that
+can run on all operating systems like Linux, Windows, and macOS. It is equipped
+for running applications on the cloud, devices, and IoT.
+
+There are four cross-platform scenarios that are supported by ASP.NET core:
+
+    • Command Line App
+    • NET Core Web App
+    • Library
+    • Web API
+
+
+2. You will get a better response time with high performance for your
+application.
+
+Did you know that ASP.NET Core is very fast? Indeed, quicker than Go and
+nodeNode.js. Very fast!
+
+Better response time of .NET Core
+
+This implies applications give better reaction times and require less
+calculation power. Stack overflow just offers 5.3 million site visits a day on
+nine servers.
+
+Some of the well-known TechEmpower benchmarks compare web application systems
+and capacities, for example, database access, JSON serialization, and
+server-side template rendering, and all these are performed on .NET Core
+quicker than some other famous frameworks.
+
+Learn more about node.js for Web Application here.
+
+
+3. You can run codes of various architecture with the help of Cross
+Architecture Consistency
+
+One of the advantages that you will get from ASP.NET Core is that it can run
+codes on various architectures that include x86, x64 and ARM with the same
+behavior.
+
+ASP.NET Framework works only on windows operating system. A standard base
+library is provided by ASP.NET Core that would now be able to be utilized in
+Linux, Windows, macOS, and cell phones, still by means of Xamarin.
+
+ASP.NET core docker: .NET Core gives adaptable deployment, can be incorporated
+in your application or incorporated side by side like system-wide or user-wide
+installations and can be utilized with Docker containers.
+
+
+4. Get the advantage of Framework Dependent and Self-contained deployment.
+
+You can include ASP.NET Core in your application or install machine-wide,
+user-wide or side by side.
+
+Framework Dependent ASP.NET Core
+
+It tends to be utilized with Docker containers, which normally run Linux today,
+and it can have ASP.NET Core apps, enabling them to take advantage of
+microservices and containers.
+
+Know more about Microservices and Containers.
+
+
+5. You can run multiple versions of an application on the same computer
+
+With an advantage of Side by Side versioning, you can run multiple applications
+on the same computer.
+
+For installing applications with dependencies on various versions of .NET, you
+will require ASP.NET Core. ASP.NET Core gives side-by-side installation of
+various versions of the ASP.NET Core runtime on a similar machine.
+
+This side-by-side installation permits various services on a similar web
+server, every one of them on its own .NET Core version. This limits risks and
+decreases money spent on application updates and IT activities.
+
+
+6. Get rid of command-and-control development with open source
+
+Open source is the main advantage of ASP.NET Core which utilizes Apache 2 and
+MIT licenses. ASP.NET Core is a part of a nonprofit ecosystem, “.NET
+Foundation”. This is a non-profit and independent .NET ecosystem that is
+open-source friendly and supports innovation.
+
+.NET Core is open-source
+
+There are over 3,700+ companies and 60,000+ active OSS contributors from all
+over the world who are contributing to the .NET open-source platform. It is a
+fast-developing community that has a good number of community libraries and
+projects that are available there for free.
+
+Apart from Microsoft and community, tech giants like Google, RedHat, JetBrains,
+Unity, and Samsung are building the future of the .NET platform.
+
+
+7. Get advantage of Portable and Runnable Framework
+
+Unlike what it was in the past, the .NET Framework is no more restricted to
+Windows and can function splendidly on every platform.
+
+Although you can pick any hosting model, including Windows, Linux, and Docker,
+you can effortlessly change the platform to take the aspect of flexibility to a
+new level.
+
+In addition, the same codebase for different OS also results in lower costs
+since you don’t need to develop, maintain, track, and fix a similar bug in both
+the spots.
+
+Learn about Top Frameworks for Hybrid App Development.
+
+
+8. Build your applications on an evolved framework
+
+.NET framework is there for 18 years. Millions of applications are already
+developed using .NET in different domains. You can build native applications
+for Windows, iOS, and Android simply by reusing your C# skills.
+
+Coding in a language that is steady and continually advancing is significant in
+addition to for an engineer. This not just makes everyday life simpler and
+progressively enjoyable, but it also builds productivity and, in some cases,
+prevents unwanted bugs.
+
+
+9. Create interactive client-side web UI on C# instead of Java with the help of
+Blazor
+
+You can create interactive client-side web UI on C# instead of Java with the
+help of Blazor. Blazor shares client-side and server-side app logic written in
+.NET. It introduces UI in the form of HTML and CSS for browser support, this
+also includes mobile browsers.
+
+Say goodbye to java
+
+Know more about how JavaScript is used to make Web Application with node.js for web development.
+
+With the help of Blazor, ASP.NET engineers can utilize existing abilities for
+client-side development. They can compose single-page applications that are
+fats and based on open web principles, on a web-based model.
+
+With Blazor you can manage which part of your program runs on the client and
+which one runs on the server. There can also be a shared code for the two
+sections! Blazor empowers code sharing by enabling a similar class or model to
+be reused at the server-side just as the client-side. [3]
+
+Learn more about the importance of UI/UX in app development.
+
+
+10. Easily extract your data without any coding with the help of Model Binding
+
+Did you know that because of model binding, Razor pages and controller work
+with data that comes from HTTP request? Because of this, you can easily extract
+useful information while there is no need for coding again.
+
+Model Binding System:
+
+    • Recovers information from different sources, for example, from fields,
+      route and inquiry strings.
+    • The technique gives information to razor pages and controllers in public
+      properties and parameters.
+    • String data is converted to .NET type.
+
+Learn about Model Binding in ASP.NET Core.
+
+
+11. Create big application easily with Model-View-Controller
+
+Build your web apps with the help of Model-View-Controller on ASP.NET latest
+version which is a rich framework. MVC is a pattern that divides the
+applications into three parts: Model, Views, and Controllers. Separation of
+concerns is achieved with the help of these patterns.
+
+Model View Controller
+
+Utilizing this pattern, the request of users is sent to a controller which is
+responsible for performing the working or the user’s task with the model to get
+the solutions of queries. The controller chooses the view to show to the client
+and furnishes it with any model information required for it.
+
+This delimitation of responsibilities encourages you to scale the application
+with respect to complexity since it is simpler to code, troubleshoot, and test
+something (model, view, or controller) that has only one job.
+
+
+12. You will have the ability to host on Docker, Apache, IIS, and self-hosting
+
+Sometimes you need to make a web application that will not be deployed on
+server running IIS, instead, it will be deployed on desktop. In this case, .NET
+Core provides you self-hosting feature.
+
+.NET Core hosting
+
+You can also use the webserver Kestrel with ASP.NET core. One of the biggest
+benefits of .NET Core is that your web application is basically a console
+application. IIS just acts as a reverse proxy.
+
+
+13. You will get outstanding support for using asynchronous programming
+patterns.
+
+ASP.NET provides you with outstanding support for using asynchronous
+programming patterns. Async is presently executed in all classes of .NET
+Framework and most of the libraries.
+
+One reason ASP.NET Core is quicker is its extensive utilization of asynchronous
+patterns in the new Kestrel and MVC frameworks.
+
+Learn more about Asynchronous programming patterns in .NET
+
+
+14. When security is your biggest concern, .NET Core is the ultimate solution
+
+For all of us, security is turning out to be a major concern these days. It is
+an extraordinary thing to reveal an application on the web and protecting it
+must be a significant concern for any type of business.
+
+.NET Core for Security
+
+Fortunately, .NET gives a wide scope of simple to utilize mechanisms for
+validation, approval, information security, and attack counteraction.
+
+As an example, you can take Secret Manager and Data Protection API that can be
+utilized with the Azure Key Vault Provider to secure information, generate
+keys, rotate keys, or make ephemeral keys.
+
+
+15. ASP.NET Core is an open-source framework, hence its extremely cost-effective
+
+While picking the suitable technology for your software or web application, the
+main thing you need to see is IDEs and tools that may be required for that
+technology or simply make designers more profitable.
+
+ASP.NET Core is extremely cost-effective
+
+A significant number of tools are free, obviously, for the best one, you will
+need to pay for every engineer every year, and the complete cost can be up to
+1000s of dollars.
+
+Irrespective if you are a startup attempting to discover your way into the
+market, or a huge organization already there in the market, that fund or money
+can be spent somewhere else, with a better return.
+
+You will have the liberty to switch to Linux and choose the provider of your
+choice with .NET Core and a multitude of hosting options – which is either
+cheap or offers you a great SLA.
+
+In addition, you will have the choice to host your application in the cloud for
+example Azure.
+
+
+16. You will have the power to control your applications with Middleware
+
+When you want to control your application this Core feature of ASP.NET Core
+provides you an advantage.
+
+ASP.NET Core – Middleware
+
+Middleware equally controls your application to show errors when the client is
+utilized to authenticate and middleware to describe application types, for
+example, a simple static site with an MVC application. The request delegate in
+ASP.NET Core handles every request of HTTP utilizing Middleware.
+
+
+17. You will get effortless updates from Microsoft
+
+With regard to the .NET Framework, it gets hard for any .NET development
+organization to update new changes.
+
+.net core updates
+
+When a new update or change comes, another framework version should be released.
+
+A prime case of this is MVC 5, where a new attribute known as routing, went out
+in the market.
+
+When we talk about .NET core development services, NuGet Package Manager each
+update. That way, with each new arrival of the Nugget bundle rendition, you can
+anticipate the greatest changes by refreshing the bundles.
+
+
+18. You will find ASP.NET Core very easy to maintain
+
+There is a simple and reasonable logic behind this, that it is very easy to
+maintain less code than maintaining the complex ones.
+
+It may not be simple for a new engineer to know this pattern, but an
+accomplished engineer surely realizes how to optimize the whole code in ASP.NET
+Core.
+
+It is essential to keep yourself updated with all the most recent improvements
+to the programming language. Continuously examine and learn about the most
+recent changes in language.
+
+
+19. You will have support for cloud-based developments
+
+In a case that you have a business, this is a good option for building
+cloud-based applications in the present time.
+
+cloud-based developments on .NET Core
+
+The major reason behind this unique thing is that .NET Core gives various kinds
+of web application development and IoT Application development along with
+mobile back-end.
+
+This implies.NET Core is the best solution for the business needs of the
+present day. Besides, ASP.NET Core can without much difficulty help in making
+fine and strong web applications.
+
+
+20. ASP.NET provides you with Optimize data access
+
+Did you know that access to data is one of the slowest activities in an
+application?
+
+Optimize data access
+
+You should call all data to get to APIs asynchronously. You must decrease
+roundtrips in the database and recover just the information that is required.
+Abstain from utilizing projection inquiries on collections. In a case that you
+are utilizing Entity Framework Core for access to data, follow the prescribed
+rules and practices in Entity Framework Core.
+
+On the other hand, if you are reading information/data that would not be
+changed by the application, you should take the benefit of the no-tracking
+queries.
+
+
+Use of .NET in developing a small application
+
+Microsoft .NET Micro is one of the smallest framework versions developed by
+Microsoft in their .NET Framework products. .NET Micro removed libraries and
+became an independent OS. Because of the comparability in these three settings,
+practically identical codes would now be able to run on PCs or small devices
+with almost no change.
+
+After this, Microsoft introduced the .NET Compact Framework. This is also a
+version of .NET Framework that uses similar libraries that a full .NET
+Framework uses but, in this case, libraries are designed especially for small
+applications or for mobile devices. Development of Applications that uses .NET
+Compact in Visual Studio 2005 and Visual Basic is now possible.
+
+.NET Core is a well-equipped and very powerful technology that isn’t yet
+prepared for all development cases and situations. Well on the other side,
+there is an enormous number of the huge presence of applications in .NET
+Framework as existing and most well-known structure.
+
+
+Pros and Cons of .Net Core
+
+Evaluating the .NET Core framework involves deeply understanding its
+comprehensive features and capabilities. The .NET Core features provide a
+robust foundation for developing applications, but like any technology, it has
+strengths and weaknesses. Below, we explore five pros and cons to give you a
+balanced view.
+
+Pros of .NET Core 	Cons of .NET Core
+Cross-Platform Support: .NET Core has an underlying logic for operations that
+seamlessly interoperate under Windows, Linux, and MacOS, making app development
+and deployment highly flexible. 	Limited Third-party Library Support: Another
+limitation of this framework is that as it gains traction, the creation of
+libraries that are important to it might not be as well supported as those
+offered by some already established frameworks.
+High Performance: One of .NET Core’s strengths is its preprocess features of
+just-in-time instruction, which includes code precompilation. NET Core
+addresses this fact through its fundamental architecture, which enables
+applications to accomplish this very quickly. 	Complexity in Migration: In
+evolving visitors, migration from .NET Framework to Applying NET Core is
+complicated and also requires a lot of time.
+Microservices Architecture: .NET Core was designed to support the microservices
+architecture, so developers can now code the modules independently and deploy
+services without depending on each other. 	Learning Curve: For developers, it’s
+a whole new world. NET Core is likely to be a tough learning experience for the
+majority of learners as most of them originate from non-Microsoft environments.
+Robust Ecosystem: The .NET core is supported by the developers’ community and
+widely offers a library, tools, and framework set that increases applications’
+development speed.
+Fewer Features than .NET Framework: Newer and with a more “slim” design, Vue is
+a better fit than Angular. NET Core does not have all the abilities that can be
+found available in the .NET Framework.
+Open Source: The ability of the system to carry out ML applications comes from
+the fact that it is open-source and FLOSS. The NET Core has a good developer
+community to support the framework. This is to make the developer contribute
+and improve the framework. 	Tooling is Still Maturing: Although the tooling for
+.NET Core is continuously improving, its evolution is still considered
+contemporary compared to other established technologies.
+
+
+It relies upon your specific development which of these two ASP.NET
+technologies is best for you.
+
+ASP.NET Core is a seriously stimulating method to construct a dynamic web application.
+
+Since most organizations increasingly search for various approaches to build up
+an application and even launch it hastily all through the market, development
+on ASP.NET core is viewed as the most ideal approach to do it.
+
+I have tried to answer all the possible questions you could have regarding .NET
+Core and why to prefer it over older technology; You will not be disappointed.
+Feel free to reach out in the comments section below if you need any
+clarifications on the above points. I will be more than happy to answer your
+questions.
+
+Also, let me know what you think of this article.
+
+I’d recommend you subscribe to this blog so I can keep sending you some amazing
+resources to help you grow and build strong online business apps.
+
+All the best!
+
+--------------------------------------------------------------------------------
+
+.NET Core download
+
+.Net Core is free to download.
+
+Download .NET Core now from this link (https://dotnet.microsoft.com/download).
+
+Download .NET Core SDK from this link (
+https://dotnet.microsoft.com/download/dotnet-core/3.0)
+
+Technology
+
+
+Similar posts
+
+Technology
+
+
+node.js for Web Applications
+
+Why use Node.js? A comprehensive guide to building an interactive and
+fully-featured web application from scratch with NodeJS.
+
+Nishtha Sep 30, 2017
+Technology
+
+
+Advantages of building your App in .Net Technology
+
+Asp .net is the perfect platform for creating high-end applications. Let's take
+a look at the key reasons of using .NET technology in developing...
+
+Nishtha Oct 6, 2017
+Web
+
+
+PHP and Open Source
+
+NEW MEDIA GURU (NMG) has a dedicated Open Source competency center (OSCC) .
+Open source is the platform of choice for digital agencies around the...
+
+Nishtha Aug 26, 2011
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

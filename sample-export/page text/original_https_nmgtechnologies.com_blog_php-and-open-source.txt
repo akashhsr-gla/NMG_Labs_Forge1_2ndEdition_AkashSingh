@@ -1,0 +1,103 @@
+Web
+
+
+PHP and Open Source
+
+NEW MEDIA GURU (NMG) has a dedicated Open Source competency center (OSCC) .
+Open source is the platform of choice for digital agencies around the world
+
+Nishtha
+Aug 26, 2011
+--------------------------------------------------------------------------------
+
+Estimated reading time: 2 minutes
+
+NEW MEDIA GURU (NMG) has a dedicated Open Source competency center (OSCC) .
+Open source is the platform of choice for digital agencies around the world
+servicing brands , web start ups , ecommerce platforms and rich content driven
+sites and blogs.
+
+We have an experienced team of PHP developers well-versed in Linux Apache MySQL
+PHP (LAMP) & AJAX. You can hire PHP and MySQL developers from us for all your
+web application development requirements.
+
+New Media Guru (NMG) has been investing in customizing and deploying Open
+Source Applications and frameworks and we are committed to growing this
+competency even further. Our rich portfolio of web applications on LAMP
+platform and work done in different industries with unique business models is
+proof enough to prove our capability and knowledge base.
+
+Over the years we have gained experience in a variety of projects that enables
+us to expand our offshore development solutions to building:
+
+    • Ecommerce using Magento , OS Commerce , Joomla , WordPress
+    • Web marketplaces
+    • Social networking solutions and platform integrations
+    • Online auctions platforms
+    • Group on like daily deal platforms
+    • Multivendor stores
+    • Classified sites
+    • Directory listings sites
+    • Online booking engines
+
+We have a lot of experience with using Agile programming model for development
+of Open Source web applications.
+
+All of our PHP developers work on Linux using both custom development and
+robust Open Source frameworks ( like Zend , Cake ,MVC , Symphony and Code
+igniter ). Our dedicated testing team supports the development efforts and test
+the application on all the browsers from Mozilla to IE to Safari.
+
+
+Development in PHP
+
+NMG provides timely, efficient and affordable PHP Programming Services to build
+dynamic websites running on the PHP, Apache and MySQL for delivering dynamic
+websites and powerful backend admin systems .
+
+
+Open Source platforms we love
+
+We use many open source PHP platforms for powering solutions for our clients.
+These platforms range from WordPress, Magento, Drupal, Joomla , Moodle and many
+others (please put logos)
+
+Web
+
+
+Similar posts
+
+Technology
+
+
+.NET Core: 20 Advantages of Building Your Software in ASP.NET Core
+
+Microsoft has now launched Asp.NET Core as a high performance, open-source,
+modern, cloud-based framework to build enterprise applications.
+
+Nishtha Feb 3, 2020
+Technology
+
+
+A guide to Laravel – Everything you need to know about Laravel
+
+Laravel is the most popular open-source PHP framework designed for building web
+applications in 2022. Learn to develop web applications with the...
+
+Nishtha Jan 11, 2020
+Events
+
+
+NMG to Participate in the Largest Tech Expo in the Middle East - GITEX Global
+2022, Dubai
+
+GITEX Global 2022 is all set to take place in Dubai with its huge showcase of
+enterprise solutions between 10-14 October 2022. Learn about the latest
+
+Nishtha Sep 15, 2022
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

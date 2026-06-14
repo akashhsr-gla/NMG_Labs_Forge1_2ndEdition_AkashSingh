@@ -1,0 +1,630 @@
+Featured
+
+
+ADA Compliance Checklist – Is Your Website Compatible?
+
+If you want to find out how to make your website ADA-compliant. Here's the
+complete guide to ADA Compliance Checklist for Websites & why ADA compliance is
+important.
+
+Nishtha
+Nov 14, 2017
+--------------------------------------------------------------------------------
+
+Estimated reading time: 14 minutes
+
+If you’re someone who has no Idea about the ADA compliance, ADA stands for
+Americans with Disabilities Act and it’s a set of regulations which would help
+physically limited users.
+
+Well for a lot of us, while accessing the website is second nature. But for
+people with some physical limitations, it is indeed challenging in some cases
+like accessing the tools and services provided by the websites.
+
+To make the websites and its services equally accessible to everyone, ADA
+standards guidelines were created and they need to be implemented in developing
+a website.
+
+Long before people heard the term e-commerce, The Americans with Disabilities
+Act was passed in 1990. Twenty years after the US Department of Justice
+released an update called the 2010 ADA standards for Accessible Design.
+
+Learn About  Web Design Best Practices – 10 Stunning Examples
+
+These standards cover the design of physical spaces and have been interpreted
+to include web locations as well, so it can be difficult for the would-be
+accessible website designer to use them.
+
+So, while the ADA itself may not be very specific about web compliance, the
+goal is clear: that we reach the same level of accessibility online that
+disabled people are guaranteed by law offline.
+
+Whom does ADA apply?
+
+In a nutshell, businesses covered by the ADA are:
+
+    • A Company with more than 15 employees
+    • Public services at state and local levels (Covered under title II)
+    • Business operating for the benefit of the public and non-profits.
+      (Covered under title III)
+
+we would discuss more what these tiers are and where they are applicable.
+Most businesses are covered under title III, which guarantees:
+
+The full and equal enjoyment of goods, services, facilities, or accommodations
+of any place of “public accommodation” by any person who owns, leases, or
+operates a place of public accommodation.
+
+Public accommodations include most places of lodging, recreation,
+transportation, education, and dining, along with stores, care providers and
+places for public display like museums.
+
+While this was obviously written for physical products and locations, case law
+seems pretty clear that it extends to online business and information as well.
+
+Many private clubs and religious organizations may be exempted, however,
+because they are neither public accommodations or commercial facilities.
+
+However, if you are working with the federal government, you are actually
+covered under an entirely different piece of legislation.
+
+Companies that work directly with or take money from the federal government are
+covered under section 508 of the Rehabilitation Act of 1973, which includes
+significant constraints that may impact website style and design.
+
+Most businesses don’t need to worry about 508 compliance but those who do can
+use the same tools to bring your website “up to code” that you can for ADA
+compliance.
+
+ADA Violations and Penalty:
+
+Violations of the aforementioned standards can lead to hefty penalties. Based
+on the violations, your penalty will be judged, penalties could go up to a
+$1000 or you could even face a lawsuit.
+
+So what are the levels of compliance?
+
+WCAG 2.0 guidelines are exclusively developed for directing the non-compliant
+website owners to transform their websites without any difficulty.
+
+There are a total of 3 different levels of confirmation and success criteria:
+
+Level A
+
+It isn’t really a difficult compliance but Is also provides the least benefit
+to impaired users.
+The focus of this level is in making it easier for reading on the browsers and
+also to navigate and translate the website.
+
+While this is an improvement for many websites, it doesn’t make a side as
+accessible as the DOJ would like It to be.
+
+Level AA
+
+This level is a little bit more significant and makes sites very much
+accessible to the people with the wider range of disabilities, including the
+most common barriers to use.
+
+It won’t impact the look and feel of the site as much as Level AAA compliance,
+though it does include guidance on color contrast and error identification.
+
+Most businesses should be aiming for Level AA conformity, and it appears to
+reflect the level of accessibility the DOJ expects.
+
+WCAG 2.0 level AA also appears to be roughly equivalent to the standards in
+section 508, although WCAG documentation is more specific and more clearly
+defined than what’s included in section 508.
+
+Level AAA
+
+This is the most demanding level of accessibility compliance, and it will
+significantly affect the design of the site.
+
+However, it also makes a website accessible to the widest range of people with
+disabilities.
+
+As mentioned earlier, under each WCAG 2.0 principle is a list of guidelines,
+and under each guideline are compliance standards, with techniques and failure
+examples at each level.
+
+Some of them include level A items; others include items for multiple levels of
+compliance, building A to AAA. At each stage AAA
+
+In this way, many websites include elements at multiple levels of accessibility.
+
+So How to create an ADA compliant website?
+
+It is really important when working for a government agency or government
+contractor, as these organizations must follow web accessibility guidelines
+under the Section 508 of the Workforce Rehabilitation Act of 1973.
+
+Although ADA and section 508 compliance are very different, the published
+checklist for Section 508 offers insight into ways to make websites accessible
+for people with disabilities, and thereby work toward ADA compliance.
+
+If you wish to check your website for accessibility, use the accessibility
+checklist published by the US department of health and human services. Read here
+.
+
+And here is the checklist:
+
+    • Every image, video file, audio file, plug-in, etc. has an alt tag
+    • Complex graphics are accompanied by detailed text descriptions
+    • The alt descriptions describe the purpose of the objects
+    • If an image is also used as a link, make sure the alt tag describes the
+      graphics and the link destination
+    • Decorative graphics with no other function have empty alt descriptions
+      (alt=””)
+    • Add captions to videos
+    • Add audio descriptions
+    • Create text transcripts
+    • Create a link to the video rather than embedding it into web pages
+    • Add a link to the media player download
+    • Add an additional link to the text transcript
+    • The page should provide alternative links to the image map
+    • The tags must contain an alt attribute
+    • Data tables have the column and row headers appropriately identified
+      (using the tag)
+    • Tables used strictly for layout purposes do not have header rows or
+      columns
+    • Table cells are associated with the appropriate headers
+    • Make sure the page does not contain repeatedly flashing images
+    • Check to make sure the page does not contain a strobe effect
+    • A link is provided to a disability- accessible page where the plug-in can
+      be downloaded
+    • All Java applets, scripts and plug-ins and the content within them are
+      accessible to assistive technologies, or else an alternative means of
+      accessing equivalent content is provided
+    • When form controls are text input fields use the LABEL element
+    • When text is not available use the title attribute
+    • Include any special instructions within field labels
+    • Make sure that form fields are in a logical tab order
+    • Include a ‘Skip Navigation’ button to help those using text readers
+
+If your website meets all of the above-mentioned criteria, it is likely
+accessible to people with disabilities. The best test is to obtain feedback on
+the site’s ease of use from people who are deaf, blind and have mobility
+disabilities, then address their feedback with site improvements.
+
+When collecting feedback, ask users what type of adaptive technologies they
+use. This will let you make your website according to the client requirements
+and it will help you appoint resources toward the best compliance options.
+
+Navigating the internet is particularly challenging for the people with limited
+or no vision.
+
+Many blind people use specialized web browsers and software that works with
+standard web browsers, like internet explorer, which has features that enable
+users to maximize their internet use and experience.
+
+Get to Know about  5 Mistakes You Can Avoid When Collecting Design Feedback
+
+This screen reading software reads the HTML code for websites and gives the
+user a verbal translation of what is on the screen.
+
+Web app developers need to keep this in mind when creating a website.
+
+The best screen readers use naturalized voices and alter tone and inflection
+based on HTML tags, so choose layout elements carefully.
+
+It is also important to keep in mind that navigation is significantly slower
+when using a screen reader that it is for sighted people.
+
+Sighted people don’t have to wait for the reader to get to the link we want –
+we spot links quickly and are able to navigate to our sought items, often
+without having to do any reading at all.
+
+Minimizing graphics also helps shorten reading times and speed navigation for
+disabled users.
+
+Don’t wait for user feedback to discover the gaps in your website’s
+accessibility. Simple testing would tell you where the site has too many
+graphics, and where HTML tags don’t convey information accurately.
+
+It’s wise to do trial runs with as many of the most popular screen readers
+available:
+
+Here are some of them
+
+    • Apple’s VoiceOver is built into OS X Lion
+    • JAWS works with Microsoft Windows
+    • Windows comes with a standard screen reader called navigator
+    • Windows Magnifier is not a text to speech screen reader, but allows the
+      visually impaired user to magnify specific parts of the screen; check
+      your site for visibility magnifier.
+    • WebbIE works on windows machines and incorporated browsing, screen
+      reading, RSS, Podcatcher and other tools
+    • Thunder works on windows machines in tandem in WebbIE, and Is a screen
+      reader for accessing the computer GUI and web browsing
+    • Access Firefox is a Firefox add-on that offers additional accessibility
+      to Firefox users
+    • Fire Vox is a text to speech add-on for Firefox
+
+Development tools and tutorials exist to help web designers meet compliance
+standards and go beyond to offer disabled users are the enjoyable experience
+which makes them come back again.
+Check out the following information, it will surely help you
+
+    • HTML Best Practices for accessibility
+    • Microsoft’s Accessibility Overview and tutorials
+    • Introduction to ARIA
+    • Semantic HTML
+
+There are many web accessibility tools which will help you in developing an ADA
+compliant website
+
+    • Accessibility Evaluation toolbar for Firefox
+    • The Develop menu in safari’s toolbar
+    • WAVE web accessibility Evaluation toolbar for Firefox
+    • WAVE web accessibility evaluation tool for websites and HTML
+      Opera
+    • Web Accessibility Toolbar for IE-2011
+    • VisCheck for accessibility for people with colorblindness
+    • mobiReady for evaluating accessibility from mobile device
+    • Stanford University’s Web Accessibility Checker
+
+But why creating an ADA compliant website important?
+
+The US Department of Justice released new amendments to ADA, which are designed
+to improve web accessibility.
+
+The act now requires all businesses and nonprofit service providers to
+integrate accessibility accommodations for websites and electronic media, so
+the disabled public gets to enjoy the same ease of access.
+
+With these amendments, the need to have an ADA-compliant website with improved
+accessibility is now more important than ever.
+
+So, making your website more accessible comes with added benefits as well – it
+promotes good design practices and can increase the crowd visiting your website.
+
+How does ADA compliance affect your business?
+
+For most of the businesses, the need for ADA web compliance means they will
+need to make at least some adjustments to all of their online marketing
+strategies.
+
+For instance, if your company provides tax preparation services, all of the tax
+forms you provide for customers to download would need to meet accessibility
+standards.
+
+Any online tax preparation services that you offer would also need to be
+configured so they meet ADA standards, as would your mobile app.
+
+If you own lodging services like hotels or inns, you probably have a travel
+website or a mobile app, virtual concierge through your twitter account, and a
+reward program that loyalty club members can access through a social site. All
+of these web components should be audited and adjusted to meet compliance
+guidelines.
+
+If your web designer has used responsive web design when creating your online
+marketing strategies, you’re already meeting many of the ADA complaint
+regulations for hotel websites.
+
+You will still need to make some changes, but you definitely have a head start.
+
+Making the changes right away, before your business is the target of a lawsuit
+or government action, makes good business sense.
+
+So how do you make sure your website is ADA compliant?
+
+There are 5 steps which will make sure your website is ADA compliant.
+
+Find an ADA agency
+
+Mention ADA compliance to many web developers and you may encounter a blank
+stare.
+What you need to do is find an agency working with the web platform or
+framework you use and ask about how their development workflow addresses
+accessibility.
+
+Most platforms have a partner directory. From there, you can start vetting
+agencies for their actual experience with web accessibility.
+
+For instance, if you have an eCommerce website, you should generally stitch to
+an agency that specializes in the platform. Almost all the major platforms do
+support ADA compliance.
+
+You should also aim for agencies that have experience with various tools that
+checks a website’s accessibility.
+
+Audit your code
+
+The immediate step is running an audit on your site.
+
+The tools will crawl your site and identify all the areas that do not meet web
+accessibility standards for ADA compliance.
+
+The results will give you a very clear sense of the work involved so you can
+budget properly and weigh the benefits.
+
+Who knows, your website could already be fairly complaint, leaving you with a
+lot less work to do.
+
+Determine the level of effort to become compliant
+
+At this point, an agency can use the report to gauge the overall level of
+effort and provide and estimate.
+Good partners will sit down with you and plot out a budget, some timelines, the
+proposed deliverables and some expectation management.
+
+Perhaps the task list is so large that this approach is just not feasible for
+your company.
+
+But at least, you’ll understand where you sit with ADA compliance and can plan
+to address it in the near future. Some critical work is usually better than no
+change at all.
+
+Put in the work
+
+Once the project has been properly road mapped, it’s time to get to work. Your
+development agency will start to work on the various tasks and be able to
+communicate how these changes will positively affect the user experience.
+
+Here are some common ADA issues and the solutions to them
+
+    • Images on your site must have some alternative text associated with them
+      in the event they do not render on a device or the user is unable to see
+      the image. The alternative text will then clearly describe what that
+      element is. Without that text, some of the screen readers will not
+      understand what information is being presented.
+    • If the colors on your site for important elements like buttons do not
+      have enough contrast, then it is hard for users to discern what the
+      button is and where it should go.
+    • If various inputs for forms on your website do not have proper labels,
+      this makes it hard if not impossible for certain ADA devices to interpret
+      their function.
+
+Stay up to date on compliance standards post launch
+
+ADA compliance isn’t a set it and forget it thing!
+
+Compliance standards keep on updating and you need to update your website too.
+
+There are certain guidelines which all the websites need to follow to be ADA
+compliant.
+
+It is usually not much of a burden, but it does require some web managers to
+change their workflows.
+
+For example, loading images up to your eCommerce site will always need some of
+that alternative text.
+
+What do you get if your website is ADA compliant? Is the question everyone
+would obviously have in their head.
+
+I will mention 5 reasons to make your website ADA compliant.
+
+You wouldn’t want to lose your customers
+
+Not every person in the world is the same, there are many people with different
+disabilities.
+To be in the competition you need to take into account the needs of all your
+potential customers.
+If you are unable to provide a service or information about your products or
+services to any of your customers, your competitors will readily make it
+instead of you.
+
+ADA compliance websites make the range of your potential customer wider.
+According to the American community survey, the percentage of people who have a
+disability in the US is about 12% as of 2015 which is not a small number and
+over half of them are employed.
+
+Which means without ADA potential customers who could be interested in your
+products or services. As people with disabilities visit your website, they will
+simply not be able to access the information they need, not to mention the
+purchases if you have an e-commerce website.
+
+You could lose on your money
+
+If your website is not accessible, your potential customers cannot access the
+information on your website.
+
+Especially if it is an eCommerce website, imagine all the sales you would make
+if your website was already compliant.
+
+It will build your reputation
+
+Building a supportive business that cares about customers is the right way to
+go, which will bring you closer to success.
+
+Once you take a step towards making your website ADA compliant, you will obtain
+impressive results.
+New customers will come and will share information about your ADA compliant
+website and its services with their peers, relatives, and friends. Which gains
+an attractive image of your company and build a good reputation.
+
+The Government wants your website to be compliant
+
+Remember the laws I have mentioned which are implemented?
+Yes, you need to make your website and applications ADA compliant otherwise you
+need to face the lawsuit along with some fine. Good luck with that!
+
+It won’t affect your website
+
+Making your website and apps ADA complaint will not affect the design or
+business of your website, as I have mentioned above it actually does well for
+you.
+
+Conclusion
+
+From Government related firms to E-commerce websites, owners should anticipate
+in making their website ADA compliant. Not just for business purposes but also
+for the practice of good design techniques.
+
+Avoid litigations by getting ahead of the curve, and improve your customer
+service along the way by implementing ADA compliant techniques.
+
+On some occasions, all it takes is some awareness. If you think you need to
+make your website ADA compliant or check if it is fairly complaint, we are
+ready to help you with that.
+
+NMG has its own ADA compliant professionals, that can provide professional help
+in making your website and also mobile applications ADA compliant.
+
+Contact us here!
+
+Request Free Pricing
+
+
+Frequently Asked Questions
+
+
+1. What is ADA compliance?
+
+ADA is stated as Americans with Disabilities Act. This regulation is
+specifically introduced and amended for the people who face difficulty in
+accessing the digital entities. ADA standard generally states that all the
+electronic and information technology must be easily accessible to all the
+people having disabilities.
+
+
+2. What is ADA 508 compliance
+
+ADA 508 actually falls under Section 508 Rehabilitation Act which ensures that
+all the people have equal rights and access to all goods, services and
+communication. It is a federal law which describes that all electronic and
+information technology information developed, maintained, procured and used by
+the federal government should be accessible to people who’re having
+disabilities.
+
+
+3. What is an ADA compliant website?
+
+An ADA compliant website is that can be accessible to those people who’re
+having trouble with their vision, hearing or any other physical capacities.
+
+
+4. When is ADA compliance required?
+
+The ADA (American Disabilities Act) provides the complete rights to the people
+with any type of disabilities to access digital information like normal people.
+For business owners, there are certain rules and regulations that will make
+them understand when ADA is legally required to be implemented.
+
+The criteria are as follows:
+
+    • If you’re associated as a local, state, country and federal government
+      agencies
+    • If you own a business that depends on the general public for their benefit
+    • The Act is also for privately-owned companies that staffed 15 or more
+      employees
+    • Charitable and non-profitable organizations that operate for the general
+      public welfare are also liable to implement ADA act
+
+
+5. Why is ADA compliance important?
+
+ADA is most crucial for today’s businesses as the government has made the rule
+mandatory that people with physical, mental or any other disabilities have full
+right to get access to all types of services. No matter, the services are
+digital or physical, businesses now need to be ADA compliant and offer the same
+services they make available for people without disabilities.
+
+
+6. Is ADA compliance mandatory for websites?
+
+Yes of course. Although there are no such straightforward set of rules for
+website accessibility but it doesn’t mean that your business will not be
+presented to any lawsuit. So, if you make your website ADA compliant, you are
+open to reap a variety of benefits like -
+
+    • Increased target audience
+    • Improved SEO results
+    • Maintained website reputation
+    • Overall better website usability
+    • Penalties can be avoided
+
+
+7. What is ADA testing?
+
+ADA is pronounced as American Disabilities Act. It’s a law that have passed by
+the American government establishments in 1990 to protect the information
+access rights of people disable people. To check the accessibility of such
+websites, law-suits have introduced ADA testing process where website testing
+is done by disable people (having color blindness or hearing aids) to test the
+functional usability.
+
+
+8. How to test a website for ADA compliance?
+
+Testing a website for ADA compliance is mandatory to make it accessible for
+people having visual or hearing impairments. The best way to get it done is by
+conducting an automated or manual test by disable people.
+
+You can also make it happen by following the given checklist -
+
+    • Include proper alternative (alt text) for images to make the information
+      sense clear
+    • Check whether the website is easily operable
+    • Also test if it’s perceivable
+    • Website for disable people needs to be understandable in all manners
+
+
+9. How much does it cost to make a website ADA compliant?
+
+Approximately,the cost to make a website ADA compliant may consume between
+$3000 to $5000 and above. The cost that ADA compliance incurs may vary
+depending upon the number of pages and current state of the website.
+
+
+10. How do I get ADA certified?
+
+To get ADA certified, you need to go through a proper certification process.
+The requirements that need to be fulfilled are -
+
+    • First, enroll for a prerequisite ”ADA Basics” course and complete the same
+    • Continue with the course and complete 40 training credits that are
+      assigned and approved for the certification program
+    • Showcase your content mastery for the same by enrolling for an online exam
+    • Time duration to complete all the above-mentioned requirements of ADA
+      Coordinator Training Certification Program is 3 years
+
+
+11. What are ADA standards?
+
+ADA standards are to be applied while designing, construction and alternation
+of different facilities and elements for impaired people. The standards are
+mandatory for the places of commercial facilities public accommodation and also
+include state and local government facilities. The best part is that the ADA
+act is now available and applied to the websites to let disable people access
+the digital information without any trouble.
+
+Featured
+
+
+Similar posts
+
+Web
+
+
+12 Must Have Pages On Your Ecommerce Site
+
+Getting an e-commerce website developed? Take your e-commerce website to a new
+level with these 12 must have pages on your ecommerce website.
+
+Nishtha Dec 22, 2016
+Marketing
+
+
+The top 5 CTAs you must have on your website
+
+CTAs are essential to a website's success If you decide to recreate these CTAs
+on your site. Here are 7 great call-to-action examples to inspire you!
+
+Nishtha Jul 4, 2016
+Technology
+
+
+Top Web Building Tools and Platforms
+
+Looking for user-friendly website building platforms that help you manage your
+website? Here’s the list of top website building tools & platforms for...
+
+Nishtha Nov 16, 2017
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

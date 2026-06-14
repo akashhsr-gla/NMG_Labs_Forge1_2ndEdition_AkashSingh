@@ -1,0 +1,805 @@
+Skip to content
+
+Search
+
+
+Join Us!
+
+
+Join our amazing team of passionate & talented individuals and help build
+challenging softwareproducts for businesses
+
+    • COMPANY
+    • Careers
+
+
+Our Culture
+
+
+Learning
+
+Our team comprises of young, energetic & curious bunch of people who are always
+looking to upgrade their skills. We provide full support and resources to our
+team members.
+
+
+Certifications
+
+Certifications are an important part for our selection criteria. We partner
+with several organizations who provide certifications in all major fields -
+development, SEO, marketing to name a few.
+
+
+Exposure
+
+NMG offers full exposure to Manager-level executives to travel for conferences
+and client meetings across the world. These events provide the right
+opportunity for global exposure with industry experts.
+
+
+Growth
+
+Our HR team organizes regular sessions for our team members to help them build
+a growth path within the company in achieving their goals.
+
+
+Passion
+
+This is what drives us and keeps us moving ahead, at a fast pace. We seek
+individuals who are passionate and committed to their work and are ready to
+partake in leadership roles.
+
+
+Motivation
+
+We organise mental, physical and career motivational sessions within the
+company to help our team members succeed in their careers.
+
+
+The Perks
+
+
+Immediate impact
+
+Every job is vital at NMG. Atomic, empowered team structure so your work is
+immediately seen & appreciated.
+
+
+Build relationships
+
+Summer family picnics, after-office drinks, festival celebrations, team success
+parties and more.
+
+
+Meet Great people
+
+Our team is dynamic, eccentric, driven, loyal, and ambitious. You won’t always
+be the smartest person in the room; and happily so!
+
+
+Learning Environment
+
+Our commitment to learning as a team and balancing individual growth is
+paramount.
+
+
+Culture Groups
+
+We encourage improved working environment with culture groups for personal
+growth.
+
+
+Benefits
+
+Medical, travel, 401(k) benefits and more provide you the right coverage.
+
+
+Interested in joining us?
+
+Please send a cover letter & resume to hr@nmgtechnologies.com
+
+
+Design
+
+
+Creative Designer
+
+
+Creative Designer
+
+We are looking for a Sr. Web Designer who can conceptualize, design and deliver
+UI solutions for various digital delivery platforms, including web, mobile, and
+tablet platforms.
+
+
+Responsibilities:
+
+    • Should have hands on experience to design international standard websites.
+    • Should be able to handle the communication with client throughout the
+      project life cycle, starting from the requirement gathering phase.
+    • Strong conceptual and creative skills.
+    • Extensive experience with Adobe Creative Suite namely, Photoshop,
+      Illustrator and Flash.
+    • Thorough understanding of current Web standards, including web browsers
+      and browser specifications and CSS/HTML.
+    • High End Design & UI abilities for International Clients.
+    • Interaction with Offshore Clients
+
+
+Skills:
+
+    • Exceptional attention to detail
+    • Should be Proficient in any Wire framing tools e.g. Axure, mockingbird,
+      lumzy etc.
+    • Experience: 3- 6 years
+
+
+Development
+
+
+PHP Team Lead
+
+
+PHP Team Lead
+
+We seek a motivated individual with drive to lead others to a career growth
+path. Your experience must include a minimum of 5 years working in a PHP /
+MySQL Development role on web based applications. You must also have Team Lead
+experience for this role.
+
+
+Responsibilities:
+
+    • Establishing ways for team members to complete their tasks.
+    • Creating communication channels between the team and other departments.
+    • Time sheet management
+    • Proper resource management
+    • Proper time management
+    • Quality management
+    • Responsible for identifying project risk
+    • Training and Guidance
+    • Testing and requirements gathering
+
+
+Skills:
+
+    • Minimum 5 – 7 years of experience
+    • Experience in handing a team of at least 4-5 Developers
+    • Relevant experience in developing and programming interactive web
+      applications
+    • Development experience in Magento and Wordpress
+    • Past experience in developing custom PHP applications with complex
+      modules and integrations
+    • Documenting Functional requirements and Database designing
+    • Collaborating with co developers and other departments
+    • Strong knowledge in PHP5, OOP, MySQL, AJAX, CSS, HTML/XHTML standards,
+      CSS, JavaScript (including JSON), JQuery, Prototype & Document Object
+      Model Linux, Web Services, Apache, MVC, Code Igniter and Cake PHP
+      Frameworks.
+
+
+PHP Developer
+
+
+PHP Developer
+
+We seek talented individuals with drive to create great web sites. You will be
+responsible for coding in all phases of multi-tier applications.
+
+
+Responsibilities:
+
+    • Minimum Experience of 3-5 years
+    • Understanding Client Requirements and functional specifications
+    • Designing, developing, maintaining and optimizing secure and scalable
+      multi-tier web applications
+    • Can communicate with clients directly (International)
+    • Proper time management
+    • Understand and handle tasks independently
+    • Ability to work under deadlines & contribute as a team
+
+
+Skills:
+
+    • Excellent knowledge and Proficiency in PHP 5 programming based on MVC
+      architecture
+    • Hold prior experience in Magento or Wordpress
+    • Strong knowledge in PHP5, OOP, MySQL, AJAX, CSS, HTML/XHTML standards,
+      CSS, JavaScript (including JSON), JQuery, Prototype & Document Object
+      Model Linux, Web Services, Apache, MVC, Code
+    • Igniter and Cake PHP Frameworks
+    • Past experience in developing custom PHP applications with complex
+      modules and integrations
+    • At least 10 – 15 working projects portfolio
+    • Good Communication skills
+    • Eager to learn new things and take up challenges
+    • Understanding of Browser compatibilities and standard Compliances (web
+      2.0 standards).
+    • Problem solving, prioritizing tasks, multitasking abilities
+
+
+.NET Developer
+
+
+.NET Developer
+
+Are you a talented developer with a genuine passion for web application
+development? You will be responsible for coding in all phases of multi-tier
+applications.
+
+
+Responsibilities:
+
+    • Understanding business processes, industry and functional specifications
+    • Developing websites, web applications using C#, ASP .Net and writing web
+      services.
+    • Troubleshooting errors encountered and escalating to respecting teams
+      when required.
+    • Responsible for development and implementation of module, reports and
+      procedures.
+    • Provides innovative solutions to project level technical issues.
+    • Can handle projects independently
+    • Communicate with clients directly
+
+
+Skills:
+
+    • Minimum experience of 2 – 4 years
+    • Experience in MicroSoft.Net Framework, ASP.Net 2.0 and 3.5, C#, MS SQL
+      Server 2005/2008, ADO.NET, Visual Studio 2005, XML, HTML, CSS,
+      JavaScript, and AJAX
+    • Extensive working experience with MS SQL 2000 / 2005.
+    • Must have worked on CMS, Ecommerce platforms
+    • Database schema & MsSQL query design skills
+    • Strong knowledge of creation and integration of Web Services
+    • Net 2.0 experience and Stored Procedure experience
+    • Experience of Agile programming methodologies and techniques, such as
+      unit tests, continuous integration, object oriented design and analysis
+      is advantageous
+    • Experience with SharePoint Portal Server 2003, Content Management Server,
+      and other Microsoft technologies is a distinct advantage
+
+
+.Net Team Lead
+
+
+.Net Team Lead
+
+We seek motivated people with a drive to lead others to quality. Your
+responsibilities will be in Project management, client communications,
+requirements gathering and delivery of on time projects.
+
+
+Responsibilities:
+
+    • Requirement gathering directly with clients
+    • Preparing documentation like DFD, FSD etc. & manage project scope and
+      change requests (CR)
+    • Provides innovative solutions to project level technical issues.
+    • Handle projects independentlyt
+    • Required to work on multiple projects at a time
+    • Constant monitoring to identify Inter team skill training requirement for
+      improvement
+    • Responsible for imparting Technical assistance as & when required within
+      the team
+    • Client discussions to generate additional business from the existing
+      project
+    • Responsible for report over Project mapping, its lifecycle and final
+      delivery along with periodical client communication
+    • Liaison with project team and deliver projects as per scheduled
+      milestones, such as risk, quality, and time
+
+
+Skills:
+
+    • Minimum experience of 6 or more years with around 3 years of Team
+      Management Experience
+    • Candidate should be well versed at managing Dot Net technologies; must
+      have worked on CMS, Ecommerce platforms
+    • Good exposure in APIs integrations
+    • Excellent problem solving & conceptual skills
+    • Good at all level of Communication
+    • Experience in MicroSoft.Net Framework, ASP.NET 2.0 & 3.5, C#, MS SQL
+      Server 2005/2008, ADO.NET, Visual Studio 2005, XML, HTML, CSS,
+      JavaScript, and AJAX
+    • Strong knowledge of creation and integration of Web Services
+    • Experience with Net 2.0 and Stored Procedure
+    • Proven experience in planning, execution and implementation of high
+      quality software projects
+    • Experience in client relationship management, project co-ordination, and
+      delivery management in an onsite-offshore model
+    • PMP certification and Microsoft certification are an added advantage.
+
+
+Software Testing Analyst
+
+
+Software Testing Analyst
+
+Are you a talented software testing analyst able to understand and analyze
+complex business logics? You'll work closely with software designers and
+program managers to understand more about what each product is meant to do, its
+key features and who will use it.
+
+Then you'll run functional tests, customer scenario testing, stress testing,
+performance testing, and scalability testing and international testing. The
+ultimate goal is to iron out any bugs and improve the quality of the finished
+product.
+
+
+Responsibilities:
+
+    • Analyze and understand the project's requirements, business logic and end
+      user deliverables from SRS provided for the project
+    • Review and provide advice on test case specifications, test plans, bug
+      reports, and setup/configuration issues
+    • Good problem solving and analytical skills
+    • Strong communication, collaboration & team building skills
+    • Support development technical leads, support engineers and professional
+      service engineers with technical issues related to the project
+
+
+Skills:
+
+    • Minimum experience of 2 – 4 years
+    • Expertise in developing Test Scenarios, Test Plan, Test Cases
+    • Experience in performing different kinds of testing like Functional
+      Testing, GUI Testing, Performance Testing, Backend Testing, Regression
+      Testing & UAT of Windows and Web Applications
+    • Prior work experience in mobile device applications & responsive web site
+      testing
+    • Expertise in defect tracking system and bug life cycle using automation
+      tools like Bugzilla, TTP, mantis or Issue Tracker.
+    • Must Know - Manual and automated testing with any one automation tool
+    • Advantage - QTP, Selenium, Load Runner , etc.
+    • Good understanding of the software development processes and business
+      approach
+    • Good judgment skills, writing skills (for documenting the process) and
+      communications and consultancy skills
+    • The ability to work in a team and as an individual
+    • The ability to work under pressure and to tight deadlines
+
+
+Senior HTML Developer
+
+
+Senior HTML Developer
+
+We are looking for a front-end Web application developer experienced in
+building interfaces to HTML5 web applications to join our front-end development
+team. We seek an individual skilled in highly dynamic web interface development
+(HTML, JavaScript, AJAX, jQuery). You will be responsible for creating pages
+with multi browser/platform compatibilities while delivering quality.
+
+
+Responsibilities:
+
+    • Writing code to enable functionality on the websites and web-based
+      applications using various client-side technologies like HTML, XHTML,
+      CSS, JS, Photoshop, and Dreamweaver.
+    • Test interfaces under development on different browsers/platforms and
+      overcoming the technical challenges if any
+    • Interact collaboratively with designers, back-end developers, and project
+      management team
+    • Deliver work of top-notch quality with W3C standards & Cross-browser
+      compatibility, in line with client requirements
+    • High level of detail and strive for pixel-perfect design across different
+      web browsers
+    • Adopt and be well-versed in the latest front-end technology (Responsive
+      Design and less CSS )
+    • Handle multiple projects concurrently while meeting deadlines
+
+
+Skills:
+
+    • Minimum experience of 2 – 5 years
+    • Strong skills in JavaScript, CSS, XHTML, Div based coding & other web
+      development tools
+    • Should be able to slice PSDs
+    • Experience of working in Tablet, IPad, iPhone compatible conversion
+    • Working experience and knowledge of Photoshop and Dreamweaver
+    • Able to work in team environment as well as individually
+    • Capable of mastering new programs quickly and efficiently
+    • Should be able to understand client requirements
+    • Has to be a self-starter with good communication skills
+
+
+Sales
+
+
+Pre Sales Analyst
+
+
+Pre Sales Analyst
+
+We are looking for an analyst who can review, analyze and prepare technical
+specifications based on client’s requirements. The role requires interaction
+with clients, which may be face-to-face or over the telephone.
+
+
+Responsibilities:
+
+    • Explore and develop new business opportunities in the international
+      market.
+    • Understand client’s requirement, drafting project estimation and proposals
+    • Act as a conduit between the Client and the Technical teams.
+    • Manage accounts of existing as well as new clients and be responsible for
+      up-selling and cross-selling.
+    • Requirement Analysis:
+          • Understanding the client requirements, &
+          • Defining the project plan, accordingly.
+    • Project Scope Definition:
+          • Detailing the approved features list, &
+          • Defining the project scope according to approved features list &
+            man-hour estimate.
+    • Making Proposals:
+          • Effort Estimation
+          • Cost Estimation
+          • Feature Listing
+    • Creating Wireframes & SRS:
+          • Using Axure.
+    • Coordination with Project Coordinators
+
+
+Skills:
+
+    • Minimum of 2 – 5 years of Analyst experience with 6 months of IT
+      Experience in Web based applications
+    • Technical knowledge, awareness and understanding of new technologies and
+      solutions is a must
+    • Excellent Communication Skills: Written and Verbal in nature with ability
+      to relate to and effectively communicate with clients and project teams
+      is essential
+    • Experience of different project methodologies is advantageous.
+    • Excellent Documentation skills
+    • Understands Internet and Mobile Technologies
+
+
+Web Sales
+
+
+Business development Manager – Web Sales
+
+We seek a professional and experienced person who can build strong positioning
+of the company, consult and gather the right project requirements, discussing
+and defining solution for the client, negotiating, and closing business
+relationships. You will be responsible for generating business, providing sales
+support, and lead communications.
+
+
+Responsibilities:
+
+    • Provide consultative approach to the clients by researching industry and
+      related events, publications, and announcements; tracking individual
+      contributors and their accomplishments
+    • Locates or proposes potential business deals by contacting potential
+      partners; discovering and exploring opportunities.
+    • Screens potential business deals by analyzing technologies and solutions
+      available, proposing marketing strategies, gathering project
+      requirements, identifying business potential and provide suggestions and
+      recommendations, financials and evaluating options
+    • Develops negotiating strategies in sync with company strategies and
+      operations; examining risks and potentials; estimating client’s needs and
+      goals.
+    • Closes new business deals by coordinating requirements; developing and
+      negotiating contracts; integrating contract requirements with business
+      operations.
+    • Protects organization's value by keeping information confidential.
+    • Updates job knowledge by participating in educational opportunities;
+      reading professional publications; maintaining personal networks;
+      participating in professional organizations.
+    • Enhances organization reputation by accepting ownership for accomplishing
+      new and different requests; exploring opportunities to add value to job
+      accomplishments.
+
+
+Skills:
+
+    • Minimum 4 years of experience of Web based Business development manager
+    • Generating new fresh leads and business for web-based services through
+      Online bidding portals like Elance
+    • Be a part of complete sales process starting from Bidding, negotiating
+      and closure of the deal
+    • Actively getting on calls with the clients to discuss, negotiate and
+      close deals
+    • Email writing skills
+    • Achieve sales targets and generate revenues for the organization
+    • Cold calling leads/prospects in a Business-to-Business sales environment.
+      Excellent telephone manners & tactfulness
+    • Increasing the volume of business from the existing client(s) by pitching
+      on a new set of services at different time.
+    • To act as catalyst between client and development team.
+    • Account handling of existing as well as new clients for cross selling &
+      up-selling.
+    • Working with a team of developers and managers to implement full project
+      lifecycle development.
+    • Managing prospects and client throughout the project development
+      lifecycle.
+    • Building and maintaining healthy business relations with clients,
+      ensuring high customer satisfaction matrices by achieving delivery &
+      service quality norms.
+    • Ensuring speedy resolution of queries & grievances to maximize client
+      satisfaction levels.
+
+
+IM Sales
+
+
+Business Development Manager - IM Sales
+
+We seek a professional experienced in selling internet services (SEO/SEM). You
+will be responsible for generating business, providing sales support, and lead
+communications.
+
+NMG is looking for a strong and experienced IM Sales Professionals. He /she
+would be having experience in selling Internet services (SEO/SEM). Other soft
+skills needed are good communication and client handling management skills
+
+
+Responsibilities:
+
+    • 4 year + experience
+    • Responsible for selling Internet services(SEO/SEM)
+    • To do data mining and execution of e-mail campaigns.
+    • Bidding of platforms like Elance, Guru, Odesk.
+    • To coordinate with international clients.
+    • Establishing contact with the potential prospects by cold calling,
+      e-mailing and filling RFPs.
+    • Cold calling leads/prospects in a Business-to-Business sales environment.
+    • Generating leads, negotiating with prospect and closure of the deal.
+    • Increasing the volume of business from the existing client(s) by pitching
+      on a new set of services at different time.
+    • To act as catalyst between client and development team.
+    • Account handling of existing as well as new clients.
+    • Working with a team of developers and managers to implement full project
+      lifecycle development.
+    • Managing prospects and client throughout the project development
+      lifecycle.
+    • Building and maintaining healthy business relations with clients,
+      ensuring high customer satisfaction matrices by achieving delivery &
+      service quality norms.
+    • Ensuring speedy resolution of queries & grievances to maximize client
+      satisfaction levels.
+    • Create & maintain client database
+
+
+Marketing
+
+
+PPC Specialist
+
+
+PPC Specialist
+
+
+Responsibilities:
+
+    • Should have at least 2 years of relevant experience in the online
+      marketing
+    • Experienced in gathering insights from multiple data sources and making
+      informed decisions to improve performance of search campaigns.
+    • Google Adwords Certified (GAP) professional.
+    • Knack of implementing new technologies, automation capabilities that
+      enhance SEM efforts
+    • Should have understanding of SMO, Affiliates, Banner advertisement, Media
+      buying etc.
+    • In-depth experience with website analytics tools to gain high quality
+      score & improve PPC Campaigns
+    • Solid understanding of performance marketing, conversion, and online
+      customer acquisition
+    • Should have good written and verbal communication skills.
+    • Experience: 3- 5 years
+
+
+Skills:
+
+    • Google Adwords Specialist
+    • Optimize copy and landing pages for search engine marketing
+    • Coordinating and managing marketing campaigns on Google Adwords, Yahoo,
+      MSN & Bing Marketing campaigns.
+    • Monitor progress of campaigns using various reporting tools.
+    • Manage campaign expenses, staying on budget, estimating monthly costs and
+      reconciling discrepancies.
+    • Develop, manage and report on all online promotional and web production
+      strategies undertaken by the online marketing and production team.
+    • Maximize profits by developing and crafting Google- Display
+      Advertisement, planning and deploying PPC campaigns.
+    • Track and update traffic patterns through PPC or cost per click, as well
+      as Adwords Management.
+    • Determine ROI on search marketing efforts.
+    • Managing Google-Banner Ads (including client search strategies), Paid
+      Search Campaigns; setting up and optimizing Paid Search/PPC campaigns.
+    • Tracking of funds in the account and maintain conversions.
+
+
+Search Engine Optimization Team Lead
+
+
+Search Engine Optimization Team Lead
+
+
+Responsibilities:
+
+    • 4 + Years’ Experience in Search Engine Optimization (SEO), Local SEO,
+      Content marketing strategies.
+    • Experience in interacting with SEO clients based in US and UK
+    • In-depth knowledge in all aspects of natural search optimization, ethical
+      white hat techniques , inbound marketing , content marketing and a
+      thorough understanding of On page optimization and Link building
+      impacting search engine rankings , traffic and other KPIs
+    • Strong knowledge of search engine algorithms and ranking strategies.
+    • A digital ‘native’ with knowledge of all existing and emerging digital
+      channels.
+    • Comprehensive understanding of online strategies, marketing, media
+      concepts and branding.
+    • Strong understanding of measurement and tracking tools ( including Google
+      Analytics , SEOMOZ , Raven toolss and others)
+    • Experience with Ecommerce , Magento and Wordpress websites and SEO
+      process for them
+    • Dynamic leadership, management and team building skills.
+    • Strong client interaction skills and ability to manage the overall
+      delivery of results to the maximum satisfaction level of clients.
+    • An ability to represent the company at the highest level to clients and
+      agencies in US , UK and worldwide.
+    • Successful track record of managing multiple client assignments.
+    • Sound qualitative & quantitative analytical skills.
+    • Excellent project management skills.
+    • Manage and moderate online communities including bloggers , influencers
+      for outreach campaigns for link building.
+    • Supervise overall budget management for the SEO process.
+    • Experience of monitoring and managing teams and individuals against KPIs.
+    • Translates business strategy to the team in a clear and concise manner
+      and links it to specific objectives.
+    • A positive and determined approach to researching and analyzing new
+      business opportunities.
+
+
+Skills:
+
+    • Should have at least 4+ years of relevant experience inSEO , Local SEO ,
+      Inbound marketing / content marketing strategies
+    • Strong understanding of social media optimization techniques.
+    • Should have good experience on SEO tools like SEOMOZ , Raventools etc
+    • Should have done SEO for E-commerce websites which involved conversion
+      tracking , optimization and lead generation
+    • Should have good written and verbal communication skills since position
+      involves talking to clients in US and UK on the phone and on video calls.
+    • Experience – 4- 7 years
+
+
+Mobile
+
+
+IOS Developer
+
+
+IOS Developer
+
+We are looking for experienced Android and iOS developer for creating next
+generation apps.
+
+
+Responsibilities:
+
+    • Develop, Deploy and Maintain applications/games on iPhone\iPad\iTouch.
+    • Manage a team of iOS developers and associated projects.
+    • Developing high performance personal and commercial applications with
+      Push notification, location based services, social features as well as
+      interfacing with existing system with JSON or XML
+    • Primary testing of applications and ensuring the programs and
+      applications do not have glitches, errors, or low functionality.
+    • Fixing bugs by collaborating with QA team members.
+    • Should well versed with design pattern and performance tuning. Hands on
+      experience in developing an application using Model View Controller
+      pattern.
+    • Good user experience development experience on Mobile Devices Application
+      development
+    • Understanding of configuration aspects of iPhone devices - Apple
+      configuration utility, configuration profiles etc.
+
+
+Skills:
+
+    • Must have 2- 4 years of experience
+    • hould have good Documentation & communication skills.
+    • Knowledge of c, c++ , php, aps.net, Mysql, MSSQL would be an added
+      advantage.
+    • Good Objective C and iPhone SDK, Strong Cocoa and Objective C concepts.
+    • Should have knowledge of Mobile Widgets, M-Commerce (B2B, B2C),
+      M-Business Intelligence, and M-Enterprise Applications, DRM.
+    • Knowledge of Xcode, Objective C, Sqlite, Core Data, Webservice, APNS,
+      Local notification, Calender, Facebook/Twitter integration, Graph,
+      Barcode/QR code, Audio/Video streaming, Core Location, ePub/PDF
+      programming, Basics of core graphics for iPhone Developer.
+    • Open for feedback and enjoys working in a fast paced, constantly
+      iterating environment.
+    • Well versed with rapid prototyping & agile development methodology in
+      cooperation with marketing and product design teams.
+
+
+Android Developer
+
+
+Android Developer
+
+We are looking for experienced Android developer for creating next generation
+apps.
+
+
+Responsibilities:
+
+    • Design, Build and maintain high performance, reusable and scalable
+      android code.
+    • Understand business requirements and wireframes and translate them into
+      high quality code.
+    • Delivering quality code well on time with primary unit testing
+    • Ability to work under deadlines and contribute as team
+    • Fixing bugs and feedbacks collaborating with QA team
+
+
+Skills:
+
+    • Minimum 2 years’ experience in android applications development.
+    • Strong knowledge of Android SDK, different versions of Android and how to
+      deal with different screen sizes.
+    • Proficient with REST APIs to connect android application to backend web
+      services.
+    • Solid understanding of Java, Android life cycle, Android SDK, Gradle and
+      Data structures.
+    • Proficient with cloud messaging APIs, push notifications, Google APIs,
+      Social network integrations and debugging.
+    • Ability to work with SQLite, JSON and OOP concepts.
+    • Understanding of Android design principles, interface guidelines, UI/UX
+      conventions and best practices.
+    • Knowledge of open source Android ecosystem and the libraries available
+      for common tasks.
+    • Proficient understanding of versioning tools like GIT, SVN etc
+
+
+Project Management
+
+
+Project Manager
+
+
+Project Manager
+
+
+Responsibilities:
+
+    • Requirement study & Project reality check.
+    • Gap identification and addressal to the query raised by client / Project
+      Management Team or Operational Team further.
+    • Evaluation over complete effort estimation in sync with the fetched
+      requirement.
+    • Lead of the planning and implementation of all the projects.
+    • Facilitate the project scope, maintenance, control, monitoring and
+      delivery of the project
+    • Responsible for client and project mapping (it's finances &
+      profitability).
+    • Responsible for all level of project related communication.
+    • Constant monitoring to identify Inter team skill training requirement for
+      improvement.
+    • Formation and execution of Training & Development plans of the team.
+    • Responsible for imparting Technical assistance as & when required within
+      the team.
+    • Client discussions to generate additional business from the existing
+      project.
+    • Responsible for report over Project mapping, it's lifecycle and final
+      delivery along with periodical client communication.
+    • Pre-Project liasioning with business teams for project review and prior
+      estimation (if required
+    • Improve the technical competence of your team through training and
+      development of existing and new team members
+
+
+Skills:
+
+    • Candidate should have minimum 4 yrs of Team Management Experience.
+    • Candidates from Web Services background are preferred.
+    • Candidate should be well versed at managing PHP, Open sources & Dot Net
+      technologies.
+    • PMP Certification and Microsoft Certification are an added advantage
+    • Excellent problem solving & conceptual skills.
+    • Good at all level of Communication.
+    • Experience: 7+ years

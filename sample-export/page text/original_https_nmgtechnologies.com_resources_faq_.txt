@@ -1,0 +1,214 @@
+Skip to content
+
+Search
+
+
+Frequently Asked Questions
+
+    • RESOURCES
+    • FAQ
+
+
+What is NMG?
+
+NMG is a global full-cycle software development company building advance
+websites, software and mobile apps using latest technologies since 2008.
+
+
+Is NMG a product or a service?
+
+NMG is an outsourcing service company that build custom software development
+solutions for businesses across the globe.
+
+
+I am in a different time zone. How do we manage working together?
+
+We have teams available that work with an overlap of 5 business hours a day. By
+scheduling calls and meetings on a prior notice, we can avoid middle of the
+night situations. In case of urgent needs or any concerns, our teams are
+available within a response time of 2 hours.
+
+
+I am looking to build something very local and niche for my industry. How does
+your developers align with my interests?
+
+NMG by nature, start discussions by first understanding your business and
+industry. We do our due research and analysis before we step into project
+discussion calls. Understanding your business model, idea, vision and goals is
+imperative for our developers. We ask the right questions to help us understand
+your interests.
+
+
+Will you provide documentation?
+
+Yes. Requirements gathering and documentation of scope is our very first step
+within the development cycle. For fixed cost projects, our scope is very
+clearly defined and an SRS document is prepared at the time of development to
+make sure there are no scoop creeps.
+
+
+I am not sure of a solution or technology I would need. Will you help me?
+
+Absolutely! We are here to discuss all your requirements and based on it, our
+experts will suggest you the right solution that fits in your business model
+and your budget. You can go for PHP or Asp dotnet technology to build your
+custom software or app, or use an existing open source solution. Feel free to
+schedule a 1 – on – 1 call with our experts and get free consultation advise on
+your project.
+
+
+Will you design my website?
+
+Yes, we have an in house team of creative and talented designers who will
+create right user experiences for your product keeping your branding, vision
+and end customer in mind. Check our portfolio of work here.
+
+
+Since the team will be offshore, How do you ensure quality development?
+
+We use a lot of measures in our processes to ensure high quality development -
+project management to manage teams, deliveries, standards and scope, follow
+coding standards, frameworks and best practices to build your product and most
+importantly we follow strict testing practices at every stage of design and
+development to ensure that the end product is high quality.
+
+
+Do I need a mobile app or just a mobile site?
+
+You might! Schedule your free assessment and get full understanding if you need
+a hybrid or a native mobile app or simply a mobile version of your web app.
+
+
+Will my app be responsive?
+
+Without a doubt! This is our first and foremost priority to make your app work
+on all desktop, mobile and tablet browsers. Do remember, that there are certain
+applications that need a different mobile site than the one running on the
+desktop. Feel free to discuss with us.
+
+
+What is your web design process?
+
+Below is our 4-step design process
+
+#1 Understanding your business and end customer
+This is where our designers will understand your project requirement, business
+process and goals to be able to create a flow. By asking the right questions
+and 1 – on - 1 calls, she will understand your business, branding, vision and
+end customer goals.
+
+#2 Design
+We begin by creating workflows and wireframes to include all functionalities
+and features intact with the designs. After the flow is approved, we then begin
+designing it in PSD and HTML for portotyping
+
+#3 Feedback & Evolution Process
+Our very easy to use feedback process is highly efficient and effective to
+gather your comments and work on improvement collectively.
+
+#4 Prototyping
+Front-end development of the approved screens will be done along with complete
+usability testing for responsiveness, browser compatibility, page speed load
+time and on page SEO.
+
+
+What is your design feedback process?
+
+We us tools and processes that make design feedback sharing easy and effective
+for our clients, eliminating the need to explain flows through static
+wireframes and sitemaps.
+
+Our designers will simply send you an in-browser link where you pin your
+comments and collaborate with the designer on real time basis enabling you to
+spend less time trying to communicate your vision and more time iterating and
+improving the product
+
+    • Send a link to view designs in the browser or on a mobile device
+    • Leave comment directly on the design
+    • Organize conversations around specific design elements
+    • Easily invite other stakeholders to collaborate on your designs
+
+
+How many design themes will you design?
+
+We will create two design themes for you. At a given time, we will create a
+single design theme based on our discussions with you. You can then share your
+feedback on the designs. If you do not like the first theme at all, we will
+then scrape it and design a new one based on your feedbacks on the last one.
+
+
+How many rounds of revision do I get?
+
+You get 3 -5 rounds on revisions on each design.
+
+
+How much will my web development cost?
+
+Each project is unique, hence there is no template cost structure that we can
+give you. You can share your project concept with us, and will give you a
+personalized estimation.
+
+
+Can I hire developers for maintenance of my existing software? How do I track
+my developer’s performance?
+
+Yes. Our hourly rate starts from US$25 per hour with a minimum commitment of
+200 hours. You can hire single developer or a team of developers on a monthly
+contract as well. A part time project manager will be assigned on your project
+to oversee all development tasks. To track your developers work and
+performance, you will be given access to live streaming software, where you can
+see the live working of the developer on your screen. Daily timesheets, tasks
+reporting, calendar management and collaboration will be included in our
+contracts.
+
+
+Can I interview the developer before I hire him?
+
+Absolutely! We can schedule your call with our developer so you clarify all
+your questions and build a relationship.
+
+
+Why SCRUM?
+
+Because it allows projects to self-organize, provides transparency into project
+work, and emphasizes communication from team members. The fact that all
+participants follow a framework or process is important to ensure consistency.
+
+
+Can you set up a designer?
+
+Absolutely. We can set up a designer for 40 hours monthly as part of your
+dedicated team.
+
+
+What is your web development process?
+
+Read here to learn more about intuitive and transparent process
+
+
+How long will it take to build my website?
+
+This again depends on your requirements, but on a ballpark a custom developed
+solution can take anywhere from 3 calendar months to 6 while an open source
+solution takes around 2 – 3 calendar months.
+
+
+Do you provide hosting?
+
+No. We can suggest you the right hosting provider for your application. If you
+would need cloud hosting, then we can set up cloud hosting server for you on
+Amazon Web Servers as we are Amazon Certified Partners.
+
+
+Do you provide after launch support?
+
+Yes. We provide 60 day on going support after the launch.
+
+
+How do you handle payments?
+
+You can pay us via online bank transfer & e-check (US only) and international
+bank wire transfer. Payments are divided based on the milestone structure
+defined at the time of contract submission.
+
+--------------------------------------------------------------------------------

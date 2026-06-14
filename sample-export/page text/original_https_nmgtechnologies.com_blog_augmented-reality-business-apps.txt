@@ -1,0 +1,312 @@
+Technology
+
+
+Augumented reality – the future of application development
+
+The ultimate guide to business applications of augmented reality. Augmented
+Reality has been revolutionizing multiple industry verticals.
+
+Nishtha
+Aug 30, 2017
+--------------------------------------------------------------------------------
+
+Estimated reading time: 0 minutes
+
+Augmented Reality
+
+You must have heard a lot of people talking about it. Especially big companies
+like Facebook, Snapchat, and Apple launching new features around it.
+
+But what does it mean for you?
+
+How can you use it to create an impact in your business?
+
+Let’s first start by understanding the concept of AR (short form of Augmented
+Reality) in detail.
+
+AR is an enhanced version of reality where live, direct or indirect views of
+physical real-world environments are augmented with superimposed computer
+generated imaged over a user’s views of the real-world, thus enhancing one’s
+current perception of reality.
+
+I am pretty sure you’re still wondering what exactly is an AR.
+
+Did you ever use Snapchat or played Pokémon go? Even if you didn’t one of your
+friends could’ve annoyed you with one of these.
+
+If you did use snap chat, remember those flowery tiaras and puppy filter
+thingy! That is what Augmented reality is.
+
+Oh wait! I almost forgot to mention about the new Animoji on the new iPhone X
+launch event, So, it’s an emoji which is animated with your facial expression
+through the camera. Very much similar to the animations you see on Snapchat,
+but you know the Apple people!
+
+Animations on the new iPhone X or the iPhone 8 and 8+ which is called as the
+Animoji is nothing really new, it’s the same technology used for making
+Snapchat filters. It takes the help of facial recognition to create animations.
+
+The front facing camera which is called the TrueDepth camera captures and
+analyses 50 facial muscle movements and converts or mirrors your expressions in
+12 different Emoji’s which is also called as an Animoji.
+
+In simple terms, you can make your own animated Emoji, and you get to choose
+how you would want to look like.
+
+You could be a Cat, a puppy, a Unicorn or actually a Shit Emoji! Not kidding.
+Checkout the full Animoji DEMO at the iPhone X Launch Event.
+
+We surely have awed at the Hollywood sci-fi movies made over Augmented Reality
+before CGI took over. It was an expensive affair for sure.
+
+Flash forward we are into the future or the beginning of the future of
+Augmented reality, there are many Mobile and Web Applications for Augmented
+reality which are built for work and entertainment purposes and everyone who
+owns a smartphone or a computer can use them for free.
+
+Augmented reality pretty much has taken over different types of industries like
+Entertainment, e-commerce, Education and much more.
+
+There are different versions of Augmented Reality and they all are awesome in
+their own ways, some are perfect for work, some are perfect for entertainment,
+let me show you what they are
+
+Want to know more from top about  Mobile App Development Company
+
+Marker based AR
+
+Which is also called as image recognition uses a camera and a visual marker,
+such as QR/2D to produce a result only when the marker is sensed by a reader.
+
+Marker based applications use a camera on the device to distinguish a marker
+from any other real-world object. The position and orientation are calculated,
+giving out information are then overlaid by the marker.
+
+Image Source – Google
+
+Markerless AR
+
+This was one of the first AR’s introduced into the smartphones, as far as I
+remember. It was first introduced on Nokia Lumia flagship phones back in 2012
+it was called as “City Lens”.
+
+Currently, it is one of the most used Augmented Reality application which uses
+GPS, digital compass and accelerometer on your smartphone.
+
+I’m pretty sure many of you already know how this works but for the ones who
+have no idea what this it, you just have to point the camera in a direction and
+you would get information on nearby restaurants, businesses and much more on
+your screen and also the distance of the locations.
+
+Cool EH!!
+
+Image Source – Google
+
+Projection Based AR
+
+Projection based AR is something you might’ve already seen in a Sci-Fi movie
+where you can interact with the projection.
+
+The device projects artificial light on to the real world object like a wall or
+a table or your hand, and the interaction with the light is taken as an action
+to proceed with a particular option.
+
+All the Projection AR’s I have seen so far are only in the prototype stage,
+this is something I would definitely want to own when it is available for the
+masses!
+
+Image Source – Google
+
+Superimposition Based AR
+
+Super imposition AR is something which is available to everyone currently and
+its market value is growing by the day, which makes it the most popular AR
+currently.
+
+Thanks to the e-commerce industry, the superimposition AR is vastly growing.
+
+So this is how it works, your shopping furniture and you can’t decide if it
+fits in your living room, all you need to do is select the furniture, it
+redirects you to the camera and the furniture you have chosen is already on the
+screen, all you need to do is point the camera where you would want that chair
+or a sofa you have chosen.
+
+Image Source – AR app by Ikea
+
+There is a lot to admire about AR, before we do that I would like to put some
+light on current challenges, current challenges can only be temporary though.
+
+As far as I personally feel, AR has a long way to go and it just reached the
+masses, which could be stated only as the beginning of future of AR.
+
+Learn More About The Coolest Mobile Analytics Tools
+
+Hardware is expensive…
+
+The devices which provide a full and real experience of AR or VR are much
+expensive, prices of each AR headset start from $900 and can reach up to a
+massive 3500$.
+
+The devices I am referring to are Microsoft HoloLens and Meta2 which are not
+compatible with a smartphone.
+
+Well, there are a couple of devices available to the masses which are Lenovo
+phab 2 which is a tablet and Asus Zenfone AR which are priced at the range of
+$700.
+
+That’s a flagship territory and one would always prefer an Apple or a Samsung.
+
+Lack of content…
+
+Imagine you have just bought an expensive smartphone and it does not have
+applications, I’m sure anyone would be bored of it in no time.
+
+Microsoft has created HoloLens but there isn’t much you could do without the
+content, however, e-commerce has been encouraging VR developers and I have come
+across some websites and apps where you could try clothes or shoes.
+
+Converse has one of the best VR features where you could try their shoes on the
+app, and share those images which almost look real.
+
+However, there is a long way to go and content could only help in the growth of
+VR.
+
+Education…
+
+Augmented Reality finally reached the masses but there is a lack of exposure to
+this, and education will play a major role in the mobile application
+development of AR.
+
+Acknowledging AR as a new source of development will encourage the young
+generation to take up interest, imagine all of the inputs by young minds.
+
+France has been the only country exposing its students to AR.
+
+The government recognizes that teaching emerging technology in the public
+school system provides all the students with the keys to understanding the
+contemporary technical environment and the skills to act.
+
+Despite all the current challenges we know AR has a lot to offer in the future.
+
+Eager to Know More About the Top Web Designs For Mobile Devices
+
+How will AR transform our future?
+
+In the current market, there are just a few AR applications and which according
+to me are amazing, they are informative, interactive and most importantly fun!!
+
+Anyone using an AR application for the first time, look stunned. Which only
+proves how amazing an AR application can be. As I’ve already mentioned this is
+just the beginning of the AR/VR era!
+
+Remember the projection AR I have explained earlier which is still in the
+prototype stage, imagine how cool it would be having a smartphone or a screen
+where you could interact with the projected lights.
+
+I’m sure navigating through maps would be a lot of fun with more of VR mobile
+application developed, having a full range of navigation where you can point at
+the directions and it shows how far is the next city or a gas station is.
+
+And not to forget all of the clothes you can try while shopping and even if you
+cannot afford some you could at least keep the picture.
+
+As a gamer I cannot wait for all of the games that would be developed both in
+AR and VR, we’ve all the seen the hype and popularity created by the first AR
+game Pokémon Go!!
+
+And the hype was real and we all have enjoyed playing the game (Ahem! Ignore
+all the silly accidents you’ve seen on social media) With the development of
+more powerful smartphones and other devices the future of AR seems more
+exciting and real!!
+
+Looking for Augmented Reality Mobile App Development
+
+Entertainment and business aside AR could really do wonders in health care!
+
+From a routine checkup to a complex surgical procedure AR can really be handy
+in Healthcare, it could provide immense benefits and efficiencies to both
+patients and healthcare professionals.
+
+Physical examinations
+Imagine you walk into a scheduled appointment with your doctor and you observe
+that he is wearing an AR headset, for example, a Google Glass, I know it would
+look strange but this allows him access all the data and records about your
+health in real time to discuss with you.
+
+It allows him to immediately access all your previous health records without
+turning on a computer or searching for your folder.
+
+Integration of AR system into healthcare will be a major step into the future
+of healthcare system.
+
+Surgical procedures
+Let us take the idea of implementing AR into healthcare one step further and
+implement it in surgical procedures, a doctor who is about to perform a complex
+surgery is wearing an AR, we all know how long a complex surgery takes place
+and there is a lot of room for errors no matter how experienced a doctor is.
+
+AR would provide information by displaying patient’s records, surgical
+checklists and also display patient’s vital signs on the display screen.
+
+AR assisted surgical technologies to assist professionals by providing things
+such as interfaces to operating room medical devices, graphical overlay-based
+guidance, recording & archiving the procedures, live feeds to remote users, and
+instant access to patient records.
+
+They can also allow computer generated images to be projected onto any part of
+the body for treatment or can be combined with scanned real-time images.
+
+The benefits of using AR in surgical procedures would be a risk of delays,
+reduced risk of errors and reduced risk of contamination because the device
+allows the surgeon to access information without removing his/her gloves.
+
+I would like to conclude that AR will be the technology which causes a great
+transformation on how devices interact with us!
+
+Sooner a mobile application development company adapts Augmented reality,
+greater chances of staying ahead of the rest.
+
+At NMG, we have done some great work with Augmented Reality Tech, watch out for
+our new application “Professional install” based on Augmented Reality.
+Want to learn more about how you can add AR to your business model.
+
+Request Free Pricing
+Technology
+
+
+Similar posts
+
+Events
+
+
+NMG Technologies to Participate in Retail Innovation Conference and Expo 2023
+in Chicago
+
+Boost Your Retail Experience with NMGTech at Chicago's Retail Expo! Custom
+software solutions for a smarter future. Join Us!
+
+Nishtha Jun 1, 2023
+Mobile
+
+
+NMG Recognized as a Top Performing Mobile App Development Company by GoodFirms
+
+GoodFirms is an excellent research and review platform who is lending a hand to
+the service seekers to get the perfect partner for developing an app...
+
+Nishtha Jul 14, 2017
+Growth
+
+
+Steps To Create Engaging Content For Mobile App
+
+Creating & editing content is critical to building and retaining an app
+audience. Find out how to improve your content strategy building mobile apps.
+
+Nishtha Nov 15, 2017
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

@@ -1,0 +1,230 @@
+Design
+
+
+5 Mistakes you can avoid while collecting Design Feedback
+
+There’s always a feedback stage in the web design process with clients. Here
+are the 5 mistakes to avoid when collecting & giving feedback on design drafts.
+
+Nishtha
+Aug 25, 2017
+--------------------------------------------------------------------------------
+
+Estimated reading time: 0 minutes
+
+Collecting web design feedback from clients can often turn out to be a tricky
+task. Everyone and anyone can have an opinion on design, but the most relevant
+feedback will only give you the best results.
+
+It is easy enough to comment; however, giving out clear and constructive
+feedback is what matters in the end.
+
+The most common mistake while inviting feedback is sharing the design too late
+in the project stage. All stakeholders must be asked to give their feedback in
+the early stages of the project.
+
+In every web design process, there is a feedback stage which requires
+exhaustive interaction not only between co-workers but also with external
+clients. It is also important to avoid web design feedback mistakes.
+
+This kind of interaction will obviously lead to improvement suggestions from
+both the sides.
+
+Involving client in the early stages of design feedback will require you to
+guide them into giving valuable and usable feedback.
+
+The best way to explain the same will require you to convince them that in
+order for the project to be a success, their feedback is immensely important.
+
+Refining your feedback process will help you in gathering more constructive and
+useful commentary. At the end, you will be able to create a design that is
+clear, compelling as well as relevant to what was asked.
+
+Learn More About Web Design & Development
+
+Here are some of the common errors people make in asking the client for
+feedback.
+
+1. Not setting a Feedback cycle: Setting a feedback cycle that works for both
+(agency and client) is quite relevant since several stakeholders are involved
+in one project.
+
+There could be a lot more to do on a project apart from web designing and not
+keeping any set time for feedback will only lead to confusion among
+stakeholders along with disrupting the other tasks involved in a single project.
+
+Setting a feedback cycle that is comfortable for you as well as your client
+will make things more streamlined.
+
+After you have presented your design to the client, you can set a timeline by
+which the client needs to send feedback. The time frame could be 24-48 hours or
+more if several stakeholders are involved.
+
+Simply asking for feedback as soon as your design work is not only
+unprofessional but also will be a waste of time as the client wouldn’t probably
+be around to give his/her feedback whenever asked.
+
+This habit needs to be discouraged.
+
+2. Not connecting the design to the actual business goal: So have made a
+fantastic design with all the right hues and aesthetics and everything is
+perfect according to your expertise and experience. But, the design actually
+serves no purpose or connection to the business of your client.
+
+What will it lead to? Your answer is as good as mine when together we will say
+a big “NO”.
+
+Nobody likes rejection, but the client is bound to reject your design and ask
+you to redo it when you will submit something which actually didn’t make sense
+in the first place.
+
+This is a common error people make, jumping the gun and submitting the design
+to client for feedback without forethought.
+
+You need to make sure that your design actually connects with the business
+goals of the client.
+
+This way you will be able to garner constructive feedback which will be
+connected to the bottom line rather than simply discussing the typography.
+
+Eager To Know Web Design Best Practices – 10 Stunning Examples
+
+3. Getting feedback in an unstructured way: If there is no process for feedback
+collection, you might end up sitting in useless meetings wherein very generic
+and lengthy feedback is shared which is inconsistent.
+
+When you will ask the client or even your colleagues for that matter for
+feedback, you will be given some extensive and unstructured feedback which will
+be filled with personal opinions, thoughts, and viewpoints that have little or
+nothing to do with the design’s business value.
+
+Always keep the feedback process clear-cut and systematic without leaving room
+for ambiguity.
+
+4. Not detailing issues in writing: In a professional relationship, it is
+always advisable to conduct all interactions and transactions in the written
+mode. At least, the ones which are meant for getting the project in the right
+direction.
+
+You can also have a visual feedback service which will enable your client to
+give explicit feedback in a practical way without involving him or you to waste
+time in a meeting and point out all areas of the web design where changes are
+needed.
+
+ Learn About difference between Good design or Great Design
+
+Addressing big issues early and that too in writing will help you do a great
+job at your design will help you receive an explicit ok to move forward.
+
+5. Not using any professional tool for getting feedback on design drafts:
+Making use of design collaboration tools can be a great replacement for emails
+or phone calls while you collect client feedback. Tools make your job easier
+and make it possible to collect in-depth feedback without wasting time on
+needless interaction.
+
+Below are some of the tools that can be effectually utilized to collect
+feedback in a more constructive way:
+
+    • InVision App: InVision is a popular app for designers and developers
+      which are used to collect feedback as well as collaborate on design
+      drafts.
+    • Framebench: With the help of Framebench, you can easily manage your
+      design files and also keep your design feedback on the right track. It
+      also has a mailbox from which design feedbacks can be communicated.
+    • Red Pen: Another popular feedback tool that is simple and compact allows
+      users to get feedback almost instantly.
+
+A good design can be transformed into something better with the help of
+constructive feedback.
+
+However, collecting and giving out feedback is a crucial phase of a project in
+which it is likely that people may take things personally.
+
+By avoiding the above-mentioned mistakes and making use of some
+feedback/collaboration tools designers and project managers can reach a
+consensus and ensure an efficient and transparent feedback process.
+
+ Discover 5 Web Design Trends
+
+Best practices for collecting useful feedback
+
+A diversity of opinions and feedbacks can help you in making your good design
+even better. Here are a few tips and tricks which will help you in collecting
+user feedback.
+
+1. Although already mentioned, it is not enough to emphasize the relevance of
+project management tools in collaborating with the client. Feedback will be
+centralized as well as organized in this way and will help you make suitable
+revisions.
+
+2. Too many options can often lead to confusion in the mind of the client and
+might overwhelm your reviewers; hence, it is advisable to limit the number of
+options which will help in extracting relevant feedback.
+
+3. Providing some data while presenting your design will help you in getting
+your finest piece selected. Support your design decisions on the basis of user
+experience, site performance, and conversions etc. with the help of some
+usability tools. You can conduct this usability trial prior to submitting your
+final designs.
+
+4. It will be great if you try to demonstrate website interaction with the help
+of your design choices. Create mockups with clickable links that will show how
+the site performs, how will people land at a particular page etc. Based on some
+demonstrated user experience, your client will be able to consider your designs
+at a different level altogether.
+
+5. Give your client adequate opportunities to collaborate and to provide
+feedback at multiple intervals. Get regular feedback and approvals for
+wireframes and other small sections of the big design from the clients and make
+them have an ownership to the final product. This will make the client feel
+useful and welcome and might also give you a window to work together again.
+
+Creating a great web design is not a Herculean task for a qualified and
+experienced web designer; however, the key lies in extracting the relevant
+amount of feedback from the client which helps your design to become the best
+they have ever seen.
+
+Taking care of the usual mistakes and implementing the above tips can help you
+create one masterpiece after another.
+
+Contact us today for all your designing needs.
+
+Request Free Pricing
+Design
+
+
+Similar posts
+
+Events
+
+
+SEMPO Hangouts Session- Web Design and User Experience
+
+Designing a great website user experience requires understanding the problems.
+Go through SEMPO Hangouts Session to know about the UX Design best...
+
+Nishtha Jul 10, 2016
+Design
+
+
+Vital Principles for Quality Web Design
+
+If you're working on a design for your website, make sure you follow or
+consider these vital principles of web design to secure the first impressions.
+
+Nishtha Nov 30, 2012
+Design
+
+
+5 Design Trends to Invest In 2017
+
+What are the web design trends in 2017? let's explore 5 design trends to invest
+in 2017 to give your website a serious facelift.
+
+Nishtha Mar 12, 2017
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

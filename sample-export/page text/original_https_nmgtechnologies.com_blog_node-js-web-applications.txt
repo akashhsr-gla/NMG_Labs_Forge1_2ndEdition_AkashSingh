@@ -1,0 +1,497 @@
+Technology
+
+
+node.js for Web Applications
+
+Why use Node.js? A comprehensive guide to building an interactive and
+fully-featured web application from scratch with NodeJS.
+
+Nishtha
+Sep 30, 2017
+--------------------------------------------------------------------------------
+
+Estimated reading time: 0 minutes
+
+It’s a known fact that JavaScript’s contribution to web application development
+is immense, and node.js has been a part of the major revolution.
+
+Since the time of its introduction JavaScript has always been a popular choice
+and it has surely brought a lot of changes, and the face of web development
+today is so much different because of it.
+
+The things we are able to do on the web nowadays, with JS running on the
+server, as well as the browser, were only imaginary few years back, or we
+would’ve been stuck with environments like flash or java applets.
+
+Node.js is an open source, cross-platform JavaScript run-time environment for
+executing JavaScript code server-side.
+
+It shines in real-time web applications employing push technology over web
+sockets.
+
+What’s so different about it?
+
+Well, this is one of the most reliable tool to create real-time web
+applications, two way connections, where both the client and server can
+initiate communication which allows them to exchange date freely.
+
+If you’re someone who would argue or read somewhere that, we’ve already had
+this in the form of flash and Java Applets, my friend you’ve got some wrong
+information.
+
+They were just sandboxed environments using the web as a transport protocol to
+be delivered to the client. And on top of that, they were run in isolation and
+often operated over non – standard ports, which may have required extra
+permissions.
+
+Because of all these advantages, building web applications using node.js has
+been a trend and an obvious choice in the technology stacks of many top rated
+companies.
+
+Some of your favorite websites and services were developed using node.js, some
+of them are Uber, EBay, Linked in, PayPal and many more. We will discuss these
+examples in detail later in this article itself.
+
+Learn about Our Web Application Development Services
+
+The main reason for choosing node.js over others are mainly its advantages,
+which we will be discussing now.
+
+Let’s take a look at 10 advantages of node.js.
+
+It’s quite fast
+
+The functions on node.js are impressively faster than their competition which
+makes it an ideal choice for web application development companies.
+
+It runs on the V8 engine developed by Google that uses JavaScript into native
+machine code and operates at lightning speed.
+
+It spares you from wasting time and efforts involved in forming separate
+threads and instead uses a single thread, that is, the event loop that takes
+care of all the asynchronous I/O operations.
+
+Major web actions in the web applications including reading or writing the
+database, network connections or file system can be performed quickly with this
+suite.
+
+Node.js is the reason behind the success of most of the companies building
+robust web applications in much lesser time than they usually do.
+
+It does not slow the working process, rather helps the developers but they need
+to be careful while writing the codes.
+
+Web app development companies have benefitted mostly with this feature, for
+example, linked in was first on Ruby on Rails but then they’ve opted for
+node.js as they wanted to refine the mobile traffic which helped them reduce
+the number of servers from 30 to 3.
+
+This also made the application much smoother, companies like eBay and PayPal
+have also improved their response time by a huge margin.
+
+Availability
+
+The availability of JavaScript is everywhere, in the browser as well as
+server-side only because of node.js.
+
+Node.js has the same functions be it on the server side or the browser side and
+it is very much flexible in usage.
+
+If you a company questions the logic for the browser to be shifted on the
+server, it can consider node.js code migration.
+
+Real-time Web Applications
+
+Node.js is something which creates real-time web applications at a lightning
+speed.
+
+Let me tell you this, the amount of time required to create a simple blog page
+in PHP is the time node.js would require to create a real-time web application.
+
+Node.js is a clear winner with the best tool for developing web applications
+with its multi-user, real-time web apps like games and chat applications.
+
+The event-driven architecture caters to both the client-side and the
+server-side that is written in JavaScript and thus the synchronization process
+is fast and orderly.
+
+Easy Coding
+
+Node.js allows developers to write code in C, C++, JavaScript for both the
+server and client which makes it convenient to transfer data between the server
+side and also the client side to coordinate the work simultaneously.
+
+Meteor, a web application framework which is created using node.js support’s
+the same codebase for the client and the server.
+
+For example, if a change has been made on the server side the changes instantly
+appear on the client and the web page that shows this data automatically makes
+the updates.
+
+Node.js does all the needed changes of the development process and helps fast
+scalable network apps.
+
+It solves all the database queries
+
+The database queries for the new NoSQL databases like MongoDB, CouchDB have the
+JavaScript framework.
+
+Developers need not modulate the syntax differences while uniting the node.js
+and NoSQL databases.
+
+As mentioned above node.js wins the real-time web apps as the JSON stored data
+format enables it to run without any obstacles in data conversion and
+mismatches, unlike Ruby on Rails for PHP that needs the same format from JSON
+to binary models.
+
+Dynamic NPM
+
+Node.js has a very dynamic repository of dynamic tools and modules that
+programmers can share for app development.
+
+It has thousands and thousands of modules which a developer can use for various
+types of tasks, like file upload management, connectivity to MySQL databases or
+to Redis, via frameworks, template systems, and management of real-time
+communication with visitors.
+
+Node.js is package manager or NPM is a messiah for many web app developers who
+need to reuse a code some JavaScript developer has created to solve a
+particular task or a problem,
+
+Because NPM allows JS developers to download updates that are made to a
+particular code they have previously used in their applications, even if you
+don’t want to reuse a code created by a JS developer from outside your team of
+project or even your company, you can adapt the module-based approach to
+improve synergy between your team members.
+
+After using NPM, many companies have witnessed a significant rise in the
+developer’s productivity.
+
+Companies like PayPal and eBay especially where the time of transactions have
+reduced by a fair bit.
+
+Besides this, these companies never required as many developers as they used to
+be, because of node.js being adapted.
+
+Best use of Proxy Server
+
+It is indeed one of the top advantages of using node.js, it serves as a proxy
+server for services with different response times or for collecting data from
+multiple source points.
+
+Let me help you understand a bit better.
+
+A company has a server-side application that is meant to communicate with third
+party resources, collect data from different sources, or store images and
+videos to third-party cloud services.
+
+Although the company can use dedicated servers, node.js is a better option in
+the event of the non-existent infrastructure of when a solution is needed for
+local development.
+
+Rise in Productivity
+
+All the node.js programs are crafted using JS which implies that the silos that
+were present between the frontend and the backend developers are split entirely
+which increases the effectiveness of the web development process at different
+enterprises.
+
+Companies can combine the frontend and backend teams together into a single
+unit for smooth functioning by getting rid of the inter-silo dependencies.
+
+As mentioned above PayPal is a perfect example.
+
+Next level in Hosting
+
+As node.js is gaining popularity among developers’ day by day, its hosting has
+gone a long way to become a big success.
+
+PAAS (Platform as a service) service providers such as Heroku and modulus offer
+enough support to node deployments to a single command.
+
+With node.js hosting, you can reduce page load time by a drastic mile and bring
+down the number of servers which host the application.
+
+Community friendly
+
+Besides its core competencies, node.js consists of a flourishing open source
+community that has delivered many outstanding modules, making the node.js
+applications shine all the more.
+
+A popular one is a socket.io, a module to handle constant communication between
+the client and the server allowing the server to push real-time updates to
+clients.
+
+It operates on the best technology used to form these links away from the
+developer, particularly for specific clients.
+
+How does Node.js work?
+
+Before Node.js was introduced computers were only able to manage one problem at
+a time where the CPU can only do one thing at a time. That was solved by
+multi-threading, allowing us to
+
+That was solved by multi-threading, allowing us to multi-task with multiple
+threads on a single CPU.
+
+To make it easy, if you have 10 threads going on, a CPU scheduler will split
+the CPU’s time evenly between all of them so they get equal time slices, say
+maybe in a second, each of the 10 threads would get 100 milliseconds.
+
+It Switches between them all the time and while it’s pretty fast. The switching
+has a ton of overhead.
+
+Let’s not get carried away here, it’s just an example of how node.js does the
+same in web app development.
+
+Node.js is something which will help all the existing platforms to perform
+better by making them faster and more efficient, but also reducing the efforts
+needed by a development team.
+
+It’s interesting how node.js works internally, when you compare to a
+traditional web-serving techniques where each connection spawns a new thread,
+taking up system RAM and eventually maxing out at the amount of RAM available,
+Node.js operates on single-thread, using non-blocking I/O calls, allowing it to
+support tens of thousands of concurrent connections.
+
+It takes control of deciding what work needs to be done rather than having a
+schedule to figure out.
+
+Rather than having a new thread gets created on each request, there is on the
+thread for every single request. When a new one comes in, it fires an event
+that runs some code. Similar to that of how jQuery works.
+
+When you make a call to a database, for example, rather than a block until its
+return, you just run a call back function the call is complete.
+
+The difference isn’t really being node.js itself, it is your code that ends up
+being different. It just heavily guides you into doing it the node.js way.
+
+You could also do this in other languages, but if you ask me JavaScript syntax,
+and node’s framework is really good for it.
+
+Okay, you’ve read a lot about node.js and its mostly positive, have you ever
+thought there could be drawbacks to this too?
+
+Let me tell you what are the drawbacks of node.js.
+
+Performance bottlenecks and design defects
+
+There are the two most argued aspects of node.js programming, they are
+insufficiency with heavy computations and also callback hell.
+
+Before we brag more about them, let me tell you what they are.
+
+For some of you who know JavaScript is asynchronous by nature and has a
+non-blocking I/O model, as mentioned above. This means it can process several
+simple tasks queued in the background without blocking the main thread and do
+so quickly.
+
+This means it can process several simple tasks queued in the background without
+blocking the main thread and do so quickly.
+
+At the same time, node.js is a single threaded environment, which is often
+considered a serious drawback of the technology.
+
+Indeed, in some cases, a CPU bound task can block the event loop resulting in
+seconds of delay for all the website users.
+
+This represents a serious issue. That is why to avoid it, it Is recommended not
+to use node.js with heavy computations systems.
+
+Due to its asynchronous nature, node.js relies heavily on callbacks, the
+function that run after each task in the queue is finished, keeping a number of
+queued tasks in the background, each with its call back, might result in the
+so-called “callback hell”, which directly impacts the quality code.
+
+Immaturity of tooling
+
+Even though the core node.js modules are quite stable and can be considered
+mature, there are many tools in the NPM registry which are either poor quality
+or not properly tested.
+
+It’s advantage of having so many tools is its disadvantage.
+
+Moreover, the registry itself isn’t structured well enough to offer the tools
+based on their rating or quality, hence it might be difficult to find the best
+solutions for your purposes without knowing what to look for.
+
+The fact that the node.js ecosystem is the mostly open source, has an impact as
+well. While the quality of the core node.js technology is supervised by joyent
+and other major contributors, the rest of the tools might lack the quality and
+high coding standards set by global organizations.
+
+Demand for node.js programmers
+
+This may not be an issue with node.js itself but despite a common belief, not
+all JavaScript developers are node.js developers as well.
+
+Mastering server side JavaScript programming requires a significant amount of
+effort and a certain background in backend development.
+
+Due to such a steep learning curve, the number of node.js engineers is
+significantly lower that the total number of JavaScript developers.
+
+As the hype over node.js continues to grow, the demand for experienced
+professionals in this field increases.
+
+Despite all the defects node.js is still a great tool for web app development.
+
+So where can I use node.js?
+
+If there is a place where node.js is desperately needed, it will be on the
+server side web applications.
+
+This is the node.js territory, node.js with express.js can also be used to
+create some of the classic web applications on the server-side.
+
+However, while possible, this request response paradigm in which node.js would
+be carrying around rendered HTML is not the most typical use-case. There are
+many arguments on this on various forums
+
+But here are some facts you need to consider.
+
+• If your app doesn’t have any CPU intensive computation, you can build it in a
+JavaScript top to bottom, even down to the database level if you use JSON
+storage object database like MongoDB. This will definitely help in your
+development.
+
+• Crawlers will receive a fully rendered HTML response, which is far more
+SEO-friendly than, a single page web application or a websockets app run on
+node.js
+
+Where node.js shouldn’t be used?
+
+This might surprise you a bit, you need to read the whole sentence before you
+misunderstand it.
+
+Node.js shouldn’t be used on the Server-side web application with a relational
+database behind.
+
+If you compare node.js with express.js against ruby on rails, for example,
+there is a clean decision in favor of the later when it comes to relational
+data access.
+
+The relational database tools for node.js are still in their early stages;
+they’re rather immature and not as pleasant to work with. On the other hand,
+Rails automagically provides data access setup right out of the box together
+with database schema migrations support tools.
+
+What all websites were built using node.js?
+
+There are many amazing website or web applications built on node.js, starting
+with the most popular web application
+
+PayPal
+
+Most of us have used this atleast once, PayPal is one the earliest internet
+corporations.
+
+It still is one of the most reliable source for purchasing over the internet,
+and anyone can have a PayPal account.
+
+It’s been almost a couple of decades that PayPal has been on the internet and
+it has definitely reinvented itself with the upgrade given by node.js.
+
+Yahoo!
+
+Yahoo, brings back so many memories!
+
+It’s a 40 billion market valued tech behemoth, has been using node.js for years
+now.
+
+Yahoo uses node.js In many of its web services and web applications which
+include Yahoo answers and Yahoo Screen.
+
+Groupon
+
+Groupon was the website which helped many of us save a lot of cash, with its
+amazing deals!
+
+One of the best e-commerce websites out there which provides anything you can
+ask for.
+
+Launched in 2011, was actually built on node.js unlike PayPal which upgraded to
+node.js.
+
+Wall Street Journal online
+
+One of the most popular American daily news website and also a paper. With
+special prominence on Business and economic news.
+
+According to one of their engineers, node.js has actually reinvented the way
+their website works. They believe it does wonders for them, the critical
+functionalities which earlier took weeks took only days with node.js.
+
+Shutterstock
+
+Shutter stock is one of the best photography website, where you could download
+some of the best images on various different topics. Not everything is for free
+though!
+
+If you need some amazing pictures for your website or a blog or a project, this
+is the place you need to visit.
+
+Guess what? it’s built on node.js.
+
+There are many cool websites like these built on node.js, I guess this explains
+why it’s the most popular choice for the web application developers.
+
+Conclusion
+
+We have discussed all the aspects of node.js and it’s clearly a winner over its
+competition and also a great choice for building a web application, web
+application with node.js should be a chosen when you think its advantages will
+be your advantage and it can be the ideal choice for your web application.
+
+If your choosing node.js just for the sake of its popularity, I would suggest
+you to reconsider.
+
+We have already discussed its strengths and weaknesses, so before you start
+your own node.js web app you need to recheck how it’s strengths would help your
+web app.
+
+If you already have a plan on having your own web application on node.js, I
+would recommend you to contact NMG. They have a ton of web applications under
+their belt and a bunch of talented developers who could help you get your own
+node.js web app.
+
+Request Free Pricing
+Technology
+
+
+Similar posts
+
+Growth
+
+
+Steps To Create Engaging Content For Mobile App
+
+Creating & editing content is critical to building and retaining an app
+audience. Find out how to improve your content strategy building mobile apps.
+
+Nishtha Nov 15, 2017
+Technology
+
+
+.NET Core: 20 Advantages of Building Your Software in ASP.NET Core
+
+Microsoft has now launched Asp.NET Core as a high performance, open-source,
+modern, cloud-based framework to build enterprise applications.
+
+Nishtha Feb 3, 2020
+Outsourcing
+
+
+Best Practices of Offshore Software Development
+
+It is very important to identify the challenges and risks of an offshore custom
+software development company and mitigate them properly.
+
+Nishtha Jun 1, 2012
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

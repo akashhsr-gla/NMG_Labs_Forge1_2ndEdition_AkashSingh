@@ -1,0 +1,203 @@
+Events
+
+
+SEMPO Hangouts Session- Web Design and User Experience
+
+Designing a great website user experience requires understanding the problems.
+Go through SEMPO Hangouts Session to know about the UX Design best practices.
+
+Nishtha
+Jul 10, 2016
+--------------------------------------------------------------------------------
+
+Estimated reading time: 0 minutes
+
+UX is an essential field to digital product development but is still mysterious
+to many due to its continually evolving definition. Businesses needing greater
+customer engagement and traffic on their website are often looking for content
+suggestions and best practices to help in their site growth.
+
+UX is an essential field to digital product development but is still mysterious
+to many due to its continually evolving definition.
+
+Businesses needing greater customer engagement and traffic on their website are
+often looking for content suggestions and best practices to help in their site
+growth.
+
+We can help you decode the mystery behind a great UX with this SEMPO session.
+
+ Learn More About  User Experience Strategy & Design
+
+What is SEMPO?
+
+SEMPO (Search Engine Marketing Professionals Organization), a global non-profit
+organization that works on serving the industry of search and digital marketing
+initiatives.
+
+It conducts productive sessions to discuss relevant industry topics and
+suitably recognize industry experts while laying out a platform for them to
+network across peers.
+
+SEMPO provides a foundation for industry growth by building stronger
+relationships, fostering awareness, promoting the industry, generating
+research, and creating a better understanding of search and its role in
+marketing.
+
+On November 20th, 2015; an informative hangout session was presented by SEMPO’s
+education committee on the relevance and latest trends pertaining to web design
+and user experience.
+
+The speakers included three prominent names from the global industry – Todd
+Chambers – VP of Group Creative Director, BKV; Mohit Maheshwari – CEO, New
+Media Guru India Pvt. Ltd. and Mike ZeMans, owner of Z Strategic.
+
+      What is the one tool you can’t do without? Basecamp-@BKVadvertising
+      Envision App- @NEW_MEDIA_GURU Google Analytics/Moz @michaelzemans #SEMPO
+
+      — SEMPO (@sempoglobal) November 20, 2015
+
+      “analytics should drive your decisions making and asset allocation”
+      @NEW_MEDIA_GURU #SEMPOChat
+
+      — SEMPO (@sempoglobal) November 20, 2015
+
+      “videos; mobile optimized, transcripts on the page, indexed,
+      descriptions, tags improve SEO value” @NEW_MEDIA_GURU #SEMPOChat
+
+      — SEMPO (@sempoglobal) November 20, 2015
+
+      “Google Analytics is a great tool…data analytics are underutilized in the
+      industry” @mohitinhere @NEW_MEDIA_GURU #SEMPOChat
+
+      — SEMPO (@sempoglobal) November 20, 2015
+
+      “emphasis on analytics for mobile traffic, heat maps, forming content
+      based on this information” @mohitinhere #SEMPOChat
+
+      — SEMPO (@sempoglobal) November 20, 2015
+
+Additionally, the SEMPO Cities initiative was announced in April last year that
+called for leader nominations wherein 20 city leaders were nominated among
+which Mohit Maheshwari – CEO New Media Guru India Pvt. Ltd. was nominated for
+the SEMPO Cities Leader for the year 2015 among notable global counterparts.
+
+Below are 15 actionable points from the session that can help you understand UX
+like a Pro.
+
+#1 UX not just captures user’s eye and help them navigate but also helps in
+search engine rankings.
+
+#2 UX is all about showcasing great content in minimal designs spaces.
+
+#3 Visual design is how a product looks, whereas UX design is, essentially, how
+it feels.
+
+#4 Top UX goal is to help users find what they are looking for quickly and
+easily.
+
+#5 Think about how your audience will behave. How they look up for information
+is the most important factor in creating the perfect user experience.
+
+It always pays to know your user. Ask these questions to yourself.
+
+    • What are the needs of your users?
+    • How does your audience approach workflow?
+    • What does your user look for while browsing online?
+
+#6 Some of the most important points to consider while redesigning your website
+and core business offering are:
+
+    • Perform a website audit
+    • Pay attention to bad components
+    • Pay attention to usability and design
+    • Pay attention to information architecture, the technology used and how
+      all these are used in creating an optimal user experience.
+    • Emphasize on data analytics and data, studying results and user focus and
+      designing the website accordingly.
+
+ Which one does your business need? Good design or Great Design
+
+#7 Observe and record customer behavior on your website by interviews,
+interactive and real-time surveys and engaging with them.
+
+#8 Tools like Kissmetrics, Google Analytics, Crazy Egg, Lucky Orange,
+Usertesting.com etc. can help in giving out valuable data and insights for
+improvising site usage.
+
+#9 Make use of the right keywords and content to appeal to all kinds of users.
+
+#10 Capture data pertaining to customers, their online behavior, their online
+habits, websites they click, keywords that they look up.
+
+#11 Incorporating videos on site intelligently can enhance site rankings and
+usage as they convey brand ethos.
+
+Videos can be a good tool for capturing the attention of the target audience.
+
+In order to get videos crawled by search engines, it is important to make them
+SEO compliant.
+
+Using the right tags, putting the right descriptions, getting analytics done,
+embedding the video links and indexing them on Google are hugely important.
+
+#12 Subtle mistakes in site navigation can have a big impact on your traffic
+and ultimately sales.
+
+#13 A cluttered website can be a big turnoff for visitors. Measure site
+analytics and collect data on all pages of a website to be in sync with the
+central site theme.
+
+#14 InVision, Basecamp and Google Analytics are some of the most useful tools
+for web design and having an optimal user experience.
+
+#15 When a user has a great experience they are more likely to buy or return to
+a product as well as recommend it to their friends.
+
+Discover  Web Design Best Practices – 10 Stunning Examples
+
+When a user buys the product, returns to the site, or recommend it to their
+friends the traffic and conversion rate for that site are both increased.
+
+This session highlighted some of the most pertinent issues regarding web design
+and user experience and the ensuing discussion among the speakers gave huge
+insights on these issues that chiefly concern startups and SMBs.
+
+Watch the Hangouts Session
+Events
+
+
+Similar posts
+
+Design
+
+
+Vital Principles for Quality Web Design
+
+If you're working on a design for your website, make sure you follow or
+consider these vital principles of web design to secure the first impressions.
+
+Nishtha Nov 30, 2012
+Design
+
+
+5 Mistakes you can avoid while collecting Design Feedback
+
+There’s always a feedback stage in the web design process with clients. Here
+are the 5 mistakes to avoid when collecting & giving feedback on design...
+
+Nishtha Aug 25, 2017
+Design
+
+
+Good design or Great Design – Which one does your business need?
+
+Ready to make sure your Web design is looking its best? Read on to know about
+the best Practices for web designing.
+
+Nishtha Mar 26, 2015
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

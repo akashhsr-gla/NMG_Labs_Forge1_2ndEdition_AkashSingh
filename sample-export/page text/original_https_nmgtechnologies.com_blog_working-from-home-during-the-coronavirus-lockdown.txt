@@ -1,0 +1,547 @@
+Featured
+
+
+How NMG is managing Work From Home during the Coronavirus Lockdown
+
+Discover how NMG is managing everything by setting the entire team for Work
+From Home during Coronavirus lockdown. Here are the best strategies and tools
+you need to know.
+
+Nishtha
+Mar 27, 2020
+--------------------------------------------------------------------------------
+
+Estimated reading time: 14 minutes
+
+Discover how NMG is managing everything by setting the entire team for Work
+From Home during Coronavirus lockdown.
+Here are the best strategies and tools you need to know.
+
+No one has ever thought that they will be undergoing a complete lockdown in
+their lifetime. But unfortunately, we all are confronting this nowadays.
+
+We all are facing these circumstances due to the viral spread of the
+Coronavirus outbreak which has been declared a Pandemic by WHO.
+
+In this critical situation, it’s everyone’s duty to self isolate as a
+collective society and break the chain of viral spread.
+
+…
+
+Covid-19 is affecting lives, regular basic chores and most importantly
+impacting almost all types of businesses with its rapidly increasing risk
+rates.
+
+As a result, all businesses in the private sector have to overnight turn to
+manage their teams and projects while working from home. In such scenarios,
+many companies have efficiently managed their work from home and many are still
+struggling with how to make everything work out perfectly for their clients and
+projects.
+
+
+Background about CoronaVirus and Government of Delhi and Haryana mandate to
+private companies
+
+Covid-19 commonly known as Coronavirus that is spreading vastly and putting
+everyone’s life in danger.
+
+The disease might not be detected with extremely painful or severe symptoms,
+but actually, it’s leading mankind towards a big life risk.
+
+World Health Organization (WHO) is giving continuous updates on Coronavirus and
+informing us on how we can prevent ourselves and our loved ones from this
+rapidly spreading epidemic.
+
+By observing the aggressively increasing risk rates due to Coronavirus, many
+State governments have ordered a lockdown on Sunday – 22nd March 2020 . The
+orders were for a lockdown from 23rd March 2020 to 31st March 2020. However,
+the Prime minister later made it a full country lockdown for 21 days till 14th
+April 2020.
+
+We at NMG have offices in Gurugram (Haryana) and Delhi, we pre-planned to start
+working from home effectively during the lockdown.
+
+
+Preemptive steps taken by NMG to prepare for Work From Home
+
+Our organization preempted this lockdown and planned to operate remotely to
+serve our clients and meet their project deadlines.
+
+We at NMG have always used cloud-based solutions for our design, development
+and digital marketing teams to ensure there is business continuity and
+efficient project management in scenarios such as this.
+
+Some of these processes, tools and platforms have helped us manage this remote
+work transition efficiently.
+
+Below are steps we took for Work from Home preparedness for our teams. Here,
+you’ll get amazing working from home tips that can help you manage your work
+and teams remotely.
+
+
+1. Company-wide Surveys for Work From Home readiness
+
+We did a company-wide “ Work from Home readiness” survey in the week between
+16th – 20th March with a view that a social lockdown was soon coming.
+
+Work from Home Readiness Survey 1
+
+
+2. Allocation of laptops and emergency purchase
+
+After the survey submitted by all the employees, we did a gap analysis on our
+Work from Home infrastructure and got the data for how many employees already
+have personal PCs and laptops and the number of laptops we need to arrange to
+fasten the Work From Home process.
+
+We quickly moved to fulfill IT hardware procurement requirements and procured
+the necessary hardware for the team with all the required software and tools.
+
+
+3. Broadband readiness (Work from home readiness Survey)
+
+We checked if the Broadband internet connections (NO 4G or Mobile hotspots
+since our clients expect us to be clued in on the client calls) of all the
+employees are active and stable.
+
+To cross-check this, we asked all employees to submit their internet broadband
+bills payment receipts.
+
+This can be one of the best tips for working remotely that you can adopt to
+deliver quality work.
+
+With this process over 25% of our employees who relied on Mobile 4G data for
+their internet access – came into action and applied for home Broadband
+internet within the tiny window which was pre lockdown – 23rd March 2020 from
+when Work from home was affected by the Govt of the respective states where our
+offices were.
+
+
+4. Legal Documentation for Work From Home for Client confidentiality and IP
+protection
+
+However, just equipping employees with Hardware (PC, Laptop) and Broadband
+internet wasn’t enough.
+
+Since we work for client projects, it is very important we also honor our
+commitment to Confidentiality and other IP related disclosures. For this
+purpose, a letter was drafted by our HR team in consultation with our legal
+team which was signed by every employee before the Work from home kicked into
+action.
+
+Getting the legal documentation signed by the senior professionals and project
+managers is the step that can be taken to prevent the company’s projects. You
+can consider this step as one of the best tips for working from home effectively
+.
+
+
+5. System allocation with pictures for future-proofing company assets
+
+We used MS Forms for record keeping the hand over of company hardware assets
+like Desktops, Laptops, Headphones, Keyboard and Mouse. All the hardware was
+clicked and screenshots were attached to the forms. We did this so that future
+reconciliation of assets can be done easily by our IT team.
+
+If you’ve also provided company assets to your employees, you can use this
+trick as one of the best tips to work from home.
+
+Post getting submissions from the surveys, we moved to the next step of
+providing access (to the NMG team) to the tools that are helpful to efficiently
+carry out their Work From Home.
+
+
+Tools we are using during Work From Home
+
+Discover different tips and tools that can definitely provide you with a
+well-managed work from home experience.
+
+
+1. MS Teams
+
+MS Teams is a group chat and collaboration software (which is available for
+free and comes under Office 365. This collaboration software can easily be
+installed and used on any device as it provides specific desktop set-ups for
+Windows, macOS, Linux and robust apps for Android and iOS smartphones.
+
+On the top, it helps you work remotely, without letting you feel remote.
+
+Features and benefits of MS Teams
+
+    • Groups chats for teams working on the project
+    • Groups call for teams and virtual meeting rooms
+    • Common files repository which is powered by Sharepoint
+    • Integration with 100s of 3rd party apps to make a common collaboration
+      suite across apps
+    • Integration with offices 365 and MS office suite of products like Word,
+      Powerpoint, Excel, etc.
+
+Share these best tips for working remotely with your friends to reduce half of
+your work hassle.
+
+We have also recorded a small video explaining how we use MS teams.
+
+
+2. Zoom – Video-conferencing
+
+Using Zoom as your work from a home companion, you’ll be able to do video
+conferencing, web conferencing, webinars and many other video recordings for
+work purposes.
+
+Zoom is a leading tool in modern enterprise video communication and offers an
+easy and reliable cloud platform for audio and video conferencing.
+
+All you need is to download the app and install it on your personal PC or
+laptop to get started.
+
+Features and benefits of Zoom
+
+    • Online meetings, training and technical support
+    • Video webinar
+    • Conference calls
+    • Audio calls
+    • Cross-OS platform messaging and file sharing
+
+Using Zoom for team calling and video conferencing during the lockdown, you can
+provide your team the best ways and tips to work from home .
+
+We did a company-wide stand meeting using Zoom on our 1st day of Work from home.
+
+
+3. Zoho Projects
+
+Zoho Projects is widely used as the best online project management software and
+tool. It’s a cloud-based project management tool that helps you manage and plan
+your work efficiently. It also provides the tracking facility where you can
+track every project activity and collaborate with the team whenever required.
+
+So, if you’ve also provided remote access to your employees, using Zoho
+Projects can be a good fit to track task progress for all your running
+projects. You can also use it as one of the best working from home tips and
+share it with all your tech connections.
+
+Features and benefits of Zoho Projects
+
+    • Get the work done on time
+    • Get the big pictures of task with Gantt chart
+    • Easy logging time with timesheets
+    • Customize tasks and activities
+
+Check how Zoho helps you plan and manage your work.
+
+
+4. Office 365
+
+By downloading and configuring the latest version of Office 365, you’ll be able
+to collaborate and use Microsoft Word, Excel, Powerpoint, Spreadsheets,
+OneNote, etc.
+
+Features and benefits of Office 365
+
+    • Monthly updates – for installed versions of Outlook, Excel, Word,
+      Powerpoint with all latest features and capabilities
+    • Control on access – to ensure access across multiple devices and OS
+    • Ample cloud storage – to store & share documents, photos and other
+      important stuff
+    • Digital storytelling – by creating interactive web-based reports,
+      newsletters and presentations
+    • Collaboration – efficient communication and work management
+    • Microsoft support – with quick online responses and how-to resources
+    • Manage Email & Calendars – with ease and efficiency
+    • Connect and collaborate – with the team associated with Office 365 via
+      chat or sharing content
+    • Access to power automation – feature to create workflows between your
+      files apps and data
+    • Share videos – of meetings, training sessions and presentations
+    • Contact management– of all your colleagues and professional acquaintances
+
+Office 365 has a lot of options that can let you work from home effectively and
+efficiently. If someone is looking for working from home tips and tools, you
+can recommend Office 365 to them.
+
+
+5. Status Hero
+
+When you use Status Hero , you’ll be able to track your daily goals, activity
+logs, task status updates of your entire team, all in one place. It’s a
+lightweight application, helping teams in doing daily stand-ups and tracking
+their day-to-day activities.
+
+Features and benefits of Status Hero
+
+    • Daily stand up check-ins and goals accumulation over email, SMS or bot.
+    • Centralized activity logs that can be easily accessed from your existing
+      tools like GitHub and Jira, Trello, Pivotal Tracker, etc.
+    • Actionable insights to plan tasks and 1:1 meetings.
+    • Acknowledge projects blockers in daily stand-ups and updates.
+    • Beautiful graphs so that the team can instantly visualize overall
+      productivity and efficiency.
+    • Magic link check-ins help team members to access it without any login or
+      downloading an app.
+    • Time zone awareness for teams that are working across multiple
+      geographies.
+    • Customized reminders, holidays, reporting frequencies, and check-in
+      questions.
+    • Easy set-up and switching between multiple teams on the fly.
+    • Activity stream of events from all team’s tools in real-time, all in one
+      place.
+    • Insights and analysis so the users can drill down retros and one-on-ones
+      data by date range or team member.
+    • Comments, reactions and @mentions so all the team members can quickly get
+      the info and help each other.
+    • Check-ins categorization for pre-defined and new #hashtags on the fly.
+    • Easy i ntegration with Slack, Jira, GitHub, Trello, Pivotal, Clubhouse,
+      webhooks, Microsoft Teams, and many more .
+    • Mood tracking to get a better sense of the emotional state of your team
+      members.
+    • Observer mode for stakeholders and managers who only want to view
+      check-ins without participating.
+
+It’s an amazing tool to be used to track the remote work of all the employees
+with time and task assigned. We suggest you use this as one of the best tips to
+work from home.
+
+
+6. OneDrive
+
+One drive is part of the Office 365 suite of cloud applications. We have
+configured it to do an automated backup of all employees’ PCs on a daily basis.
+Hence we went remote and all the data on PCs was available from home to our
+employees.
+
+Features and benefits of OneDrive
+
+    • Automatic backup for your all your desktop files and folders
+    • Access your PC files without PC
+    • Undo all changes using version history
+    • Protect all files from ransomware attacks
+    • Collaborate easily with all Microsoft integrations
+    • Safe and secure auditing and reporting
+    • Data encryption during and after transit
+    • Hybrid integration with SharePoint Server
+    • Multi-Geo storage facility
+    • Browse for animated GIFs to use in your document
+    • Easy upload of multimedia via mobile devices
+    • Device-specific selective synchronization
+    • Data loss prevention
+
+
+7. AnyDesk
+
+Downloading and installing AnyDesk will quickly connect your IT/System team
+remotely and grant them access to resolve all the technical issues you’re
+facing at your remote work office.
+
+Features and benefits of AnyDesk
+
+    • Multi-platform support
+    • Online collaboration
+    • Built-in file transfer
+    • Lightweight
+    • Lets you record sessions
+
+The below screen will appear when you log in to the AnyDesk to seek system team
+help.
+
+You only need to give the numeric digits to the professional to enter into your
+system to resolve the particular issue. It’s the best tool, making working from
+home far easier and successful.
+
+
+Also, watch the video to know how to run AnyDesk.
+
+
+8. Loom
+
+Loom is a screen and video recording software and they offered Free access to
+its plans during the Corona outbreak. The tool is available for Mac, Windows
+and Chromebooks and allows you to record your camera and screen with the audio
+directly from your chrome browser.
+
+It’s quite easy to create and share videos with this tool.
+
+Features and benefits of Loom based on the different use cases
+
+Engineering
+
+    • Code reviews
+    • Showing off features that are built
+    • Investigative analysis and context overview
+    • Describe how to read a code review
+    • Read code comments
+    • View how to set-up a repository
+    • Explain project architecture diagrams
+    • Detailing about debugging workflows
+    • Demonstrate bug reporting
+    • Showcase new features
+
+Sales
+
+    • Prospecting the sales funnel
+    • Create product demos
+    • Follow-ups with clients
+    • Onboarding and project training
+
+Design
+
+    • Design process with feedback requests
+    • Gaining perfect design alignment
+    • Share trending design tricks
+    • Cross-team collaboration with design QA
+    • Update project team for tasks
+    • Meeting preparations for the next tasks
+    • On-board new team members
+    • Introduce new features and process with the team
+
+Customer Support
+
+    • Explain how the product works and troubleshoot issues
+    • Record bug reports to share with the development team
+    • Share workflow document and training videos with the team
+    • Send the video to de-escalate the upset or frustrated customer
+    • Ask users to record a quick video to share their opinions and product
+      issues
+
+Customer Success
+
+    • Build relationships with sponsors
+    • Easy and quick customer onboarding via explanatory video
+    • Actionable meetings and follow-ups to build client trust
+    • Explain check-in process
+    • Asynchronous accounts to help across different times zones
+
+Leadership
+
+    • Grow business by sharing customer success stories
+    • Prepare intros to share across your networks
+    • Recruitment outreach via video to build team
+    • Onboard new employees
+    • Ask for feedback
+    • Project updates to increase the team’s effectiveness
+    • Analytics review
+    • Quick internal process overview
+    • Internal bug report to strengthen leadership
+
+
+9. Invision
+
+Invision is a digital product design, workflow and collaboration tool. We at
+NMG have been using it for over 4 years now. It helps web designers in product
+designing and other web design-related tasks.
+
+The tool is built with the motive to design faster, better and together to
+accomplish various project needs. While working from home, you can utilize this
+tool as your best designing companion.
+
+Features and benefits of Invision
+
+    • Lets you connect your entire product design workflow
+    • Helps you create rich interactives and prototypes
+    • Seamlessly assist you to communicate and gather feedback to move ahead
+    • Lets you and your team explore ideas on a digital whiteboard
+    • Beautifully collect and present designs and inspirations
+
+See the video to know how Invision can help you to remotely
+
+
+Last but not the least – Spreading Work from home tips and tricks
+
+Apart from accumulating surveys and providing useful tools, in the last week,
+NMG was actively providing useful tips and tricks to productively manage work
+from home. This was made using MS teams channels “ Work from home tips”.
+
+This is how we prepared our team for remote work and it has made the transition
+from office work to remote work seamless during Corona lockdown.
+
+I hope the above-mentioned tips and tools have made you understand how to work
+from home during this lockdown and beyond.
+
+Stay Safe!
+
+Request Free Pricing
+
+
+Frequently Asked Questions
+
+
+What techniques can I use to increase my productivity while working from home?
+
+Things you can do to increase your productivity include isolating the
+workplace, concentration, consistent communication with team members using
+collaboration tools and have face-to-face interaction. Adopting these
+techniques can assist you to deliver quality work from home.
+
+
+What are some work-from-home tips for people self isolating due to COVID-19?
+
+The most important technique to effectively work from home in critical times is
+by creating a positive environment all around. You can make it happen by
+communicating and connecting with office and teammates via tools like MS Teams,
+Zoom, Office 365, etc.
+
+
+Is working from home a solution against COVID 19?
+
+As per WHO’s recommendations, social distancing can prevent the viral spread of
+Coronavirus. In this scenario, working from home is the best way to continue
+your service towards the associated organization. So, be indoors to stay
+healthy and safe!
+
+
+How effective are the companies setting up remote work from home to avoid
+COVID-19?
+
+After COVID-19 kicked in, almost all the organizations prepared their employees
+with the best work from home strategies. To bring productivity during work from
+home, they also facilitated them with task management and collaboration tools.
+
+As observed, organizations pre-planned and have also made unfailing strategies
+to make their teams’ work from home experience collaborative, productive and
+successful.
+
+
+How do you keep focused when working from home?
+
+Keeping yourself focused is tough especially, while you’re working from home
+but, you can achieve success by setting your target for working days. By doing
+this, you’ll be thinking about reaching the target which brings creativity to
+your work. The best tip for working from home is isolating your workspace. It
+works best when you want to fully concentrate on your defined targets.
+
+Featured
+
+
+Similar posts
+
+Featured
+
+
+Want to build an app like Uber? Read more for exact estimations.
+
+Want to develop an app like Uber? Learn how to build your own Mobile app like
+Uber app, know the costs and other details of mobile app development.
+
+Nishtha Oct 4, 2017
+Design
+
+
+Importance of Effective UI/UX in Mobile App Development
+
+Learn the Role of UI and UX in Mobile App Development in 2022. An efficient
+UI/UX design fulfilling end-user needs helps to drive sales and earn...
+
+Nishtha Nov 9, 2017
+Design
+
+
+Role Of Wireframes In Mobile App Development
+
+Mobile app development is a complicated process. Wireframing should be the
+first step in it. Here's a complete guide for the mobile app wireframe in...
+
+Nishtha Nov 8, 2017
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

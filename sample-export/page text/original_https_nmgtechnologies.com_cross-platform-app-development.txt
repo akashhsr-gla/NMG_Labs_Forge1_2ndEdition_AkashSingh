@@ -1,0 +1,294 @@
+Skip to content
+
+Search
+
+
+Create App - Detailed Guide to App UI Design for Mobile App Developers
+
+Complete mobile application development guide to help you design and develop
+the best-in-class Android and iOS apps
+
+1. Today most of the time is spent consuming digital media on mobile apps.
+2. Users spend about 90 percent of their time using applications on mobile
+devices.
+3. Around 85 percent of users prefer native mobile apps on mobile.
+4. About 42 percent of mobile sales of Fortune 500 organizations are done
+through mobile apps.
+
+Table of Content
+
+Chapter 5 Chapter 7
+
+
+CHAPTER 6
+
+This chapter is all about cross-platform app development.
+
+In this chapter, we will discuss, “What is cross-platform app development, and
+What are the advantages of cross-platform apps?”
+
+You will understand, “What language is required to write cross-platform apps?”
+
+Also, you’ll get to know, “What are the best cross-platform mobile app
+development frameworks?”
+
+Have a quick look!
+
+Cross-platform App Development
+
+Cross-platform app development makes it easy for developers to build
+applications faster because they only have to write a single code for all types
+of mobile interfaces.
+
+Let’s start the conversation by understanding what cross-platform mobile app
+development is?
+
+What is a cross-platform app development?
+
+Cross-platform app development allows developers to build an app for both
+Android and iOS platforms.
+
+Cross-platform apps can run on multiple device platforms, including Android,
+iOS, and Universal Windows.
+
+One of the advantages of cross-platform application is that the developed
+application will run perfectly on both major mobile platforms.
+
+Above all, there’s an ultimate advantage that the Existing code of hybrid
+applications can also be reused to build high-quality desktop and progressive
+web applications.
+
+This becomes possible only with the help of development tools and languages
+that we will discuss later in this section.
+
+Here, the first thing to discuss is the advantages of cross-platform apps.
+
+What are the advantages of cross-platform apps?
+
+There are various advantages of cross-platform mobile applications, but here we
+will discuss the top 5 benefits that have been highly admired by the
+development industry.
+
+Top 5 Advantages of Cross-platform apps
+
+Quick Development Time
+Since a single script is used, application development is swift. It is said
+that the faster an app is developed, the sooner it will get the market reach.
+
+Reuse of Codes
+One of the significant advantages of cross-platform applications is, developers
+don't need to write new codes every time; instead, they can reuse them to
+integrate the same code to attain a similar functionality for different apps.
+
+Controls Cost
+Earlier, organizations used to spend a lot on technologies and tools to develop
+native applications. But now they need a one-time investment, and this became
+possible only because of cross-platform application development.
+
+Easy to implement
+Technologies like Appcelerator and PhoneGap are providing cross-platform
+development, and this makes it easier to make changes by the developers.
+
+Uniformity
+The look of the app can be maintained across all the platforms with
+cross-platform application development.
+
+After getting a dive into the advantages, have a look at the languages used to
+develop cross-platform apps.
+
+What language is used to write cross-platform apps?
+
+Cross-platform application development is getting increasingly significant for
+both organizations and developers each passing year.
+
+There are a lot of reasons why cross-platform has picked up so much popularity.
+The major one is it saves cost and time since there is only one-time investment
+in coding the app.
+
+There are various languages for developing cross-platform apps. Some of them
+are best in use by seasoned developers.
+
+Here are the top 4 cross-platform app development languages based on
+popularity, future and salary:
+
+Java
+Java is a core language for Android and is also used for cross-platform mobile
+application development.
+
+Java has a massive community and has support for various frameworks and tools.
+
+Learn Java in detail: Introduction to Java
+
+C++
+Even though C++ is not as complicated as Java, it will work for any
+cross-platform mobile application development.
+
+The disadvantage is, C++ can add some strain to cell phone resources.
+
+Know more about C++: Introduction to C++.
+
+HTML5 and JavaScript
+HTML5 uses JavaScript language for creating mobile applications that are
+compatible with desktop.
+
+Read more: “What is HTML?”
+
+C#
+Microsoft creates C#. It was known as an alternative to Objective C for iOS.
+
+Applications made on C++ give the best performance on any platform.
+
+Applications created in C++ provide direct access to CPU, RAM, controllers, and
+GPU.
+
+Know more: “Why is C# so popular?”
+
+What is the best cross-platform mobile app development framework?
+
+As OS and Android being the popular platforms in the market, organizations are
+discovering new ways to satisfy their users.
+
+Because of this high demand for mobile apps on both platforms, there is a
+massive move of organizations toward the rise of cross-platform app frameworks.
+
+Top cross-platform app framework.
+
+React Native
+React native is a part of React JS, which is a JavaScript library running
+within the mobile framework.
+
+
+It is specifically designed to create natively provided user interfaces for
+both iOS and Android. That’s the reason it is widely known as the best
+framework for hybrid app development.
+
+Because of the high popularity, various mobile app development companies are
+adopting the React Native hybrid framework to get ahead in the next level of
+mobile application development.
+
+Xamarin
+Microsoft launched Xamarin as a cross-platform framework, and it is also famous
+as an intellectual framework for mobile application development.
+
+There are various features in this framework combined that are useful for the
+development of quality-approved iOS, Android, and Windows apps.
+
+It is easy to test cases, and there is a managed memory allocation as well as
+garbage collection.
+
+With Xamarin, you can do rapid development with a single stack.
+
+Onsen UI
+Onsen UI is an open-source hybrid framework that is relatively new but powerful
+to compete with all other frameworks.
+
+
+This framework offers an extensive collection of ready to use components that
+help develop flawless apps and in minimum time.
+
+By using this framework, developers will be allowed to write app code in HTML5
+and JavaScript.
+
+It also facilitates developers with the convenience of combining code with
+Apache Cordova and PhoneGap to create feature-rich mobile applications in a
+short time.
+
+Flutter
+It has been two years since Google's Flutter has been introduced as the best
+framework for developing hybrid mobile apps.
+
+This framework was specifically designed to support different languages in the
+backend.
+
+It has been a long time since Google's Flutter has been introduced as the best
+framework for creating cross-platform mobile applications. This framework was
+specially designed to support various languages on the backend.
+
+Ionic Framework
+The Ionic Framework is best, amongst others. It uses HTML5 for cross-platform
+application development that has been utilized by engineers globally.
+
+With this robust framework, it is effortless to create a progressive web
+application (PWA).
+
+It comes with the added benefits of AngularJS components (a robust JavaScript
+framework), allowing developers to develop some powerful and complex scalable
+applications.
+
+JQuery Mobile
+JQuery Mobile is among the old hybrid application development frameworks.
+
+It has been following the "write less, make more" approach since it was
+introduced, and that becomes possible due to the available reusable code
+components.
+
+Cross-platform mobile app development comparison
+
+Cross-platform mobile app development vs. native
+
+    • Native mobile applications are developed to meet the requirements of a
+      particular operating system. These are designed with the help of its
+      primary technology stack, SDK, as well as sensors, cameras, memory, and
+      other programs installed on a device.
+    • A cross-platform application is developed to meet the requirement of
+      various operating systems and, hence, can be used on any smartphone,
+      smartwatch, tablet, PC, and connected TV.
+
+Performance
+When it comes to performance, native applications win the game.
+
+    • Native apps are highly responsive and very high performing applications.
+      These use the best of resources and the capabilities of the platform.
+    • On the other hand, cross-platform applications have issues with
+      performance. Since they are built-in one-app-fit-all approaches, it is
+      not uncommon for these apps to work on some devices.
+Feature
+    • Native apps use the device's native features, and this can be observed,
+      especially in the case of iOS applications. Native apps work offline and
+      help users access the information even when there’s no internet
+      connection.
+    • While this is not the same with cross-platform applications as they have
+      limited access to the device's API.
+Feasibility
+    • Time taken by native applications for development is very long as
+      compared to cross-platform app development.
+    • Native applications are also costlier than cross-platform applications.
+    • Maintenance is also higher in native apps, and it takes more time in
+      comparison with cross-platform mobile application development.
+User Experience
+    • Native applications offer fantastic user experience with higher speed,
+      better performance, and seamless functioning.
+    • Cross-platform applications can also provide intuitive features, but in
+      cross-platform apps, more features may result in less speed.
+
+Native applications look much better in terms of user experience and
+performance. However, it depends whether you want to build a native app or
+cross-platform depending on your budget and objectives.
+
+Applications like content distribution apps and games are simple and typically
+built as cross-platform apps.
+
+Let’s now discuss the tools for iOS app development.
+
+What tools do I need to develop an iOS app?
+
+There are two types of applications: Native iOS and cross-platform apps.
+Different tools are used in both cases.
+
+Here are the tools you need to develop an iOS app:
+
+Native
+    • Swift: Swift is an intuitive and persuasive language for building
+      applications for iOS, macOS, Apple TV, and Apple Watch.
+    • Xcode: Xcode includes whatever you need to develop a fantastic app for
+      iPhone, Mac, iPad Apple Watch, and Apple TV.
+    • Gravit: Gravit is a graphic designing tool.
+Cross-Platform
+    • Xamarin: Microsoft launched Xamarin as a cross-platform framework and is
+      also renowned as an intellectual framework for mobile application
+      development.
+      The framework combines various features and is useful for developing
+      quality-approved iOS, Android, and Windows applications.
+    • JavaScript: JavaScript frameworks like Ionic and React Native with CSS,
+      JavaScript, and HTML5, a developer can create an app that will run on
+      both iOS and Android.

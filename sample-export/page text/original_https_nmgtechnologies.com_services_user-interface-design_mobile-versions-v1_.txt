@@ -1,0 +1,89 @@
+Skip to content
+
+Search
+
+
+Mobile Friendly Websites
+
+Mobile-friendly websites are a crucial part of your software development plan -
+as there have been more google search queries on smartphones than on desktop
+computers and tablets for over a year now. You can either optimize your desktop
+site to be mobile friendly or design a new, limited information mobile version
+of your desktop site. The bar for responsiveness and mobile-friendliness
+(including page load time) will only increase hence all our websites and
+software are focused on building seamless web and mobile experience.
+
+
+Performance Optimization
+
+Painfully slow loading speeds of websites can frustrate any user.
+
+53% of users leave if a mobile site takes more than 3 seconds to load. Even
+then - 3 out of 4 mobile sites have load times of over 10 seconds. It’s a big
+problem!
+
+Mobile sites that load in 5 seconds or less generate 2X the revenue than those
+which take longer. Page speed is utmost important when it comes conversions
+rates via mobile site.
+
+NMG takes prior measures to make your site load fast on mobile and tablet
+devices by
+
+    • Focusing on reducing the number of server requests.
+    • Running diagnostics to check which files are using up most of the bytes
+      of your pages.
+    • Prioritizing the elements that needs to be displayed above the fold
+
+
+Responsive Design Approach
+
+We follow responsive web design approach for all our web design work such that
+the design responds to the user’s behavior and environment based on screen
+size, platform and orientation.
+
+By using a mix of flexible grids and layouts, images and an intelligent use of
+CSS media queries, the website automatically switches to accommodate for
+resolution, image size and scripting abilities - as the user switches from
+device to device
+
+65% of the traffic to ecommerce stores comes from mobile shoppers. And one of
+the most important reason why these people love shopping from mobile is due to
+the responsive design.
+
+
+Flexible layouts
+
+Making your mobile site flexible with use of flexible images, easy to use
+navigation and flexible content blocks can greatly enhance your users
+experience and encourage them to continue using the site on mobile browser -
+leading to better mobile conversion rates.
+
+Uncluttered page ensures greater readability hence arranging page elements in a
+neat order, with an effortless browsing flow will make your site flexible to
+resolutions and screen sizes.
+
+    • Images loads fast
+    • Clear pricing information
+    • Bold and prominent CTA button, and
+    • Product descriptions made easily readable and accessible
+
+
+Provide Seamless and Easy Checkout
+
+One of the main reasons why customers abandon shopping carts is due to
+inconvenient checkout processes.
+
+In fact, 28% of people abandon carts if the checkout is long and complicated.
+Another 37% of people ditch their carts if the site mandates creating an
+account.
+
+These issues are even more marked in the mobile experience. Its more than
+important to avoid the above by designing checkout pages keeping in mind the
+following:
+
+    • Keep the mobile check out page as short as possible.
+    • Don’t clutter the page with too many fields
+    • Don’t insist on the user creating an account to purchase.
+    • Make sure that the total cost of cart items is displayed prominently.
+    • Provide easy payment methods with gateways that process the requests fast.
+--------------------------------------------------------------------------------

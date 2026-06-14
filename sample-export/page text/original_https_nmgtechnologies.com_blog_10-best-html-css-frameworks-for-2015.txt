@@ -1,0 +1,97 @@
+Design
+
+
+10 Best HTML & CSS Frameworks for 2015
+
+We’ve put together this list of the 10 best HTML and CSS frameworks to choose
+from which will help you in getting you and your site recognized.
+
+Nishtha
+Mar 25, 2015
+--------------------------------------------------------------------------------
+
+Estimated reading time: 4 minutes
+
+Frameworks contain predefined code enabling your website making process faster,
+easier and aligned. Functions provided by these frameworks enhance the coding
+styles and make them consistent throughout the development. We’ve put together
+this list of the 10 best HTML and CSS frameworks to choose from which will help
+you in getting you and your site recognized.
+
+SimpleGrid – Was created for developers who were in need of a bare bones grid.
+Simple Grid works well with 1140px layouts and easily adapts to any size
+layout. With fluid columns, Simple Grid is responsive down to mobile.
+
+Pure – Is a set of small, responsive, CSS modules usable in any web project but
+crafted with the mobile device in mind. Allows you to customize your styles
+with Skin Builder to help you design your own style.
+
+Responsee – A intuitive responsive CSS framework which even a beginning web
+designer can handle. The framework will help you develop a responsive websites
+faster than ever before.
+
+Groundwork CSS 2 – A 100% free and open source framework for developing
+responsive HTML5, CSS, and javascript framework. You can even add Groundwork to
+your rails project easily.
+
+Layers – Build your look on the web and build it fluid with this lightweight
+and unobtrusive CSS framework. It comes with a small footprint and nothing
+extra.
+
+Skel JS – A Powerful breakpoint management with a sophisticated CSS grid system
+with cross platform support and much more. Plugin the Layers or Baseline for
+building stuff like off-canvas navigation, toolbars, modals, and more.
+
+Gumby 2 – Is built with the power of Sass, a powerful CSS preprocessor giving
+you new tools to quickly customize and build on top of the Gumby Framework.
+
+Responsive Grid System – Provides a mobile first responsive framework with 12,
+16, and 24 column grid system, clear fix, optional gutters, and box-sizing
+polyfill in a 1kb compressed size.
+
+Foundation – Brings to you the most responsive front-end framework ever.
+Foundation is fast for users, fast to code, and easy to learn.
+
+Bootstrap – Is one of the most popular HTML, CSS, and JS framework for
+developing responsive, mobile first projects. It easily and efficiently scales
+your website and application with a single code base.
+
+Design
+
+
+Similar posts
+
+Featured
+
+
+Increase your website traffic to 50% more by following these simple design
+trends
+
+Want to increase your website traffic? Read on to know the strategies to
+increase your website traffic by 50% in 2019!
+
+Nishtha Aug 4, 2017
+Design
+
+
+Web Design Best Practices – 10 Stunning Examples
+
+Is your website engaging enough for visitors? Keep your page looking fresh by
+following these best website design practices for your website in 2022.
+
+Nishtha Sep 10, 2017
+Technology
+
+
+Top Web Building Tools and Platforms
+
+Looking for user-friendly website building platforms that help you manage your
+website? Here’s the list of top website building tools & platforms for...
+
+Nishtha Nov 16, 2017
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.

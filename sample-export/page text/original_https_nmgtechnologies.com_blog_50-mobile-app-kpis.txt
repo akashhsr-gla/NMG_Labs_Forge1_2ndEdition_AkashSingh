@@ -1,0 +1,726 @@
+Growth
+
+
+Top 50 KPIs and Metrics that Matter the Most for your Mobile App
+
+Ready to boost your app usage? Here are 50 critical Mobile App KPIs and Metrics
+to improve the performance of your mobile apps. Discover which KPIs are
+appropriate!
+
+Nishtha
+Nov 20, 2017
+--------------------------------------------------------------------------------
+
+Estimated reading time: 18 minutes
+
+You’ve built an app which came out to be stunning, both In design and also
+visually treating. But you know what, it could miserably fail if you don’t
+appreciate the Key Performance Indicators.
+
+So you’ve built an app which came out to be stunning, both In design and also
+visually treating.
+But you know what, it could miserably fail if you don’t appreciate the Key
+Performance Indicators.
+
+You have obviously created an app hoping it would be widely accepted by the
+audience you have targeted and the app should serve the purpose, but how would
+you know that?
+
+It’s the Key Performance Indicators, which will tell you, what is contributing
+to your app’s success and what is not. And where you need to do some rework and
+where should you enhance.
+
+Figuring our mobile app’s performance and metrics is a really important aspect
+in today’s mobile app development market because as the number of apps
+increases the expectations for the app’s performance has relatively increased,
+in return demanding a high performance from your
+app too.
+
+So, the question is.
+
+How would you determine what’s working for you and what’s not? What measures
+would you take to reach your ultimate goal of your app?
+
+It can only start by determining the KPIs and metrics that matter the most for
+your mobile.
+
+So how does these Mobile KPIs work?
+
+Understanding the vast range of KPIs and how should they be applied to your app
+is not an easy task.
+
+KPIs help you to evaluate your app and therefore attract the attention and
+resources of buyers, investors, and shareholders.
+
+Defining unique KPIs means determining what a good performance looks like and
+how to capture and measure the various indicators along the way.
+
+Tracking KPIs should be a part of your development and marketing strategies,
+including which success metrics and performance metrics are the ones that
+should be considered the most valuable or important.
+
+But there is something you need to know, there are almost as many mobile app
+metrics as there are apps, which brings you a lot of confusion. It’s your call
+to understand what you should be following and what you shouldn’t.
+
+So we wouldn’t be discussing all the KPIs which are available out there, but
+there are some KPIs that measure the general performance of a mobile app.
+
+Almost everyone in the mobile app development or marketing should be aware of
+these list of KPIs, but it’s your call on which metrics should be considered
+for your app.
+
+So here we go!
+
+App downloads
+
+Number of times that an app is being downloaded to a device is probably
+something, which obviously needs to be tracked; it shows the popularity of your
+app among the masses.
+
+It’s a simple way to determine your app’s popularity, and it also is a
+foundation to many other KPIs which we would be discussing.
+
+Installations
+
+Only because a user has downloaded your app doesn’t mean your job is done.
+There could be issues with the installation.
+
+I have faced this issue numerous times, despite quick download, the app
+struggled to install, which is bad and people don’t really give another chance.
+
+You should also be tracking actual installations on the various devices that
+your audience use.
+
+Learn About Importance of Effective UI/UX in Mobile App Development
+
+Uninstallations
+
+Anybody can decide to uninstall an app when they find it not really useful or
+does not serve the purpose of the download or some other reason, and while they
+do some don’t leave a review or rating or any sort of feedback.
+
+If the uninstallations are related to some sort of update or changes you have
+made in the application, you need to know what exactly was the reason for the
+uninstall.
+
+Registrations
+
+Deciding whether or not to register is another sign that users are buying what
+you’re selling, at least figuratively.
+
+On top of that, you can use their email addresses or other contact info to
+market future upgrades and other apps to them.
+
+Subscriptions
+
+If you are offering subscriptions, you need to keep a track of all the
+subscriptions, signups and also unsubscribe.
+
+On top of that, you need to keep a track of how long does an average user take
+to sign-up or create an account after the installation; it will help you
+understand how the users behave and what you could do to make them sign-up
+faster.
+
+Glitches and Crashes
+
+Every app has its own glitches and crashes at some point and but the frequency
+of these errors is not recommended.
+
+This can be solved before the app is launched and also post-launch. Pre-launch
+you need to go through checks during testing and clear all the bugs, 100% bug
+proofing is non-existent so minimizing the crashed to the higher extent is
+important.
+
+And also customer reviews do help a lot to fix this post-launch. Fixing and
+preventing app crashes will help to make the user experience better and
+retention rate.
+
+Upgrades
+
+When offering the user to upgrade your app to a premium version, you need to
+keep a track of a couple of things.
+
+How long does the user take to upgrade, and what premium packages are the users
+more interested in.
+
+And don’t forget to keep a track of how many users are using the free version
+and from how long. This is helpful in evaluating your app revenue and find out
+which features could be made premium or attractive so that you can convert the
+free users to premium users.
+
+Growth rate
+
+You need to track this because it will help you make sure your user base is
+growing, but also how it’s really growing.
+
+Growth may differ with the introduction of new schemes or updates or new
+features, you need to track what period of the time the app gained more users.
+
+It basically helps you plan your strategy.
+
+Retention rate
+
+Learn About Role Of Wireframes In Mobile App Development
+
+
+Retention is nothing but gaining your users back who have either uninstalled or
+deleted their user accounts. This could only be done when you can know the
+reason why they left and improving the areas where the users are expecting.
+
+Higher retention rate, the more positive implications there are for the future
+earnings from the app.
+
+App Session
+
+The number of sessions you generate is an important indicator of popularity and
+users glued on to your app.
+
+Usually, the more sessions a user creates and that an app receives the better.
+
+Also keep in mind that in digital analytics, a session is defined as a user or
+device-specific group of interactions that occur on your website or app within
+a given time frame.
+
+So yeah! Defining what a session means for your app or project is essential.
+
+Session also depends upon the type of app, if it’s a business or any financial
+app, a user shouldn’t be spending too much time in figuring out things.
+
+Also, don’t forget to calculate the daily active users and monthly active users.
+
+Session Length
+
+Time spent by a user on your app per session is the session length.
+
+In general terms, more time a user spends on the app, the better it is for
+every reason an app is created, but you should also take a look at the session
+length as it relates to the number of crashes and uninstalls and see if there
+is any correlation.
+
+Moreover, you really don’t need the users to stay longer to convert or take a
+desired action, and the number of session intervals, AOR, or depth of sessions
+may be a more useful KPI to track.
+
+Session interval
+
+The time between each session a user takes, like if he uses the app daily
+weekly or monthly. If
+the app is used daily then what is the frequency.
+
+In mobile app terms, shorter intervals are usually better, but this KPI can
+also be tagged to when there are content updates or other timely events to
+tak3e into consideration with your app.
+
+Let’s assume, if there is new content to view every morning then your session
+intervals are likely to be 24 hours or so.
+
+If your app isn’t tagged to a particular time of day or event, shorter session
+intervals might be more desirable.
+
+Session Depth
+
+Session depths are the number of interactions per session, or how far the user
+navigates or explores through the app, before exiting the app.
+
+For example, if the user is on an e-commerce app and browsing through, making a
+purchase or just navigating through one section to another will give you an
+idea on how you could improve
+the content of your app.
+
+Take a note of sessions and try to fix issues if any.
+
+Average pages per session
+
+The number of unique pages or URLs that a user hits during each visit, averaged.
+
+Usually the higher the number, the better for your app, especially if you rely
+on advertising for monetization.
+
+More screens are obviously more advertisements and views.
+
+Daily Active Users
+
+Number of active users who use the app every day is the daily active users, the
+average
+number of daily active users does show you the growth of your app and helps you
+in making
+changes or taking your app to the next level.
+
+Monthly Active Users
+
+Not every app serves the purpose of daily use, there are some apps which you
+won’t really be using on daily basis like Financial apps, and not every user
+uses all the apps every day.
+
+Don’t forget that users are generally tracked as unique visitors who may visit
+for multiple sessions, so it is important to pay attention to both KPIs.
+
+Social media shares
+
+The number of times your app is recommended or shared on social media.
+
+Obviously, higher the number of shares, better it is for the app. But also look
+when and where the app is shared and in what context.
+
+Because you know how social media is, don’t be popular for the wrong reasons.
+It is important if you have any social media functionality or integration build
+into your app.
+
+Brand Awareness
+
+There are tons of ways to define brand awareness, which also includes how many
+times does your brand appears in the search engine results, on various social
+networks, or the “reach” of your brand.
+
+It is quite obvious that more users directly implies more awareness of your
+brand, and you would obviously have better business results.
+
+But don’t forget to take a note and analyze the diversity of brand mentions
+online.
+Churn rate
+
+The rate at which active users leave your app in the form of unsubscribing or
+uninstalling your app.
+
+Do I need to say that you need to take care of it?
+
+Of course, you would want to turn down the churn rate, and a higher churn rate
+is potentially like a ticking time bomb, sort it out!
+
+There could be many reasons for churn rate, either the content is boring or
+your app crashes more often or it’s just not so much interesting and serves a
+purpose as it used to.
+
+How do you lower the churn rate?
+
+Update your app in every way possible, add new content, fix bugs make your app
+faster. Basically, try to get to the roots of the increasing churn rate.
+
+Financial KPIs
+
+The reason you’ve started your business is to grow financially and your app is
+just another investment which will help you achieve your goal.
+
+So how do you make profits with your app?
+
+You need to take a note of how your app is and will generate revenue using the
+below metrics.
+
+Average revenue per user
+
+So the average amount of value or cash generated per user through in-app
+purchases, ad impressions or clicks, subscriptions, paid downloads, or any
+other form of monetization. Multiplied by the size of the user base or the
+number of active users this figure gives a good rough idea of the value of the
+app as a whole.
+
+Lite time Value
+
+How do you calculate this?
+
+It’s nothing but the amount of revenue generated by a single user either by
+purchases or subscriptions or any other transaction combined with the average
+revenue per user it can be a great way to determine the total perspective or
+value of an app.
+
+Time for the first purchase
+
+Time of first purchase is nothing but the time when the user first subscribes
+to something or purchases a product through your app, you need to keep a track
+of the average first purchase of all the users and try working on making it
+shorter.
+
+Upgrade your content and also the app to give the user a better experience.
+
+Purchases
+
+Simple the purchases of your app need to be tracked. This is relatively simple
+and obviously necessary number to track if your app involves any kind of
+exchange of funds, whether they are in-app purchases, upgrades to a premium
+version, subscriptions, or an e-commerce play.
+
+Customer Acquisition cost
+
+The revenue you spend on gaining a new user is the customer acquisition cost,
+how do you do that?
+
+Advertising! And advertising involves a lot of things, including the time,
+factored in for marketing costs. You can determine this number by averaging the
+total gross revenue during a given amount of time by sales and marketing costs
+incurred during the same time period.
+
+Cost per Acquisition
+
+Cost per acquisition is the cost it took to make a single user to download the
+app.
+It doesn’t have to be new users, but actually from a new behavior something
+like signing up, upgrading into a premium user or any other upgrade, in-app
+purchases, or giving access to new features.
+
+Keeping a track of these gives you an estimation on how to improve the
+acquisition.
+
+Customer Lifetime Value
+
+No! this is not the same we have discussed earlier, I am not repeating things.
+The lifetime value of a customer based on the net profit they generate
+overtime, which in this case is based on their spending in and on the app in
+proportions to the cost required for their acquisition.
+
+A user pool with a high average CLV is a tremendous asset for a mobile app, and
+don’t forget that successful apps tend to have an excellent CLV to CAC ratios.
+
+Effective customer acquisition cost
+
+Nothing but he effective or actual cost of acquiring new customers, which
+includes organic discovery methods, paid to advertise, and time spent or other
+expenses incurred during the marketing process.
+
+This can be calculated by comparing the new customers you have gained to the
+total number of impressions generated by marketing campaigns and factoring in
+the cost of those campaigns to achieve a final number.
+
+Effective cost per mile
+
+Effective cost per mile is nothing but the milestone you have set for yourself
+for generating the impressions.
+
+Which includes organic and paid marketing efforts along with the cost of time
+spent or any other extra expenses incurred.
+
+How do you calculate this?
+
+By factoring in the number of impressions or views generated by marketing
+efforts divided by the number of customers gained.
+
+Paid Conversion rate
+
+In this KPI you would only calculate the rate of conversion through paid
+advertising, which includes PPC advertising, display ads, social media
+advertising through Facebook or Twitter platforms, sponsored posts or reviews,
+or any other method of marketing your mobile app that involves a direct
+exchange of money for mentions or views of your mobile app.
+
+Organic conversion rate
+
+This is nothing but the conversion of users through unpaid mediums, such as
+organic search engine results, word of mouth mentions on social media or blog
+posts, influences, or social media trends, app store listings, or any other way
+of marketing your mobile app that does not involve indirect paid to advertise.
+
+Learn About Why Mobile App Fails
+
+Return on Investment
+
+It’s not just the app cost you need to consider but the investment got any
+marketing tactics or techniques, calculated by dividing the number of gains in
+customers or revenue that you have generated by how much you have spent on
+marketing, which includes the time spent or any expenses incurred.
+
+Cost per Install
+
+The cost per install measures your customer acquisition costs for customers
+that installed your app when they see an advertisement, the ads you have posted
+and not the organic ads.
+
+User Experience KPIs
+
+These KPIs are the most important factors for the growth of your app
+post-release, if you are not successful in following these, there is nothing
+that could help your app grow.
+
+Using these KPIs and others to track, measure and therefore improve on it might
+be the most important activity that you can engage in as a mobile app developer
+or marketer.
+
+Loading time
+
+Your app needs to load fast, faster than any app in your competition or at
+least try to be faster. The amount of time it takes an app to load from the
+initial tap of being ready to use is what we are talking about.
+
+Loading times are proportional to the content in your app, using high-quality
+images is most recommended but that doesn’t mean it slows the app, faster app
+loading is a priority.
+
+Devices
+
+Another relatively simple KPI to define and track, this is simply which devices
+your audience use to access your app.
+Depending on your target clients, it is important to know if they usually use
+tablets versus smartphones, or Android versus iOS, or any other device.
+
+What does this do? It simply helps you in improving the performance of your app.
+
+Carriers
+
+Just as the devices used to access your app, it is really important to know
+which carriers your users tend to prefer, especially If you are targeting a
+particular region or a country.
+
+Because different regions and countries have different carriers.
+
+Operating system
+
+Ok, I’m not putting any of my opinions here, it’s not about Android vs iOS, it
+doesn’t matter in what platform your app is but it should work well in both.
+
+If there is a high crash or uninstall rate for either one or a strong
+preference for the apple or android realms, that is something to consider and
+understand why that is the case and remedy any problems that these preferences
+may indicate
+
+Screen Dimensions/Resolution
+
+This KPI is related to the devices that your customers use to access your app,
+but before you do the updates, you need to consider this KPI.
+
+It could cause flaws like lagging and crashing which will result in uninstalls
+and crashes.
+
+Permissions granted
+
+Keep a track of access or permissions each user is allowed to for your app.
+
+The value and importance of this metric depend on how many users are actually
+interested in the features you are providing and what features to be added or
+removed.
+
+API latency
+
+API latency is the time interval between your API proxies being called or
+triggered and their
+response or load time.
+
+In general, you would want this number to below.
+
+This KPI is tied to load time and the corresponding user behaviors.
+
+Mobile App Marketing KPIs
+
+We could make a number of KPIs related to marketing your app, but we are only
+going to discuss the ones that will help you track your preferred or most
+effective methods which are mandatory.
+
+Along with measuring your app’s growths and mentions on social media and blogs
+or any other platforms, you should also be reporting on any paid advertising
+and monitoring your app store analytics to see what is driving and downloads.
+
+Install Source
+
+The source from where your user came to know about your app or discovered your
+app, which made them install, is what you need to know.
+
+It will help you get rid of other sources where you might be paying a lot, like
+an ad campaign, which might not be bringing in users compared to other sources.
+
+Alternatively, if you are generating traffic through organic resources, try
+improving them for even better results.
+
+Virality and K factor
+
+It’s nothing but your app or name of the app going viral through the mouth to
+mouth sources or because of your mobile app marketing.
+
+We have seen many apps going viral for no reason and there are a lot of better
+apps in the same category doing badly.
+
+Virality can be measured in a variety of different ways, but one common method
+is to calculate the K factor by multiplying the number of mentions in organic
+or paid promotions.
+
+However you track Virality, it is important to determine one way of tracking it
+from the beginning and sticking with it for the most complete and cohesive
+results.
+
+Channel Breakdown
+
+There are obviously different channels you would be providing your users to
+access your app, keep a track of all the channels and how is each channel
+behaving.
+
+This will help you improve the ones, which do not get you much traffic.
+
+Geometrics
+
+The geographic location of your users may affect in-app purchases and ad
+revenue, so it is important to track.
+
+It can also inform your future mobile app marketing campaigns by letting you
+know where your app is doing good and where you should be targeting and use
+strategies to improve in poorly performing locations.
+
+Demographics
+
+Demographics contains the information of gender, country and also the age group
+of the audience who are using your app.
+
+Tracking this will give you a complete idea of your app’s customer base
+information; it will help you make your app better for your target audience.
+
+Cohort Analysis
+
+Your user base can likely be grouped in a variety of categories or collectives
+based on their demographics and behavior.
+
+Grouping them and taking a note of the patterns in their behavior can be a
+valuable learning experience or source of knowledge about your current and
+potential customers.
+
+Behavioral Metrics
+
+The way your customers behave which are quite unique to your app can be a
+valuable information to analyze.
+
+This KPI can be applied to both how the user has arrived at your app and what
+do they expect from your app once it has been installed.
+
+Tracking this will let you create a collection of user profiles and it will
+help you develop and introduce new features into your app. You no longer have
+to experiment with adding features.
+
+App Store Optimization (ASO)
+
+The most important part of your marketing strategy which will actually bring a
+difference in how your app reaches your customers.
+
+Learn About  Our Mobile App Development Services
+
+There is probably no better way to promote your app in an app store.
+
+ASO is the only way by which your app will rank better in an app store.
+
+Keywords
+
+The keywords are the main tools for ranking your app better, this will help
+users discover your app.
+
+From your apps name, developers name to the screenshots and descriptions and
+also the logo will help you in making your app rank better.
+
+So you need to check on what keywords would work better for you.
+
+Category ranking
+
+Monitoring your ranking over time and studying how they affect your app’s
+performance is really important.
+
+Better your performance better your ranking.
+
+Views to installs
+
+Number of times that a user has viewed your app listing before he/she actually
+installed it.
+Usually, the lower the number of views to install, the better it is for your
+app because it shows
+that your advertising and app store listing is more effective.
+
+Reviews and ratings
+
+More the positive reviews, better your ranking and downloads of your app.
+
+Apps are relying more on reviews and ratings now, than ever before.
+
+But don’t get disheartened with the low rating and reviews, they are a source
+to learn and improve your app and make it better than ever.
+
+Conclusion
+
+Implementing KPIs will only benefit you in making your app better than it can
+ever be.
+
+It could be a bit daunting to track all these, but they are all interrelated
+and when you actually get started implementing KPIs you would get in with the
+flow and your app will do great.
+
+And hey! If you don’t have an app yet, we would love to help you build one.
+Contact us!
+
+Request Free Pricing
+
+
+Frequently Asked Questions
+
+
+1. What are app metrics?
+
+App metrics are the factors that matter for the success of your app. These need
+to be considered on a serious note if you want to make your app successful
+across the market. Customer satisfaction, user engagement, acquisition, and app
+performance are a few ones that fall in the top category of app metrics.
+
+
+2. How is mobile app success measured?
+
+The first and one of the most important ways to evaluate the success of an app
+is to find out the number of app downloads but make sure you’re also measuring
+the contrasted time of an app on users’ devices.
+
+
+3. What are the metrics that you'll be tracking for better user engagement?
+
+Session length, Active app users, number of downloads, total number of users,
+screen flow, time in the app and retention rates are the major metrics that can
+help you figure out your app’s engagement in the market.
+
+
+4. What are engagement metrics?
+
+Engagement metrics is a kind of web analytics that is highly useful in finding
+out what is engaging your app users. Using this strategy will help you get to
+know what’s winning user’s heart and where your app needs improvement.
+
+
+5. How do you measure application performance?
+
+Error rates consideration, average response time, user satisfaction, request
+rate, count of application instances, application availability, application and
+server response time and garbage collection are a few factors that play a
+significant role in measuring an application’s performance.
+
+
+6. How do you measure app success?
+
+The indicators that help measure an app success are number of mobile downloads,
+subscription rates, user growth rate, app upgrade rates, daily active users,
+active sessions, and churn rate.
+
+Growth
+
+
+Similar posts
+
+Mobile
+
+
+7 Best Mobile App Analytics Tools – Which one suits you?
+
+App analytics are the key to understand how your mobile app is performing. We
+share 7 Top mobile app analytics tools to help you decide which one to...
+
+Nishtha Mar 25, 2015
+Featured
+
+
+80% of Apps Do Not Survive More Than A Year – Avoid being that 80%
+
+Why do mobile apps fail? There are a lot of mobile apps that don't make it to
+the runway. Find out how to make your app successful with a few tips.
+
+Nishtha Nov 13, 2017
+Design
+
+
+Role Of Wireframes In Mobile App Development
+
+Mobile app development is a complicated process. Wireframing should be the
+first step in it. Here's a complete guide for the mobile app wireframe in...
+
+Nishtha Nov 8, 2017
+
+
+Get notified on new marketing insights
+
+Be the first to know about new B2B SaaS Marketing insights to build or refine
+your marketing function with the tools and knowledge of today’s industry.
