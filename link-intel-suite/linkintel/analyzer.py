@@ -494,6 +494,26 @@ def link_candidates(graph, relate: dict, pages, max_per_page=5) -> list:
     max_inlinks = max(max_inlinks, 1)
     max_link_score = max(max_link_score, 1)
     max_depth = max(max_depth, 1)
+    def url_type_multiplier(url):
+      multiplier = 1.0
+      url = url.lower()
+
+      if "/author/" in url:
+        multiplier *= 0.40
+
+      if "/tag/" in url:
+        multiplier *= 0.40
+
+      if "/category/" in url:
+        multiplier *= 0.50
+
+      if "/page/" in url:
+        multiplier *= 0.30
+
+      if "/feed/" in url:
+        multiplier *= 0.20
+
+      return multiplier
     # -----------------------------
     # Page quality score
     # -----------------------------
@@ -565,9 +585,9 @@ def link_candidates(graph, relate: dict, pages, max_per_page=5) -> list:
             quality_score = qualities.get(v, 0.0)
 
             final_score = (
-                0.70 * relatedness_score +
-                0.30 * quality_score
-            )
+              0.70 * relatedness_score +
+              0.30 * quality_score
+             ) * url_type_multiplier(v)
 
             scored_candidates.append({
                 "target": v,
