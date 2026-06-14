@@ -657,7 +657,7 @@ def link_candidates(graph, relate: dict, pages, max_per_page=5) -> list:
             if v == u or v in already or "/feed/" in v:
               continue
 
-            if relatedness_score < 0.10:
+            if relatedness_score < 0.12:
                 continue
 
             quality_score = qualities.get(v, 0.0)
