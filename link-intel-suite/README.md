@@ -9,11 +9,16 @@ logic and push accuracy on the hidden export.
 
 ## Quick start (headless, proves it runs)
 ```bash
-pip install mcp          # exposes MCP tools to Claude Code (dashboard works without it too)
+pip install mcp                              # exposes MCP tools to Claude Code
+pip install -r ../requirements.txt            # WeasyPrint + python-pptx for PDF/PPTX exports
 python run.py sample-export/
 # open the live cockpit:
 #   http://localhost:7700
-# outputs land in outputs/report.json and outputs/report.html
+# outputs land in outputs/:
+#   - report.json (raw analysis data)
+#   - report.html (interactive dashboard)
+#   - report_[domain].pdf (professional PDF report)
+#   - report_[domain].pptx (PowerPoint presentation)
 ```
 
 ## Inside Claude Code
@@ -31,12 +36,13 @@ link-intel-suite/
 |- commands/link-intel.md       the /link-intel command
 |- mcp/server.py                local MCP server + live dashboard host (localhost:7700)
 |- linkintel/analyzer.py        deterministic analysis  <- EXTEND THIS to the full rulebook
+|- linkintel/exporters.py       PDF + PPTX generation (WeasyPrint, python-pptx)
 |- dashboard/                   index.html + app.js (the cockpit)
 |- scripts/export-transcript.sh saves your session transcript to agent-log.md (if available)
 |- run.py                       headless runner (the grader's entry point)
 |- rulebook.md                  exact analysis definitions
 |- report.schema.json           the report.json output contract
-`- outputs/                     report.json + report.html (generated)
+`- outputs/                     report.json, report.html, report_[domain].pdf, report_[domain].pptx (generated)
 ```
 
 ## The sample export (`../sample-export/`)
@@ -46,6 +52,14 @@ A real Screaming Frog crawl of nmgtechnologies.com:
   Follow, Link Position, Link Path, ...).
 - `all_outlinks.csv`, `all_anchor_text.csv` - outbound links and anchor text.
 - `page text/` - full body text per page (URL-encoded filenames).
+
+## Export formats
+Reports are now generated in three formats:
+- **report.html** - Interactive dashboard (live preview in cockpit)
+- **report_[domain].pdf** - Professional PDF report (print-ready, page breaks, metrics cards)
+- **report_[domain].pptx** - PowerPoint presentation (8+ slides with styled content)
+
+See [../EXPORTERS.md](../EXPORTERS.md) for full export documentation and customization.
 
 ## Your job
 1. **Complete `linkintel/analyzer.py`** to the full `rulebook.md`: finish the anchor classes,
